@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<time.h>
+
+
+int main() {
+      int X, Y, temp;
+        X = 22;
+        Y = 7;
+	
+      temp = X;
+      X = Y;
+      Y = temp;
+      printf("\n First Number After swapping = %d\n", X);
+      printf("Second Number After swapping = %d", Y);
+      return 0;
+}

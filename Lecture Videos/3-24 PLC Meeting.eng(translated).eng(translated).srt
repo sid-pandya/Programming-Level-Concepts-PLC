@@ -1,0 +1,7324 @@
+﻿1
+00:00:02,399 --> 00:00:04,240
+good morning everybody can you hear me
+
+2
+00:00:04,240 --> 00:00:06,080
+okay
+
+3
+00:00:06,080 --> 00:00:07,839
+i just need one person to confirm that
+
+4
+00:00:07,839 --> 00:00:09,519
+they can hear me okay good thank you
+
+5
+00:00:09,519 --> 00:00:10,480
+chris
+
+6
+00:00:10,480 --> 00:00:14,080
+thank you um so i am actually in
+
+7
+00:00:14,080 --> 00:00:18,080
+uh the csu east bay uh in a classroom
+
+8
+00:00:18,080 --> 00:00:19,920
+i don't know if i could i don't have two
+
+9
+00:00:19,920 --> 00:00:21,680
+cameras on this computer so i can't show
+
+10
+00:00:21,680 --> 00:00:24,000
+you so you're looking at the backdrop
+
+11
+00:00:24,000 --> 00:00:26,560
+of uh one of the classrooms i guess
+
+12
+00:00:26,560 --> 00:00:28,840
+there's a board i could use here
+
+13
+00:00:28,840 --> 00:00:32,320
+um but for the most part um i'm
+
+14
+00:00:32,320 --> 00:00:34,640
+on campus uh last week we did have some
+
+15
+00:00:34,640 --> 00:00:36,480
+technical difficulties so it was a good
+
+16
+00:00:36,480 --> 00:00:38,160
+idea that we did not have a
+
+17
+00:00:38,160 --> 00:00:39,760
+we did not try to do it well this is
+
+18
+00:00:39,760 --> 00:00:41,440
+better to try not to do a
+
+19
+00:00:41,440 --> 00:00:44,640
+zoom recording last week and because
+
+20
+00:00:44,640 --> 00:00:47,440
+it was uh it was quite difficult
+
+21
+00:00:47,440 --> 00:00:49,280
+actually to get the technology to work
+
+22
+00:00:49,280 --> 00:00:51,120
+uh but this week we're doing okay this
+
+23
+00:00:51,120 --> 00:00:52,719
+week we've got everything functioning
+
+24
+00:00:52,719 --> 00:00:54,000
+properly
+
+25
+00:00:54,000 --> 00:00:57,039
+and uh and back up and running
+
+26
+00:00:57,039 --> 00:01:00,239
+um so if you are in the osd course
+
+27
+00:01:00,239 --> 00:01:02,000
+that follows this one and you want to
+
+28
+00:01:02,000 --> 00:01:03,920
+connect in the classroom i've opened up
+
+29
+00:01:03,920 --> 00:01:06,240
+the side door so you can get in
+
+30
+00:01:06,240 --> 00:01:08,400
+but you have to be also enrolled in the
+
+31
+00:01:08,400 --> 00:01:11,760
+operating systems design course
+
+32
+00:01:11,760 --> 00:01:14,400
+only extended that invite to those
+
+33
+00:01:14,400 --> 00:01:15,680
+students everybody else still needs to
+
+34
+00:01:15,680 --> 00:01:17,680
+connect remotely
+
+35
+00:01:17,680 --> 00:01:20,240
+for the duration of the semester um so
+
+36
+00:01:20,240 --> 00:01:21,840
+before we get started are there any
+
+37
+00:01:21,840 --> 00:01:24,479
+questions comments or concerns
+
+38
+00:01:24,479 --> 00:01:26,000
+before i jump right in i'm going to go
+
+39
+00:01:26,000 --> 00:01:29,600
+over assignment number five today
+
+40
+00:01:31,920 --> 00:01:34,479
+well you can just speak up or you can
+
+41
+00:01:34,479 --> 00:01:35,759
+put it in the chat
+
+42
+00:01:35,759 --> 00:01:40,960
+uh your choice uh let's just see
+
+43
+00:01:42,799 --> 00:01:47,040
+let's see where is my assignment number
+
+44
+00:01:47,040 --> 00:01:50,079
+oh can't hear anybody
+
+45
+00:01:50,079 --> 00:01:52,798
+did someone talk
+
+46
+00:01:53,200 --> 00:01:57,680
+oh yeah oh did you have a question
+
+47
+00:01:57,680 --> 00:02:00,079
+sorry okay no problem it was just a
+
+48
+00:02:00,079 --> 00:02:01,200
+background noise
+
+49
+00:02:01,200 --> 00:02:04,240
+got it just checking
+
+50
+00:02:04,240 --> 00:02:06,320
+um i didn't i did have my speakers
+
+51
+00:02:06,320 --> 00:02:08,399
+turned down so
+
+52
+00:02:08,399 --> 00:02:09,919
+i couldn't hear you anyway one of you
+
+53
+00:02:09,919 --> 00:02:12,000
+are asking a question
+
+54
+00:02:12,000 --> 00:02:15,520
+all right so assignment number five is
+
+55
+00:02:15,520 --> 00:02:17,440
+what you're looking at right now
+
+56
+00:02:17,440 --> 00:02:19,599
+and uh let me just go to the classroom
+
+57
+00:02:19,599 --> 00:02:21,360
+real quick here let me stop this year
+
+58
+00:02:21,360 --> 00:02:22,890
+for a moment
+
+59
+00:02:22,890 --> 00:02:25,040
+[Music]
+
+60
+00:02:25,040 --> 00:02:28,640
+let me find the class
+
+61
+00:02:31,280 --> 00:02:32,959
+i'm using a different computer than i
+
+62
+00:02:32,959 --> 00:02:35,040
+normally use
+
+63
+00:02:35,040 --> 00:02:37,920
+but this one does work let's see it's
+
+64
+00:02:37,920 --> 00:02:40,958
+not my big old imac
+
+65
+00:02:41,200 --> 00:02:44,720
+uh let me share this one
+
+66
+00:02:47,760 --> 00:02:51,840
+moment there we go
+
+67
+00:03:02,319 --> 00:03:04,480
+all right and and we'll have probably a
+
+68
+00:03:04,480 --> 00:03:06,080
+pretty quick meeting today just going
+
+69
+00:03:06,080 --> 00:03:07,360
+over simon number five
+
+70
+00:03:07,360 --> 00:03:10,480
+uh but let's see
+
+71
+00:03:10,640 --> 00:03:12,080
+just given us a little view of the
+
+72
+00:03:12,080 --> 00:03:13,519
+calendar i can probably make this a
+
+73
+00:03:13,519 --> 00:03:15,760
+little bit bigger
+
+74
+00:03:15,760 --> 00:03:18,879
+uh but right now today is the
+
+75
+00:03:18,879 --> 00:03:20,800
+30th i believe no no today's not the
+
+76
+00:03:20,800 --> 00:03:22,640
+30th today is
+
+77
+00:03:22,640 --> 00:03:26,640
+the 24th march 24th uh which is in week
+
+78
+00:03:26,640 --> 00:03:27,920
+10.
+
+79
+00:03:27,920 --> 00:03:29,440
+next week you should know that we have
+
+80
+00:03:29,440 --> 00:03:31,920
+spring break uh so spring break is next
+
+81
+00:03:31,920 --> 00:03:32,319
+week
+
+82
+00:03:32,319 --> 00:03:35,599
+the 3 29 to 4 4
+
+83
+00:03:35,599 --> 00:03:38,239
+and uh there will be no class for the
+
+84
+00:03:38,239 --> 00:03:39,120
+entire week
+
+85
+00:03:39,120 --> 00:03:42,480
+because it's all it's spring break um
+
+86
+00:03:42,480 --> 00:03:44,000
+so we will not have a class meeting next
+
+87
+00:03:44,000 --> 00:03:46,000
+week so enjoy your spring
+
+88
+00:03:46,000 --> 00:03:48,080
+on spring break hopefully the sun will
+
+89
+00:03:48,080 --> 00:03:49,920
+come out it's actually a pretty nice day
+
+90
+00:03:49,920 --> 00:03:51,120
+here in hayward
+
+91
+00:03:51,120 --> 00:03:52,720
+uh but we're supposed to get some like
+
+92
+00:03:52,720 --> 00:03:54,319
+70 degree weather so
+
+93
+00:03:54,319 --> 00:03:56,799
+maybe you'll have some outdoor time
+
+94
+00:03:56,799 --> 00:03:57,920
+hopefully
+
+95
+00:03:57,920 --> 00:04:00,879
+but spring break will happen on 3 29 and
+
+96
+00:04:00,879 --> 00:04:01,760
+uh
+
+97
+00:04:01,760 --> 00:04:03,840
+well the week of 3 29 but you can still
+
+98
+00:04:03,840 --> 00:04:05,439
+turn in assignments and i will still be
+
+99
+00:04:05,439 --> 00:04:06,080
+available
+
+100
+00:04:06,080 --> 00:04:08,000
+so if you have a question you can always
+
+101
+00:04:08,000 --> 00:04:09,519
+send me an email message and i will
+
+102
+00:04:09,519 --> 00:04:10,959
+respond to it
+
+103
+00:04:10,959 --> 00:04:14,879
+i'm not going anywhere obviously so
+
+104
+00:04:14,879 --> 00:04:18,000
+uh so we're right now we're in week 10
+
+105
+00:04:18,000 --> 00:04:22,560
+uh today's uh 3 23 now today's 3 24
+
+106
+00:04:22,560 --> 00:04:26,240
+and uh i've got uh assignment number
+
+107
+00:04:26,240 --> 00:04:27,440
+five
+
+108
+00:04:27,440 --> 00:04:28,400
+that you're going to want to start
+
+109
+00:04:28,400 --> 00:04:30,320
+working on so let me go over that
+
+110
+00:04:30,320 --> 00:04:30,960
+assignment
+
+111
+00:04:30,960 --> 00:04:32,720
+uh you should be continuing and
+
+112
+00:04:32,720 --> 00:04:34,960
+finishing up on assignment number four
+
+113
+00:04:34,960 --> 00:04:37,199
+which is the scheme assignment
+
+114
+00:04:37,199 --> 00:04:40,320
+number five is on object orientation are
+
+115
+00:04:40,320 --> 00:04:42,160
+you in the three one one
+
+116
+00:04:42,160 --> 00:04:46,639
+ah perfecto okay good i just started it
+
+117
+00:04:46,880 --> 00:04:48,479
+i put it up on the screens too if you
+
+118
+00:04:48,479 --> 00:04:50,639
+wanted to but it's completely up to you
+
+119
+00:04:50,639 --> 00:04:52,320
+you can log into zoom as well
+
+120
+00:04:52,320 --> 00:04:56,479
+yeah all right
+
+121
+00:04:56,479 --> 00:04:58,240
+so if you've looked at assignment number
+
+122
+00:04:58,240 --> 00:04:59,680
+five you probably have freaked out
+
+123
+00:04:59,680 --> 00:05:00,320
+already
+
+124
+00:05:00,320 --> 00:05:03,199
+on it uh or maybe you haven't who knows
+
+125
+00:05:03,199 --> 00:05:03,840
+uh
+
+126
+00:05:03,840 --> 00:05:05,280
+so let me tell you a few things about
+
+127
+00:05:05,280 --> 00:05:06,960
+assignment number five first of all
+
+128
+00:05:06,960 --> 00:05:07,759
+there have
+
+129
+00:05:07,759 --> 00:05:10,639
+a shortcut alternative so you don't
+
+130
+00:05:10,639 --> 00:05:14,000
+actually have to do this assignment
+
+131
+00:05:14,000 --> 00:05:15,840
+so let me just repeat that so everybody
+
+132
+00:05:15,840 --> 00:05:17,199
+can hear it
+
+133
+00:05:17,199 --> 00:05:20,320
+you do not need to complete assignment
+
+134
+00:05:20,320 --> 00:05:21,280
+number five
+
+135
+00:05:21,280 --> 00:05:24,400
+as described in this document if you
+
+136
+00:05:24,400 --> 00:05:25,440
+want to complete
+
+137
+00:05:25,440 --> 00:05:27,199
+assignment number five as described in
+
+138
+00:05:27,199 --> 00:05:29,120
+this document more power to you i will
+
+139
+00:05:29,120 --> 00:05:31,120
+be going over it momentarily
+
+140
+00:05:31,120 --> 00:05:33,680
+but i would do the alternative
+
+141
+00:05:33,680 --> 00:05:35,039
+assignment
+
+142
+00:05:35,039 --> 00:05:37,360
+so what's the alternative assignment um
+
+143
+00:05:37,360 --> 00:05:39,360
+the goal of assignment number five
+
+144
+00:05:39,360 --> 00:05:41,919
+was to introduce you to the concept of
+
+145
+00:05:41,919 --> 00:05:44,240
+object orientation
+
+146
+00:05:44,240 --> 00:05:45,759
+so some of you have already taken
+
+147
+00:05:45,759 --> 00:05:47,039
+hopefully an object during the
+
+148
+00:05:47,039 --> 00:05:48,240
+programming course
+
+149
+00:05:48,240 --> 00:05:52,080
+it was a prerequisite for cs311
+
+150
+00:05:52,080 --> 00:05:55,840
+so most likely you have taken one um
+
+151
+00:05:55,840 --> 00:05:57,759
+and so in that class that you took you
+
+152
+00:05:57,759 --> 00:05:59,680
+probably learned c plus plus
+
+153
+00:05:59,680 --> 00:06:02,720
+or maybe java or maybe python
+
+154
+00:06:02,720 --> 00:06:04,960
+object-oriented python so the
+
+155
+00:06:04,960 --> 00:06:06,000
+alternative
+
+156
+00:06:06,000 --> 00:06:08,880
+assignment for number five is that
+
+157
+00:06:08,880 --> 00:06:10,080
+you're going to create
+
+158
+00:06:10,080 --> 00:06:13,680
+two programs the same program
+
+159
+00:06:13,680 --> 00:06:16,800
+but you're going to write it twice in
+
+160
+00:06:16,800 --> 00:06:17,960
+two different
+
+161
+00:06:17,960 --> 00:06:20,720
+object-oriented programming languages
+
+162
+00:06:20,720 --> 00:06:24,080
+and you can recycle one of them
+
+163
+00:06:24,080 --> 00:06:26,400
+so what does this mean and in your c
+
+164
+00:06:26,400 --> 00:06:27,280
+plus plus
+
+165
+00:06:27,280 --> 00:06:30,080
+class or your python class or maybe it
+
+166
+00:06:30,080 --> 00:06:31,840
+was java that you took
+
+167
+00:06:31,840 --> 00:06:34,080
+you wrote something for an assignment
+
+168
+00:06:34,080 --> 00:06:36,240
+maybe it was a fahrenheit the celsius
+
+169
+00:06:36,240 --> 00:06:38,479
+conversion program
+
+170
+00:06:38,479 --> 00:06:40,560
+and maybe it was a to-do list or
+
+171
+00:06:40,560 --> 00:06:42,800
+something he wrote something
+
+172
+00:06:42,800 --> 00:06:45,360
+and it had object orientation as a theme
+
+173
+00:06:45,360 --> 00:06:47,600
+to it for which she wrote a class
+
+174
+00:06:47,600 --> 00:06:51,440
+at least one class object so
+
+175
+00:06:51,440 --> 00:06:54,560
+you can take that program that you wrote
+
+176
+00:06:54,560 --> 00:06:57,280
+and write it again in another
+
+177
+00:06:57,280 --> 00:06:59,280
+object-oriented programming language a
+
+178
+00:06:59,280 --> 00:07:00,960
+different one
+
+179
+00:07:00,960 --> 00:07:03,120
+so it has to be a little bit you know
+
+180
+00:07:03,120 --> 00:07:04,960
+above hello world
+
+181
+00:07:04,960 --> 00:07:06,479
+like i don't want you to write hello
+
+182
+00:07:06,479 --> 00:07:09,039
+world twice that would be too easy
+
+183
+00:07:09,039 --> 00:07:10,960
+um you don't have to write the same
+
+184
+00:07:10,960 --> 00:07:13,280
+program twice if you've already written
+
+185
+00:07:13,280 --> 00:07:15,039
+it one time
+
+186
+00:07:15,039 --> 00:07:17,039
+and you can use any object or in your
+
+187
+00:07:17,039 --> 00:07:18,960
+programming languages
+
+188
+00:07:18,960 --> 00:07:21,120
+language that you want as long as you're
+
+189
+00:07:21,120 --> 00:07:23,360
+creating a class
+
+190
+00:07:23,360 --> 00:07:26,960
+so you need to create at least one class
+
+191
+00:07:26,960 --> 00:07:29,599
+and you do the same theme the same
+
+192
+00:07:29,599 --> 00:07:30,080
+program
+
+193
+00:07:30,080 --> 00:07:32,400
+or the same theme you do it twice in two
+
+194
+00:07:32,400 --> 00:07:33,599
+different languages
+
+195
+00:07:33,599 --> 00:07:35,520
+so you could do like java and c plus
+
+196
+00:07:35,520 --> 00:07:37,120
+plus or you could do
+
+197
+00:07:37,120 --> 00:07:40,560
+python and java or c plus plus and c
+
+198
+00:07:40,560 --> 00:07:43,199
+sharp or object any language that you
+
+199
+00:07:43,199 --> 00:07:45,039
+want it does not have to be a language
+
+200
+00:07:45,039 --> 00:07:46,960
+that is taught in this course
+
+201
+00:07:46,960 --> 00:07:48,800
+um because we're not really teaching
+
+202
+00:07:48,800 --> 00:07:50,560
+object-oriented language in this course
+
+203
+00:07:50,560 --> 00:07:52,800
+there's a separate class called
+
+204
+00:07:52,800 --> 00:07:55,280
+object-oriented programming
+
+205
+00:07:55,280 --> 00:07:57,520
+actually now it's with 401 some people
+
+206
+00:07:57,520 --> 00:07:58,879
+might be taking the
+
+207
+00:07:58,879 --> 00:08:02,000
+software engineering 1 which is 401 and
+
+208
+00:08:02,000 --> 00:08:03,440
+in there you're learning java
+
+209
+00:08:03,440 --> 00:08:05,280
+and you're practicing object orientation
+
+210
+00:08:05,280 --> 00:08:06,800
+in java
+
+211
+00:08:06,800 --> 00:08:09,840
+you might have done a very similar type
+
+212
+00:08:09,840 --> 00:08:12,080
+of class in c plus plus
+
+213
+00:08:12,080 --> 00:08:13,360
+you don't actually have had to have
+
+214
+00:08:13,360 --> 00:08:15,199
+taken a class in it either
+
+215
+00:08:15,199 --> 00:08:17,599
+you can experiment and explore brand new
+
+216
+00:08:17,599 --> 00:08:19,199
+languages on your own
+
+217
+00:08:19,199 --> 00:08:21,560
+you just need to pick two
+
+218
+00:08:21,560 --> 00:08:25,039
+object-oriented programming languages
+
+219
+00:08:25,039 --> 00:08:28,639
+write the same program twice and so in
+
+220
+00:08:28,639 --> 00:08:30,720
+doing so you don't have to provide
+
+221
+00:08:30,720 --> 00:08:33,839
+any documentation uh which means you
+
+222
+00:08:33,839 --> 00:08:35,519
+don't have to
+
+223
+00:08:35,519 --> 00:08:39,599
+do any write-up or provide any
+
+224
+00:08:39,599 --> 00:08:42,320
+scripts or text files or comparison or
+
+225
+00:08:42,320 --> 00:08:43,919
+contrast or anything
+
+226
+00:08:43,919 --> 00:08:45,760
+while you're writing the program and
+
+227
+00:08:45,760 --> 00:08:48,320
+performing the programming tasks
+
+228
+00:08:48,320 --> 00:08:50,080
+you will naturally discover the
+
+229
+00:08:50,080 --> 00:08:52,640
+differences in how each one of these two
+
+230
+00:08:52,640 --> 00:08:55,920
+languages varies on its own
+
+231
+00:08:55,920 --> 00:08:59,440
+so before i start in with the assignment
+
+232
+00:08:59,440 --> 00:09:02,800
+as described do we have and that
+
+233
+00:09:02,800 --> 00:09:04,720
+is not what i just what i just closed
+
+234
+00:09:04,720 --> 00:09:06,080
+was not yes
+
+235
+00:09:06,080 --> 00:09:08,640
+not what i just described do we have any
+
+236
+00:09:08,640 --> 00:09:11,519
+questions about the alternative
+
+237
+00:09:11,519 --> 00:09:16,320
+the alternate assignment number five
+
+238
+00:09:18,720 --> 00:09:21,440
+would you like us to um like add
+
+239
+00:09:21,440 --> 00:09:23,200
+descriptions of like the differences
+
+240
+00:09:23,200 --> 00:09:23,760
+between
+
+241
+00:09:23,760 --> 00:09:26,800
+our both programs
+
+242
+00:09:26,959 --> 00:09:29,279
+you can if you'd like but you don't have
+
+243
+00:09:29,279 --> 00:09:31,200
+to and if you're going to do that i
+
+244
+00:09:31,200 --> 00:09:33,279
+would just put comments in the code
+
+245
+00:09:33,279 --> 00:09:37,120
+okay you know like in like for example
+
+246
+00:09:37,120 --> 00:09:40,480
+in c plus plus uh there's a constructor
+
+247
+00:09:40,480 --> 00:09:43,120
+deconstructor and a copy constructor
+
+248
+00:09:43,120 --> 00:09:47,519
+in java there's only a constructor
+
+249
+00:09:48,160 --> 00:09:49,680
+actually that's true there's only a
+
+250
+00:09:49,680 --> 00:09:51,360
+constructor
+
+251
+00:09:51,360 --> 00:09:54,320
+um c plus plus there's operator
+
+252
+00:09:54,320 --> 00:09:55,839
+overloading
+
+253
+00:09:55,839 --> 00:09:58,800
+there's um actually c plus plus supports
+
+254
+00:09:58,800 --> 00:09:59,760
+multiple
+
+255
+00:09:59,760 --> 00:10:00,800
+and we're talking about object
+
+256
+00:10:00,800 --> 00:10:02,320
+orientation today so this is part of the
+
+257
+00:10:02,320 --> 00:10:04,640
+lecture too um
+
+258
+00:10:04,640 --> 00:10:06,160
+and i'm just gonna go through the the
+
+259
+00:10:06,160 --> 00:10:07,920
+differences in a few minutes but
+
+260
+00:10:07,920 --> 00:10:09,760
+just to give to continue with what i was
+
+261
+00:10:09,760 --> 00:10:11,920
+saying in c plus plus
+
+262
+00:10:11,920 --> 00:10:14,560
+um we have multiple line inheritance
+
+263
+00:10:14,560 --> 00:10:15,360
+like you can take
+
+264
+00:10:15,360 --> 00:10:19,279
+one class and inherit like five other
+
+265
+00:10:19,279 --> 00:10:20,399
+classes
+
+266
+00:10:20,399 --> 00:10:23,040
+and put them all into one class in java
+
+267
+00:10:23,040 --> 00:10:25,200
+there's a single line inheritance
+
+268
+00:10:25,200 --> 00:10:27,440
+but java also supports abstract and
+
+269
+00:10:27,440 --> 00:10:29,360
+interface classes
+
+270
+00:10:29,360 --> 00:10:33,040
+sc plus plus doesn't support python has
+
+271
+00:10:33,040 --> 00:10:35,920
+a single line inheritance
+
+272
+00:10:35,920 --> 00:10:39,600
+ish doesn't have interface or abstract
+
+273
+00:10:39,600 --> 00:10:42,640
+classes but supports the concept
+
+274
+00:10:42,640 --> 00:10:44,160
+the languages themselves although
+
+275
+00:10:44,160 --> 00:10:46,000
+they're all called object-oriented
+
+276
+00:10:46,000 --> 00:10:48,720
+programming languages they all support
+
+277
+00:10:48,720 --> 00:10:50,079
+object orientation
+
+278
+00:10:50,079 --> 00:10:52,880
+in different ways and the purpose of
+
+279
+00:10:52,880 --> 00:10:53,360
+writing
+
+280
+00:10:53,360 --> 00:10:56,800
+this assignment is really to explore how
+
+281
+00:10:56,800 --> 00:10:58,480
+these languages are different
+
+282
+00:10:58,480 --> 00:11:00,240
+in terms of their interpretation of
+
+283
+00:11:00,240 --> 00:11:01,600
+object orientation
+
+284
+00:11:01,600 --> 00:11:04,800
+if if it helps your understanding to
+
+285
+00:11:04,800 --> 00:11:05,920
+think out loud
+
+286
+00:11:05,920 --> 00:11:08,560
+and to write comments in the code about
+
+287
+00:11:08,560 --> 00:11:10,560
+the differences
+
+288
+00:11:10,560 --> 00:11:12,320
+that would be fantastic it's not
+
+289
+00:11:12,320 --> 00:11:14,240
+required because you're gonna i'm gonna
+
+290
+00:11:14,240 --> 00:11:15,279
+know that you know it
+
+291
+00:11:15,279 --> 00:11:16,880
+because you're writing the same program
+
+292
+00:11:16,880 --> 00:11:19,120
+twice and you're gonna know that
+
+293
+00:11:19,120 --> 00:11:21,200
+you know you can't do the same thing and
+
+294
+00:11:21,200 --> 00:11:23,680
+the syntax is different
+
+295
+00:11:23,680 --> 00:11:25,200
+the semantics are different and the way
+
+296
+00:11:25,200 --> 00:11:26,959
+the program runs is completely different
+
+297
+00:11:26,959 --> 00:11:27,839
+and you're going to just
+
+298
+00:11:27,839 --> 00:11:29,839
+notice the differences yourself just by
+
+299
+00:11:29,839 --> 00:11:31,760
+writing it
+
+300
+00:11:31,760 --> 00:11:33,600
+try to pick something that demonstrates
+
+301
+00:11:33,600 --> 00:11:35,360
+some of the differences which is why i
+
+302
+00:11:35,360 --> 00:11:37,519
+don't want you to do like a hello world
+
+303
+00:11:37,519 --> 00:11:40,640
+i want you to do something where it
+
+304
+00:11:40,640 --> 00:11:41,600
+shows
+
+305
+00:11:41,600 --> 00:11:43,680
+like maybe do a maybe do one of your
+
+306
+00:11:43,680 --> 00:11:44,720
+more advanced c
+
+307
+00:11:44,720 --> 00:11:47,200
+plus plus uh programs if you're going to
+
+308
+00:11:47,200 --> 00:11:48,160
+do it that way
+
+309
+00:11:48,160 --> 00:11:50,399
+that takes and inherits one class from
+
+310
+00:11:50,399 --> 00:11:51,680
+another
+
+311
+00:11:51,680 --> 00:11:54,839
+and then show how it could be done in
+
+312
+00:11:54,839 --> 00:11:56,800
+java
+
+313
+00:11:56,800 --> 00:11:59,680
+so what you're going to turn in is the
+
+314
+00:11:59,680 --> 00:12:00,720
+let's say you did
+
+315
+00:12:00,720 --> 00:12:03,519
+java and let's say you did python you're
+
+316
+00:12:03,519 --> 00:12:04,480
+going to turn in a
+
+317
+00:12:04,480 --> 00:12:07,839
+java file and a dot py file i don't need
+
+318
+00:12:07,839 --> 00:12:10,880
+to see the executable code
+
+319
+00:12:10,880 --> 00:12:13,920
+and you can make them as you know two
+
+320
+00:12:13,920 --> 00:12:14,800
+separate
+
+321
+00:12:14,800 --> 00:12:16,959
+you can upload multiple files for your
+
+322
+00:12:16,959 --> 00:12:17,920
+assignments
+
+323
+00:12:17,920 --> 00:12:20,720
+you can put them in a zip file and just
+
+324
+00:12:20,720 --> 00:12:22,079
+upload one file
+
+325
+00:12:22,079 --> 00:12:25,519
+or you can attach multiple pys or
+
+326
+00:12:25,519 --> 00:12:27,519
+multiple java multiple c plus
+
+327
+00:12:27,519 --> 00:12:30,880
+files and submit them all for the
+
+328
+00:12:30,880 --> 00:12:32,639
+assignment there's no explanation that
+
+329
+00:12:32,639 --> 00:12:34,000
+needs to be done
+
+330
+00:12:34,000 --> 00:12:35,839
+when i looked at the grading for this
+
+331
+00:12:35,839 --> 00:12:37,519
+and i take a look at the files i'm going
+
+332
+00:12:37,519 --> 00:12:38,320
+to see
+
+333
+00:12:38,320 --> 00:12:40,800
+hopefully i'm going to see two programs
+
+334
+00:12:40,800 --> 00:12:42,800
+in two different languages
+
+335
+00:12:42,800 --> 00:12:45,360
+for this and if i do have a question i
+
+336
+00:12:45,360 --> 00:12:46,399
+will ask you
+
+337
+00:12:46,399 --> 00:12:49,279
+um you want you can if you want put it
+
+338
+00:12:49,279 --> 00:12:50,160
+all into
+
+339
+00:12:50,160 --> 00:12:51,760
+copy and paste and stick it onto a word
+
+340
+00:12:51,760 --> 00:12:53,839
+file i've got some creative submissions
+
+341
+00:12:53,839 --> 00:12:55,040
+in this class
+
+342
+00:12:55,040 --> 00:12:58,399
+um but you just
+
+343
+00:12:58,399 --> 00:13:00,079
+want to submit the files i don't need a
+
+344
+00:13:00,079 --> 00:13:02,639
+word file that describes anything
+
+345
+00:13:02,639 --> 00:13:04,639
+i don't need any documentation i don't
+
+346
+00:13:04,639 --> 00:13:06,160
+even need you to tell me you're doing
+
+347
+00:13:06,160 --> 00:13:07,360
+the alternative
+
+348
+00:13:07,360 --> 00:13:10,560
+i will notice it that was a very good
+
+349
+00:13:10,560 --> 00:13:12,000
+question does anybody have any other
+
+350
+00:13:12,000 --> 00:13:13,760
+questions about the
+
+351
+00:13:13,760 --> 00:13:18,639
+alternative the alternate number five
+
+352
+00:13:18,639 --> 00:13:20,560
+so there's your value add for actually
+
+353
+00:13:20,560 --> 00:13:23,040
+showing and participating and
+
+354
+00:13:23,040 --> 00:13:25,839
+uh watching or watching the zoom
+
+355
+00:13:25,839 --> 00:13:26,959
+recording
+
+356
+00:13:26,959 --> 00:13:30,079
+you know about all of the um
+
+357
+00:13:30,079 --> 00:13:31,920
+different ways that you can do something
+
+358
+00:13:31,920 --> 00:13:34,240
+without having to do it the hard way
+
+359
+00:13:34,240 --> 00:13:36,399
+okay so while you're while i'm going
+
+360
+00:13:36,399 --> 00:13:37,839
+over assignment number five which is
+
+361
+00:13:37,839 --> 00:13:40,639
+what's going to be next i will you know
+
+362
+00:13:40,639 --> 00:13:40,959
+think
+
+363
+00:13:40,959 --> 00:13:43,040
+think of some questions you might have
+
+364
+00:13:43,040 --> 00:13:44,000
+if you'd like
+
+365
+00:13:44,000 --> 00:13:46,399
+and i'll pause for questions at the end
+
+366
+00:13:46,399 --> 00:13:47,040
+as well
+
+367
+00:13:47,040 --> 00:13:50,800
+of this here okay
+
+368
+00:13:50,800 --> 00:13:53,279
+i'm not discouraging you from doing this
+
+369
+00:13:53,279 --> 00:13:54,480
+assignment
+
+370
+00:13:54,480 --> 00:13:57,760
+however i'll tell you why it's in here
+
+371
+00:13:57,760 --> 00:14:00,399
+and i'll tell you what it's about and
+
+372
+00:14:00,399 --> 00:14:01,519
+i'll give you
+
+373
+00:14:01,519 --> 00:14:04,800
+some guidelines on it whether you do it
+
+374
+00:14:04,800 --> 00:14:05,680
+or not
+
+375
+00:14:05,680 --> 00:14:08,560
+completely up to you i usually have one
+
+376
+00:14:08,560 --> 00:14:09,199
+to five
+
+377
+00:14:09,199 --> 00:14:13,199
+students who actually do it um
+
+378
+00:14:13,199 --> 00:14:15,120
+and i will tell you if you do it it'd
+
+379
+00:14:15,120 --> 00:14:16,560
+probably be a worthwhile learning
+
+380
+00:14:16,560 --> 00:14:17,600
+experience
+
+381
+00:14:17,600 --> 00:14:18,959
+but i don't know how much time you have
+
+382
+00:14:18,959 --> 00:14:21,120
+in your schedule and i don't know
+
+383
+00:14:21,120 --> 00:14:23,120
+if it's a worthwhile experience that
+
+384
+00:14:23,120 --> 00:14:24,639
+you'll do now
+
+385
+00:14:24,639 --> 00:14:26,079
+or whether or not you'll just do it
+
+386
+00:14:26,079 --> 00:14:29,040
+later maybe if you want to for fun
+
+387
+00:14:29,040 --> 00:14:31,760
+i would only do it if you have a lot of
+
+388
+00:14:31,760 --> 00:14:33,440
+time available
+
+389
+00:14:33,440 --> 00:14:37,600
+and you want to really learn this stuff
+
+390
+00:14:37,600 --> 00:14:39,040
+it'll definitely teach you the
+
+391
+00:14:39,040 --> 00:14:40,720
+differences between
+
+392
+00:14:40,720 --> 00:14:44,160
+java and c plus plus the reason why this
+
+393
+00:14:44,160 --> 00:14:45,839
+is in here is because of the timing of
+
+394
+00:14:45,839 --> 00:14:47,040
+the assignment
+
+395
+00:14:47,040 --> 00:14:50,720
+it is the first assignment that's um
+
+396
+00:14:50,720 --> 00:14:53,760
+due actually or presented after the
+
+397
+00:14:53,760 --> 00:14:54,880
+midterm
+
+398
+00:14:54,880 --> 00:14:57,199
+and and usually when the face-to-face
+
+399
+00:14:57,199 --> 00:14:58,959
+classes were running around the midterm
+
+400
+00:14:58,959 --> 00:14:59,360
+and
+
+401
+00:14:59,360 --> 00:15:01,760
+really around spring break i lose
+
+402
+00:15:01,760 --> 00:15:02,880
+everybody
+
+403
+00:15:02,880 --> 00:15:05,920
+everybody disappears and then they show
+
+404
+00:15:05,920 --> 00:15:08,560
+up a couple weeks later
+
+405
+00:15:08,560 --> 00:15:10,959
+trying to catch up and so they don't
+
+406
+00:15:10,959 --> 00:15:12,000
+bother
+
+407
+00:15:12,000 --> 00:15:13,360
+going through the course materials they
+
+408
+00:15:13,360 --> 00:15:16,160
+don't bother listening to any of the
+
+409
+00:15:16,160 --> 00:15:18,240
+stuff they missed or you know back in
+
+410
+00:15:18,240 --> 00:15:19,760
+the face-to-face class they don't even
+
+411
+00:15:19,760 --> 00:15:20,480
+bother
+
+412
+00:15:20,480 --> 00:15:22,720
+figuring out how to catch up they just
+
+413
+00:15:22,720 --> 00:15:23,839
+pick up where they left off and they
+
+414
+00:15:23,839 --> 00:15:26,160
+take like three or four weeks off until
+
+415
+00:15:26,160 --> 00:15:27,360
+the end of the semester
+
+416
+00:15:27,360 --> 00:15:29,360
+so when they go back to go pick things
+
+417
+00:15:29,360 --> 00:15:30,720
+up they look at this assignment
+
+418
+00:15:30,720 --> 00:15:32,880
+and they don't know about the alternate
+
+419
+00:15:32,880 --> 00:15:34,399
+one i do it every term
+
+420
+00:15:34,399 --> 00:15:36,160
+they don't know about the alternate
+
+421
+00:15:36,160 --> 00:15:38,000
+instead they do this assignment
+
+422
+00:15:38,000 --> 00:15:40,880
+and this is the for five points this is
+
+423
+00:15:40,880 --> 00:15:43,279
+the worst assignment on earth
+
+424
+00:15:43,279 --> 00:15:45,920
+so as i go through it just think you do
+
+425
+00:15:45,920 --> 00:15:47,440
+not have to do this
+
+426
+00:15:47,440 --> 00:15:49,279
+but there will be people that will do
+
+427
+00:15:49,279 --> 00:15:50,720
+this because they don't
+
+428
+00:15:50,720 --> 00:15:53,920
+know that there's a substitution that
+
+429
+00:15:53,920 --> 00:15:55,519
+you can do instead
+
+430
+00:15:55,519 --> 00:15:58,800
+okay um and it's in there to reward you
+
+431
+00:15:58,800 --> 00:16:00,720
+for actually participating in the class
+
+432
+00:16:00,720 --> 00:16:03,199
+and knowing that there is a substitution
+
+433
+00:16:03,199 --> 00:16:06,480
+and plus this is just complicated anyway
+
+434
+00:16:06,480 --> 00:16:08,000
+you're going to compare if you do this
+
+435
+00:16:08,000 --> 00:16:09,440
+assignment you're going to compare java
+
+436
+00:16:09,440 --> 00:16:10,079
+and c
+
+437
+00:16:10,079 --> 00:16:12,160
+plus you're going to look at the text
+
+438
+00:16:12,160 --> 00:16:13,519
+file io
+
+439
+00:16:13,519 --> 00:16:14,639
+you're going to look at the support for
+
+440
+00:16:14,639 --> 00:16:16,639
+data abstraction class libraries random
+
+441
+00:16:16,639 --> 00:16:18,160
+number generator exception handling
+
+442
+00:16:18,160 --> 00:16:20,160
+string manipulation dynamic storage and
+
+443
+00:16:20,160 --> 00:16:22,240
+all a bunch of other stuff
+
+444
+00:16:22,240 --> 00:16:24,800
+okay this assignment is actually the
+
+445
+00:16:24,800 --> 00:16:25,440
+second
+
+446
+00:16:25,440 --> 00:16:27,920
+stage of compilation and it involves
+
+447
+00:16:27,920 --> 00:16:29,519
+semantic analysis
+
+448
+00:16:29,519 --> 00:16:31,199
+so if you remember assignment number one
+
+449
+00:16:31,199 --> 00:16:34,480
+in the course you did syntax analysis
+
+450
+00:16:34,480 --> 00:16:37,199
+you wrote a lexical analyzer that took
+
+451
+00:16:37,199 --> 00:16:39,199
+and read in a file
+
+452
+00:16:39,199 --> 00:16:42,320
+and that file parsed it out or
+
+453
+00:16:42,320 --> 00:16:45,120
+you know kind of alexa like syllable
+
+454
+00:16:45,120 --> 00:16:46,959
+lexical analyzed it out
+
+455
+00:16:46,959 --> 00:16:49,600
+made into lexa means that related to
+
+456
+00:16:49,600 --> 00:16:50,959
+tokens and you
+
+457
+00:16:50,959 --> 00:16:52,959
+put these tokens into different token
+
+458
+00:16:52,959 --> 00:16:54,240
+categories
+
+459
+00:16:54,240 --> 00:16:57,440
+and you
+
+460
+00:16:57,440 --> 00:17:01,680
+created created a
+
+461
+00:17:01,680 --> 00:17:03,920
+symbol table essentially as the output
+
+462
+00:17:03,920 --> 00:17:07,039
+so this one takes the symbol table
+
+463
+00:17:07,039 --> 00:17:09,280
+and creates random it says ran you're
+
+464
+00:17:09,280 --> 00:17:10,640
+going to create a random sentence
+
+465
+00:17:10,640 --> 00:17:11,839
+generator
+
+466
+00:17:11,839 --> 00:17:13,760
+and it's going to be to write notes
+
+467
+00:17:13,760 --> 00:17:16,559
+excuse notes
+
+468
+00:17:16,839 --> 00:17:19,599
+so we're down the professor's patients
+
+469
+00:17:19,599 --> 00:17:21,280
+well here's i need an extension because
+
+470
+00:17:21,280 --> 00:17:23,359
+these are some examples of the tactics
+
+471
+00:17:23,359 --> 00:17:26,640
+of these excuses complete innocence
+
+472
+00:17:26,640 --> 00:17:29,039
+honesty so you're going to have and
+
+473
+00:17:29,039 --> 00:17:29,760
+you're going to have to put this
+
+474
+00:17:29,760 --> 00:17:31,600
+together yourself
+
+475
+00:17:31,600 --> 00:17:34,799
+grammar so there'll be a grammar file
+
+476
+00:17:34,799 --> 00:17:37,200
+there'll be a list of or symbol table
+
+477
+00:17:37,200 --> 00:17:38,400
+that you have to create
+
+478
+00:17:38,400 --> 00:17:40,400
+of tokens and you're going to make
+
+479
+00:17:40,400 --> 00:17:43,200
+proper sentences and so instead of doing
+
+480
+00:17:43,200 --> 00:17:46,400
+a gener a recognizer
+
+481
+00:17:46,400 --> 00:17:48,240
+like a compiler does you're going to do
+
+482
+00:17:48,240 --> 00:17:49,520
+a random sentence
+
+483
+00:17:49,520 --> 00:17:51,280
+generator where you give it a bunch of
+
+484
+00:17:51,280 --> 00:17:53,120
+words you give it a bunch of sentence
+
+485
+00:17:53,120 --> 00:17:54,240
+types
+
+486
+00:17:54,240 --> 00:17:56,240
+and it produces sentences like for
+
+487
+00:17:56,240 --> 00:17:58,480
+example i'm sorry i can't turn in my
+
+488
+00:17:58,480 --> 00:18:00,000
+assignment my dog ate my
+
+489
+00:18:00,000 --> 00:18:03,440
+homework or you may it may put together
+
+490
+00:18:03,440 --> 00:18:04,559
+i'm sorry
+
+491
+00:18:04,559 --> 00:18:07,760
+my assignment is going to be late my cat
+
+492
+00:18:07,760 --> 00:18:11,120
+uh scratched up my homework
+
+493
+00:18:11,120 --> 00:18:15,280
+or i'm sorry or i'm not sorry or
+
+494
+00:18:15,280 --> 00:18:18,799
+pardon me uh my assignment's going to be
+
+495
+00:18:18,799 --> 00:18:20,400
+delayed by one day
+
+496
+00:18:20,400 --> 00:18:23,280
+because blah blah blah and so these
+
+497
+00:18:23,280 --> 00:18:25,840
+sentences would be randomly generated as
+
+498
+00:18:25,840 --> 00:18:27,520
+excuses
+
+499
+00:18:27,520 --> 00:18:29,200
+uh you don't have to use homework you
+
+500
+00:18:29,200 --> 00:18:31,120
+can use other things
+
+501
+00:18:31,120 --> 00:18:34,240
+the grammar can be an object a verb for
+
+502
+00:18:34,240 --> 00:18:36,880
+example the big yellow flowers
+
+503
+00:18:36,880 --> 00:18:40,320
+verb tonight a big yellow flower sign
+
+504
+00:18:40,320 --> 00:18:40,640
+ver
+
+505
+00:18:40,640 --> 00:18:43,840
+adverb tonight
+
+506
+00:18:44,160 --> 00:18:47,360
+so in your random sentence generator
+
+507
+00:18:47,360 --> 00:18:48,480
+classes
+
+508
+00:18:48,480 --> 00:18:51,120
+you're going to demonstrate if you
+
+509
+00:18:51,120 --> 00:18:53,120
+choose to do this
+
+510
+00:18:53,120 --> 00:18:54,320
+you're going to write two programs one
+
+511
+00:18:54,320 --> 00:18:55,840
+in java and one c plus you can write the
+
+512
+00:18:55,840 --> 00:18:56,400
+program
+
+513
+00:18:56,400 --> 00:18:59,039
+twice in two different languages it's
+
+514
+00:18:59,039 --> 00:18:59,440
+gonna
+
+515
+00:18:59,440 --> 00:19:02,400
+create these random sentences for you
+
+516
+00:19:02,400 --> 00:19:03,679
+you're gonna have a constructor in both
+
+517
+00:19:03,679 --> 00:19:04,960
+languages you're gonna have a random
+
+518
+00:19:04,960 --> 00:19:06,000
+sentence
+
+519
+00:19:06,000 --> 00:19:08,240
+uh method that's gonna return a random
+
+520
+00:19:08,240 --> 00:19:11,760
+sentence generated from the grammar
+
+521
+00:19:11,760 --> 00:19:13,679
+on the java end of the deal you're going
+
+522
+00:19:13,679 --> 00:19:14,960
+to do a two string
+
+523
+00:19:14,960 --> 00:19:16,320
+you're going to overload the two string
+
+524
+00:19:16,320 --> 00:19:18,160
+operator on the c plus plus you're going
+
+525
+00:19:18,160 --> 00:19:19,440
+to overload the
+
+526
+00:19:19,440 --> 00:19:21,679
+the c out operator and you're going to
+
+527
+00:19:21,679 --> 00:19:22,880
+do a distractor
+
+528
+00:19:22,880 --> 00:19:24,559
+to delete the dynamic memory that's
+
+529
+00:19:24,559 --> 00:19:26,000
+allocated as well
+
+530
+00:19:26,000 --> 00:19:27,600
+but you don't have to do the destructor
+
+531
+00:19:27,600 --> 00:19:29,440
+of course because there is no destructor
+
+532
+00:19:29,440 --> 00:19:31,280
+on the java which means you're going to
+
+533
+00:19:31,280 --> 00:19:32,799
+work with dynamic memory
+
+534
+00:19:32,799 --> 00:19:36,559
+on the c plus side of the fence
+
+535
+00:19:37,120 --> 00:19:40,000
+so you might use some library adts to
+
+536
+00:19:40,000 --> 00:19:41,840
+store manipulate the various components
+
+537
+00:19:41,840 --> 00:19:42,880
+of the grammar
+
+538
+00:19:42,880 --> 00:19:46,480
+and see in c plus you might uh
+
+539
+00:19:46,480 --> 00:19:50,400
+you know be storing symbol tables
+
+540
+00:19:50,400 --> 00:19:52,799
+or buffered information you're going to
+
+541
+00:19:52,799 --> 00:19:54,799
+expand the grammar to have a start and a
+
+542
+00:19:54,799 --> 00:19:56,720
+termination symbol
+
+543
+00:19:56,720 --> 00:19:58,000
+and pretty much what you're going to do
+
+544
+00:19:58,000 --> 00:20:00,960
+is you're going to match up
+
+545
+00:20:00,960 --> 00:20:03,520
+different parts of the second stage of
+
+546
+00:20:03,520 --> 00:20:05,600
+compilation
+
+547
+00:20:05,600 --> 00:20:08,799
+and maybe even you know generate
+
+548
+00:20:08,799 --> 00:20:12,159
+grammar abstract syntax trees or
+
+549
+00:20:12,159 --> 00:20:15,039
+grammar trees um to show the inputs or
+
+550
+00:20:15,039 --> 00:20:17,280
+to show the outputs or to show any part
+
+551
+00:20:17,280 --> 00:20:18,159
+of it
+
+552
+00:20:18,159 --> 00:20:21,039
+so it's very complicated so your program
+
+553
+00:20:21,039 --> 00:20:22,960
+should take one command line argument
+
+554
+00:20:22,960 --> 00:20:25,360
+which is the name of the grammar file
+
+555
+00:20:25,360 --> 00:20:26,640
+and then
+
+556
+00:20:26,640 --> 00:20:29,120
+uh an error message should occur if the
+
+557
+00:20:29,120 --> 00:20:30,240
+file's not found
+
+558
+00:20:30,240 --> 00:20:32,000
+and the output is that the program will
+
+559
+00:20:32,000 --> 00:20:33,760
+print out the grammar rules and three
+
+560
+00:20:33,760 --> 00:20:35,440
+random sentences from the grammar and
+
+561
+00:20:35,440 --> 00:20:37,360
+then exit
+
+562
+00:20:37,360 --> 00:20:41,440
+so long story short
+
+563
+00:20:41,440 --> 00:20:44,960
+the assignment is interesting
+
+564
+00:20:44,960 --> 00:20:47,840
+but it's a lot of work so if you've
+
+565
+00:20:47,840 --> 00:20:49,679
+already created something
+
+566
+00:20:49,679 --> 00:20:52,400
+in a programming language of your choice
+
+567
+00:20:52,400 --> 00:20:54,559
+that's object oriented
+
+568
+00:20:54,559 --> 00:20:57,200
+like c or c plus plus it would be much
+
+569
+00:20:57,200 --> 00:20:58,960
+easier i believe
+
+570
+00:20:58,960 --> 00:21:00,960
+just to write the same program again in
+
+571
+00:21:00,960 --> 00:21:02,480
+a different language
+
+572
+00:21:02,480 --> 00:21:05,679
+okay so if you do the alternate make
+
+573
+00:21:05,679 --> 00:21:06,640
+sure
+
+574
+00:21:06,640 --> 00:21:10,880
+that you actually have two separate
+
+575
+00:21:10,880 --> 00:21:13,679
+you have two separate languages okay so
+
+576
+00:21:13,679 --> 00:21:14,240
+we have a
+
+577
+00:21:14,240 --> 00:21:16,799
+question in the chat says can be a good
+
+578
+00:21:16,799 --> 00:21:18,720
+assignment to put on your get
+
+579
+00:21:18,720 --> 00:21:21,600
+yes it could be actually it could be
+
+580
+00:21:21,600 --> 00:21:22,480
+very good
+
+581
+00:21:22,480 --> 00:21:25,520
+uh if you do that assignment
+
+582
+00:21:25,520 --> 00:21:28,559
+and if you're thinking about taking
+
+583
+00:21:28,559 --> 00:21:30,799
+the compiler implementation course or
+
+584
+00:21:30,799 --> 00:21:33,360
+compiler design course which is a grad
+
+585
+00:21:33,360 --> 00:21:35,360
+level course
+
+586
+00:21:35,360 --> 00:21:36,799
+but we do have some grad students in
+
+587
+00:21:36,799 --> 00:21:39,120
+this class actually and
+
+588
+00:21:39,120 --> 00:21:41,200
+some students as the undergrad want to
+
+589
+00:21:41,200 --> 00:21:42,480
+take it because they want to get into
+
+590
+00:21:42,480 --> 00:21:44,240
+programming languages
+
+591
+00:21:44,240 --> 00:21:46,400
+and designing your own language if
+
+592
+00:21:46,400 --> 00:21:47,840
+that's your goal you might want to try
+
+593
+00:21:47,840 --> 00:21:49,280
+just doing the assignment
+
+594
+00:21:49,280 --> 00:21:51,520
+it's not as hard as it looks it's just
+
+595
+00:21:51,520 --> 00:21:54,880
+more complicated than the alternate one
+
+596
+00:21:54,880 --> 00:21:57,679
+there is some value added to doing the
+
+597
+00:21:57,679 --> 00:21:59,360
+um
+
+598
+00:21:59,360 --> 00:22:01,280
+i'm not discouraging anyone from doing
+
+599
+00:22:01,280 --> 00:22:03,679
+it i just think
+
+600
+00:22:03,679 --> 00:22:05,760
+that for five points it's a lot more
+
+601
+00:22:05,760 --> 00:22:07,039
+work than some of the
+
+602
+00:22:07,039 --> 00:22:09,919
+other assignments in this class um and
+
+603
+00:22:09,919 --> 00:22:12,799
+it's kind of designed that way
+
+604
+00:22:12,799 --> 00:22:14,799
+so before i move on do we have any other
+
+605
+00:22:14,799 --> 00:22:16,000
+questions
+
+606
+00:22:16,000 --> 00:22:20,080
+on the assignment number five
+
+607
+00:22:22,880 --> 00:22:24,320
+okay so well in the course materials
+
+608
+00:22:24,320 --> 00:22:26,640
+there's a little mini lecture here
+
+609
+00:22:26,640 --> 00:22:29,520
+and the lecture is on modern languages
+
+610
+00:22:29,520 --> 00:22:31,120
+and so i want to bring that up and talk
+
+611
+00:22:31,120 --> 00:22:31,600
+about
+
+612
+00:22:31,600 --> 00:22:33,200
+object orientation and i also want to
+
+613
+00:22:33,200 --> 00:22:35,039
+talk about modern languages for a few
+
+614
+00:22:35,039 --> 00:22:36,640
+here
+
+615
+00:22:36,640 --> 00:22:39,039
+so we're going to go um where do we go
+
+616
+00:22:39,039 --> 00:22:40,480
+from i wanna
+
+617
+00:22:40,480 --> 00:22:43,440
+probably stop about noon so we have
+
+618
+00:22:43,440 --> 00:22:45,280
+about a half hour here
+
+619
+00:22:45,280 --> 00:22:49,360
+um because i do have to get ready for my
+
+620
+00:22:49,360 --> 00:22:50,640
+other class today
+
+621
+00:22:50,640 --> 00:22:53,760
+uh but here we so go
+
+622
+00:22:53,760 --> 00:22:55,600
+kind of want to talk about this and as
+
+623
+00:22:55,600 --> 00:22:56,960
+i'm going through the lecture if you do
+
+624
+00:22:56,960 --> 00:22:58,799
+have some questions
+
+625
+00:22:58,799 --> 00:23:00,559
+about the assignment feel free to put
+
+626
+00:23:00,559 --> 00:23:02,640
+them in the chat we can still i can
+
+627
+00:23:02,640 --> 00:23:04,000
+still answer questions on that you can
+
+628
+00:23:04,000 --> 00:23:06,559
+also send me email messages too
+
+629
+00:23:06,559 --> 00:23:08,960
+so this one is in the course materials
+
+630
+00:23:08,960 --> 00:23:10,480
+under the current week that we're in
+
+631
+00:23:10,480 --> 00:23:11,360
+right now it's called
+
+632
+00:23:11,360 --> 00:23:14,159
+modern lings and the reason why i want
+
+633
+00:23:14,159 --> 00:23:15,200
+to bring it up is because we're not
+
+634
+00:23:15,200 --> 00:23:17,039
+going to look at these languages
+
+635
+00:23:17,039 --> 00:23:20,240
+in this class rather uh
+
+636
+00:23:20,240 --> 00:23:22,159
+let's see how do i get this out of the
+
+637
+00:23:22,159 --> 00:23:23,520
+let's see
+
+638
+00:23:23,520 --> 00:23:26,640
+i'll use slideshow
+
+639
+00:23:26,640 --> 00:23:30,640
+and here let's just go out of here
+
+640
+00:23:30,640 --> 00:23:34,400
+i'll just do it this way there we go
+
+641
+00:23:34,400 --> 00:23:36,559
+see if i can up there i go i can do it
+
+642
+00:23:36,559 --> 00:23:37,840
+okay
+
+643
+00:23:37,840 --> 00:23:40,400
+it's not really lecture 17 although it
+
+644
+00:23:40,400 --> 00:23:40,880
+is
+
+645
+00:23:40,880 --> 00:23:43,360
+labeled that way sometimes i move these
+
+646
+00:23:43,360 --> 00:23:44,640
+lectures around
+
+647
+00:23:44,640 --> 00:23:47,200
+um for different versions of the course
+
+648
+00:23:47,200 --> 00:23:49,120
+okay as i mentioned before
+
+649
+00:23:49,120 --> 00:23:50,559
+we have different object-oriented
+
+650
+00:23:50,559 --> 00:23:52,159
+languages and this week is really about
+
+651
+00:23:52,159 --> 00:23:53,840
+object orientation
+
+652
+00:23:53,840 --> 00:23:56,559
+and the implementation of these
+
+653
+00:23:56,559 --> 00:23:58,480
+languages is highly dependent upon the
+
+654
+00:23:58,480 --> 00:23:59,520
+technology and the
+
+655
+00:23:59,520 --> 00:24:02,840
+era for which they were developed so
+
+656
+00:24:02,840 --> 00:24:06,000
+c was the base language of c
+
+657
+00:24:06,000 --> 00:24:08,559
+plus as you all know and the c
+
+658
+00:24:08,559 --> 00:24:10,000
+programming language
+
+659
+00:24:10,000 --> 00:24:12,640
+is not it's imperative it is not object
+
+660
+00:24:12,640 --> 00:24:13,840
+oriented
+
+661
+00:24:13,840 --> 00:24:16,960
+so what the
+
+662
+00:24:16,960 --> 00:24:19,760
+community did was take a non-object and
+
+663
+00:24:19,760 --> 00:24:21,520
+language object-oriented language and
+
+664
+00:24:21,520 --> 00:24:23,520
+make it object-oriented and in doing so
+
+665
+00:24:23,520 --> 00:24:25,120
+they had to add these features to the
+
+666
+00:24:25,120 --> 00:24:28,080
+language that were
+
+667
+00:24:28,640 --> 00:24:32,000
+band-aids duct tape uh
+
+668
+00:24:32,000 --> 00:24:35,520
+makeshift not really appropriate
+
+669
+00:24:35,520 --> 00:24:36,480
+features
+
+670
+00:24:36,480 --> 00:24:40,400
+uh that were done that way
+
+671
+00:24:40,400 --> 00:24:44,720
+so that um the language could work
+
+672
+00:24:44,720 --> 00:24:47,120
+and so the concept of the destructor the
+
+673
+00:24:47,120 --> 00:24:49,760
+concept of the copy constructor
+
+674
+00:24:49,760 --> 00:24:52,080
+um oh it says my internet is unstable i
+
+675
+00:24:52,080 --> 00:24:53,760
+hope you guys can still hear me
+
+676
+00:24:53,760 --> 00:24:57,440
+um were sort of things that were put
+
+677
+00:24:57,440 --> 00:24:59,200
+into the language that are not object
+
+678
+00:24:59,200 --> 00:25:00,000
+oriented
+
+679
+00:25:00,000 --> 00:25:03,600
+in nature but they were fixes
+
+680
+00:25:03,600 --> 00:25:05,279
+to make the object-oriented language
+
+681
+00:25:05,279 --> 00:25:06,720
+work
+
+682
+00:25:06,720 --> 00:25:09,520
+and so oops we have a message in the
+
+683
+00:25:09,520 --> 00:25:10,340
+chat
+
+684
+00:25:10,340 --> 00:25:12,799
+[Music]
+
+685
+00:25:12,799 --> 00:25:16,320
+uh nope okay we don't you froze for a
+
+686
+00:25:16,320 --> 00:25:16,799
+moment
+
+687
+00:25:16,799 --> 00:25:19,919
+yeah i'm on campus yeah thank you let me
+
+688
+00:25:19,919 --> 00:25:21,120
+know if i freeze
+
+689
+00:25:21,120 --> 00:25:23,039
+again i'm gonna open up this chat and
+
+690
+00:25:23,039 --> 00:25:24,640
+put it here handy
+
+691
+00:25:24,640 --> 00:25:27,120
+um i think that the internet is not as
+
+692
+00:25:27,120 --> 00:25:29,360
+good as it is in my house actually
+
+693
+00:25:29,360 --> 00:25:33,840
+uh one of the pros and cons
+
+694
+00:25:33,840 --> 00:25:37,120
+of uh sheltering in place or being at
+
+695
+00:25:37,120 --> 00:25:38,080
+home
+
+696
+00:25:38,080 --> 00:25:39,520
+uh so hopefully it won't freeze again
+
+697
+00:25:39,520 --> 00:25:41,679
+and if i do then we'll just call it a
+
+698
+00:25:41,679 --> 00:25:42,480
+day
+
+699
+00:25:42,480 --> 00:25:44,960
+and uh don't bother reconnecting if if
+
+700
+00:25:44,960 --> 00:25:46,480
+you lose me completely
+
+701
+00:25:46,480 --> 00:25:48,320
+you can always watch the recording
+
+702
+00:25:48,320 --> 00:25:51,600
+hopefully the recording won't freeze too
+
+703
+00:25:51,600 --> 00:25:54,080
+but anyway um so a lot of the features
+
+704
+00:25:54,080 --> 00:25:55,760
+in c plus plus and
+
+705
+00:25:55,760 --> 00:25:57,279
+sometimes it's the first language you
+
+706
+00:25:57,279 --> 00:25:59,279
+learn is when you start looking at
+
+707
+00:25:59,279 --> 00:26:00,480
+object orientation
+
+708
+00:26:00,480 --> 00:26:01,840
+a lot of those features aren't really
+
+709
+00:26:01,840 --> 00:26:03,760
+object oriented features
+
+710
+00:26:03,760 --> 00:26:06,080
+they're makeshift features designed in
+
+711
+00:26:06,080 --> 00:26:11,200
+the language to make the language work
+
+712
+00:26:11,200 --> 00:26:13,760
+excuse me
+
+713
+00:26:14,400 --> 00:26:17,600
+so when java came around the language
+
+714
+00:26:17,600 --> 00:26:19,200
+was built from scratch
+
+715
+00:26:19,200 --> 00:26:21,600
+as an object-oriented language with
+
+716
+00:26:21,600 --> 00:26:22,880
+memory in mind
+
+717
+00:26:22,880 --> 00:26:24,559
+because object-oriented languages use a
+
+718
+00:26:24,559 --> 00:26:26,159
+lot more memory
+
+719
+00:26:26,159 --> 00:26:29,279
+than non-object-oriented languages use a
+
+720
+00:26:29,279 --> 00:26:32,000
+lot of runtime space heap memory
+
+721
+00:26:32,000 --> 00:26:33,600
+and there's different requirements as a
+
+722
+00:26:33,600 --> 00:26:35,120
+language on the underlying operating
+
+723
+00:26:35,120 --> 00:26:36,480
+system
+
+724
+00:26:36,480 --> 00:26:38,159
+so instead of working with the modern
+
+725
+00:26:38,159 --> 00:26:39,919
+day operating systems
+
+726
+00:26:39,919 --> 00:26:42,559
+like uh visual c plus plus and
+
+727
+00:26:42,559 --> 00:26:44,799
+microsoft's version of c
+
+728
+00:26:44,799 --> 00:26:48,080
+um and the.net and some of the other uh
+
+729
+00:26:48,080 --> 00:26:50,640
+technologies back in the day the
+
+730
+00:26:50,640 --> 00:26:52,320
+operating system itself
+
+731
+00:26:52,320 --> 00:26:55,919
+limited what could be done in terms of
+
+732
+00:26:55,919 --> 00:26:57,440
+the memory management
+
+733
+00:26:57,440 --> 00:27:00,799
+so that's why we had another language
+
+734
+00:27:00,799 --> 00:27:01,760
+called objective
+
+735
+00:27:01,760 --> 00:27:04,400
+c which was the same kind of similar to
+
+736
+00:27:04,400 --> 00:27:06,640
+c plus plus that had the same problems
+
+737
+00:27:06,640 --> 00:27:08,640
+on the mac operating system so it wasn't
+
+738
+00:27:08,640 --> 00:27:10,559
+just a microsoft problem it's
+
+739
+00:27:10,559 --> 00:27:13,600
+it was a mac problem as well the problem
+
+740
+00:27:13,600 --> 00:27:14,320
+is the
+
+741
+00:27:14,320 --> 00:27:15,600
+underlying operating system can't
+
+742
+00:27:15,600 --> 00:27:18,080
+support all of the memory needs of the
+
+743
+00:27:18,080 --> 00:27:18,960
+language
+
+744
+00:27:18,960 --> 00:27:21,279
+so c plus plus ended up with
+
+745
+00:27:21,279 --> 00:27:23,279
+constructors and deconstructors and copy
+
+746
+00:27:23,279 --> 00:27:24,799
+constructors and all of these little
+
+747
+00:27:24,799 --> 00:27:25,360
+things
+
+748
+00:27:25,360 --> 00:27:27,600
+to fix the memory issues and the memory
+
+749
+00:27:27,600 --> 00:27:29,360
+management problems the allocation and
+
+750
+00:27:29,360 --> 00:27:31,919
+the deallocation of the memory
+
+751
+00:27:31,919 --> 00:27:34,320
+objective c had inits and they also had
+
+752
+00:27:34,320 --> 00:27:35,919
+alux and dialogue and
+
+753
+00:27:35,919 --> 00:27:37,679
+a bunch of stuff put into the language
+
+754
+00:27:37,679 --> 00:27:39,600
+and objective c is also another
+
+755
+00:27:39,600 --> 00:27:41,279
+object-oriented programming language
+
+756
+00:27:41,279 --> 00:27:43,120
+that's made from c
+
+757
+00:27:43,120 --> 00:27:45,760
+so c had on one side of the fence c plus
+
+758
+00:27:45,760 --> 00:27:47,279
+plus on the other side
+
+759
+00:27:47,279 --> 00:27:50,000
+the objective c language and now
+
+760
+00:27:50,000 --> 00:27:50,799
+objective c
+
+761
+00:27:50,799 --> 00:27:54,480
+has been kind of put on the back burner
+
+762
+00:27:54,480 --> 00:27:54,960
+because
+
+763
+00:27:54,960 --> 00:27:56,880
+swift is more popular right now
+
+764
+00:27:56,880 --> 00:27:59,520
+especially for ios and for
+
+765
+00:27:59,520 --> 00:28:03,039
+mac os development so these
+
+766
+00:28:03,039 --> 00:28:04,720
+other programming languages in this
+
+767
+00:28:04,720 --> 00:28:07,120
+lecture are
+
+768
+00:28:07,120 --> 00:28:11,039
+tangents of java
+
+769
+00:28:11,039 --> 00:28:14,320
+and c plus plus and objective c
+
+770
+00:28:14,320 --> 00:28:16,399
+and they're out there and they're being
+
+771
+00:28:16,399 --> 00:28:17,360
+used
+
+772
+00:28:17,360 --> 00:28:19,520
+but it's kind of debatable in terms of
+
+773
+00:28:19,520 --> 00:28:20,720
+how much longer
+
+774
+00:28:20,720 --> 00:28:23,520
+these languages will survive for and the
+
+775
+00:28:23,520 --> 00:28:25,279
+idea in this class is not to learn every
+
+776
+00:28:25,279 --> 00:28:26,640
+programming language out there but to
+
+777
+00:28:26,640 --> 00:28:28,559
+get a feel for the language domains
+
+778
+00:28:28,559 --> 00:28:30,399
+so that you can pick a language to solve
+
+779
+00:28:30,399 --> 00:28:31,679
+a problem
+
+780
+00:28:31,679 --> 00:28:33,760
+uh when a problem arises and you're able
+
+781
+00:28:33,760 --> 00:28:34,960
+to be
+
+782
+00:28:34,960 --> 00:28:37,440
+more focused on the solution rather than
+
+783
+00:28:37,440 --> 00:28:39,600
+what tools the best tool
+
+784
+00:28:39,600 --> 00:28:42,240
+to be used
+
+785
+00:28:42,799 --> 00:28:46,000
+so the concept here and what you're
+
+786
+00:28:46,000 --> 00:28:47,840
+looking at is modern trends which is
+
+787
+00:28:47,840 --> 00:28:51,760
+jvm which is the java java c-sharp
+
+788
+00:28:51,760 --> 00:28:53,840
+which is what that's pronounced that's
+
+789
+00:28:53,840 --> 00:28:54,799
+how it's pronounced
+
+790
+00:28:54,799 --> 00:28:57,200
+and then the dot-net platform i'll tell
+
+791
+00:28:57,200 --> 00:28:58,399
+you that the
+
+792
+00:28:58,399 --> 00:29:00,799
+net platform by the way has changed a
+
+793
+00:29:00,799 --> 00:29:02,399
+bit in the last couple years
+
+794
+00:29:02,399 --> 00:29:04,880
+it is more cross-platform compatible
+
+795
+00:29:04,880 --> 00:29:06,480
+than the jbm
+
+796
+00:29:06,480 --> 00:29:09,840
+uh actually well as as platform
+
+797
+00:29:09,840 --> 00:29:13,120
+compatible than the java virtual machine
+
+798
+00:29:13,120 --> 00:29:15,039
+and then c sharp is kind of an
+
+799
+00:29:15,039 --> 00:29:16,399
+interesting language it's a hybrid
+
+800
+00:29:16,399 --> 00:29:17,520
+language between c
+
+801
+00:29:17,520 --> 00:29:20,559
+plus plus and java so what ended up
+
+802
+00:29:20,559 --> 00:29:22,159
+happening is we've got
+
+803
+00:29:22,159 --> 00:29:25,520
+this java platform that came out
+
+804
+00:29:25,520 --> 00:29:28,480
+with a true object and java is more true
+
+805
+00:29:28,480 --> 00:29:30,799
+to object orientation
+
+806
+00:29:30,799 --> 00:29:34,799
+than c plus ever was and so
+
+807
+00:29:34,799 --> 00:29:36,880
+we had this language come out called
+
+808
+00:29:36,880 --> 00:29:38,559
+java and it came out with a
+
+809
+00:29:38,559 --> 00:29:40,640
+java virtual machine the reason why java
+
+810
+00:29:40,640 --> 00:29:41,840
+was a strong language is
+
+811
+00:29:41,840 --> 00:29:44,240
+because we it got rid of completely all
+
+812
+00:29:44,240 --> 00:29:45,919
+of the underlying operating system
+
+813
+00:29:45,919 --> 00:29:46,880
+problems
+
+814
+00:29:46,880 --> 00:29:49,440
+and so you can run the jvm on multiple
+
+815
+00:29:49,440 --> 00:29:50,960
+different platforms
+
+816
+00:29:50,960 --> 00:29:52,720
+and then each one of these platforms
+
+817
+00:29:52,720 --> 00:29:54,399
+would support
+
+818
+00:29:54,399 --> 00:29:56,159
+whatever was missing or whatever was
+
+819
+00:29:56,159 --> 00:29:57,679
+needed to be handled
+
+820
+00:29:57,679 --> 00:30:00,240
+by the underlying operating system so it
+
+821
+00:30:00,240 --> 00:30:01,840
+made everything equal
+
+822
+00:30:01,840 --> 00:30:05,039
+but then it also added features so net
+
+823
+00:30:05,039 --> 00:30:07,120
+is microsoft's was originally
+
+824
+00:30:07,120 --> 00:30:09,039
+microsoft's version
+
+825
+00:30:09,039 --> 00:30:12,799
+of the jbm and it worked on microsoft
+
+826
+00:30:12,799 --> 00:30:14,720
+platforms and one of the limitations is
+
+827
+00:30:14,720 --> 00:30:16,320
+you had to run it on a microsoft
+
+828
+00:30:16,320 --> 00:30:18,000
+computer microsoft
+
+829
+00:30:18,000 --> 00:30:20,480
+operating system any version well.net
+
+830
+00:30:20,480 --> 00:30:22,799
+compatible version and it didn't work on
+
+831
+00:30:22,799 --> 00:30:23,760
+anything else like
+
+832
+00:30:23,760 --> 00:30:26,880
+unix or linux or the mac os or anything
+
+833
+00:30:26,880 --> 00:30:28,399
+like that
+
+834
+00:30:28,399 --> 00:30:30,480
+so in the last couple years they made
+
+835
+00:30:30,480 --> 00:30:32,559
+that network on everything else
+
+836
+00:30:32,559 --> 00:30:34,240
+so some of those limitations went away
+
+837
+00:30:34,240 --> 00:30:36,640
+because the popularity was kind of
+
+838
+00:30:36,640 --> 00:30:40,080
+limited c sharp i don't think is going
+
+839
+00:30:40,080 --> 00:30:42,159
+to be around for very much longer
+
+840
+00:30:42,159 --> 00:30:44,399
+it's a combination of java and c plus
+
+841
+00:30:44,399 --> 00:30:48,399
+plus that works on.net
+
+842
+00:30:48,559 --> 00:30:51,919
+there's no need for it it was originally
+
+843
+00:30:51,919 --> 00:30:53,600
+designed as a language
+
+844
+00:30:53,600 --> 00:30:57,360
+to write mobile apps for for the windows
+
+845
+00:30:57,360 --> 00:30:58,159
+phone
+
+846
+00:30:58,159 --> 00:31:00,320
+you guys remember the windows microsoft
+
+847
+00:31:00,320 --> 00:31:03,039
+windows phone
+
+848
+00:31:03,039 --> 00:31:04,240
+you may not remember it because it
+
+849
+00:31:04,240 --> 00:31:06,960
+wasn't very popular um
+
+850
+00:31:06,960 --> 00:31:09,840
+but microsoft for a brief moment there
+
+851
+00:31:09,840 --> 00:31:11,440
+had a store
+
+852
+00:31:11,440 --> 00:31:14,159
+app store and in the app store you could
+
+853
+00:31:14,159 --> 00:31:15,760
+put in c-sharp
+
+854
+00:31:15,760 --> 00:31:19,360
+apps and those c-sharp apps were able to
+
+855
+00:31:19,360 --> 00:31:21,279
+uh work on the windows phone and just
+
+856
+00:31:21,279 --> 00:31:23,200
+like you know just like the google
+
+857
+00:31:23,200 --> 00:31:24,640
+market
+
+858
+00:31:24,640 --> 00:31:27,519
+stores or whatever and uh at the apple
+
+859
+00:31:27,519 --> 00:31:28,640
+stores
+
+860
+00:31:28,640 --> 00:31:31,919
+um but the phone died and the language
+
+861
+00:31:31,919 --> 00:31:33,039
+doesn't really have a
+
+862
+00:31:33,039 --> 00:31:35,919
+use for anything i'm talking about c
+
+863
+00:31:35,919 --> 00:31:37,279
+sharp right now
+
+864
+00:31:37,279 --> 00:31:39,519
+um it's basically a combination of java
+
+865
+00:31:39,519 --> 00:31:41,279
+and c plus plus put together in terms of
+
+866
+00:31:41,279 --> 00:31:42,559
+its capabilities
+
+867
+00:31:42,559 --> 00:31:46,240
+and it runs on.net so c sharp is used in
+
+868
+00:31:46,240 --> 00:31:48,399
+unity yes it is you need a game engine
+
+869
+00:31:48,399 --> 00:31:49,360
+it is
+
+870
+00:31:49,360 --> 00:31:51,919
+um so it is still used in unity and it
+
+871
+00:31:51,919 --> 00:31:54,000
+is still used on some consoles
+
+872
+00:31:54,000 --> 00:31:57,440
+uh gaming consoles it's a very
+
+873
+00:31:57,440 --> 00:32:00,320
+nice because it has the kind of the
+
+874
+00:32:00,320 --> 00:32:01,120
+programming
+
+875
+00:32:01,120 --> 00:32:04,320
+style that's brief and then it has the
+
+876
+00:32:04,320 --> 00:32:07,200
+compatibility with a.net or with a jvm
+
+877
+00:32:07,200 --> 00:32:07,919
+kind of
+
+878
+00:32:07,919 --> 00:32:11,679
+concept to it so i flipped aside here
+
+879
+00:32:11,679 --> 00:32:13,039
+because i kind of wanted to show you
+
+880
+00:32:13,039 --> 00:32:15,039
+sort of the differences between
+
+881
+00:32:15,039 --> 00:32:18,080
+c sharp and c plus plus and java
+
+882
+00:32:18,080 --> 00:32:21,279
+and why i call it a combination
+
+883
+00:32:21,279 --> 00:32:24,399
+so in java we have
+
+884
+00:32:24,399 --> 00:32:26,880
+partly compiled code that's not put into
+
+885
+00:32:26,880 --> 00:32:28,720
+machine specific
+
+886
+00:32:28,720 --> 00:32:31,120
+and so from source code to executable
+
+887
+00:32:31,120 --> 00:32:33,039
+file there's this compilation process
+
+888
+00:32:33,039 --> 00:32:34,960
+and in the compilation process you know
+
+889
+00:32:34,960 --> 00:32:37,360
+we go through these series of stages or
+
+890
+00:32:37,360 --> 00:32:40,240
+phases you know we we saw them in the
+
+891
+00:32:40,240 --> 00:32:41,279
+beginning of the class we have the
+
+892
+00:32:41,279 --> 00:32:42,559
+scanner
+
+893
+00:32:42,559 --> 00:32:46,720
+parser syntax analysis semantic analysis
+
+894
+00:32:46,720 --> 00:32:49,519
+intermediate code generation and then we
+
+895
+00:32:49,519 --> 00:32:50,000
+have
+
+896
+00:32:50,000 --> 00:32:51,919
+and all of these stages are done in a
+
+897
+00:32:51,919 --> 00:32:53,200
+particular order
+
+898
+00:32:53,200 --> 00:32:56,399
+so c sharp does the stages
+
+899
+00:32:56,399 --> 00:32:59,760
+similar to java but it's compiled
+
+900
+00:32:59,760 --> 00:33:03,279
+very similar to c plus plus so it's in
+
+901
+00:33:03,279 --> 00:33:05,600
+the compilation process that the two are
+
+902
+00:33:05,600 --> 00:33:07,679
+sort of merged together and so it gave
+
+903
+00:33:07,679 --> 00:33:10,480
+us the best of both worlds if you look
+
+904
+00:33:10,480 --> 00:33:12,799
+at the way that a java program
+
+905
+00:33:12,799 --> 00:33:15,120
+is created each one of the dot java
+
+906
+00:33:15,120 --> 00:33:17,600
+files turns into a dot class
+
+907
+00:33:17,600 --> 00:33:19,279
+and each one of those small little dot
+
+908
+00:33:19,279 --> 00:33:21,679
+classes sits there
+
+909
+00:33:21,679 --> 00:33:23,840
+and the run time the jvm puts them
+
+910
+00:33:23,840 --> 00:33:26,320
+together in the runtime environment
+
+911
+00:33:26,320 --> 00:33:28,399
+in c plus plus there's just one
+
+912
+00:33:28,399 --> 00:33:29,440
+executable
+
+913
+00:33:29,440 --> 00:33:32,640
+that one executable runs on a target
+
+914
+00:33:32,640 --> 00:33:33,519
+platform
+
+915
+00:33:33,519 --> 00:33:35,440
+yeah it's a exe file so you don't
+
+916
+00:33:35,440 --> 00:33:38,080
+necessarily get a exe file with java and
+
+917
+00:33:38,080 --> 00:33:40,320
+you don't necessarily need one
+
+918
+00:33:40,320 --> 00:33:42,720
+well you can still have the same concept
+
+919
+00:33:42,720 --> 00:33:44,559
+so you can have
+
+920
+00:33:44,559 --> 00:33:46,720
+in c sharp you've got separate little
+
+921
+00:33:46,720 --> 00:33:48,240
+running programs or
+
+922
+00:33:48,240 --> 00:33:51,679
+things that are executable on their own
+
+923
+00:33:51,679 --> 00:33:55,039
+just like c plus plus
+
+924
+00:33:55,519 --> 00:34:00,000
+so they're target specific
+
+925
+00:34:00,000 --> 00:34:01,840
+and they're small and you don't have to
+
+926
+00:34:01,840 --> 00:34:03,760
+load all of them up into memory
+
+927
+00:34:03,760 --> 00:34:06,080
+you can only you know load what you need
+
+928
+00:34:06,080 --> 00:34:07,440
+when it's used
+
+929
+00:34:07,440 --> 00:34:09,520
+and have the same memory efficiency as
+
+930
+00:34:09,520 --> 00:34:11,760
+java which is why a lot of game
+
+931
+00:34:11,760 --> 00:34:15,760
+consoles and game hardware equipment
+
+932
+00:34:15,760 --> 00:34:19,679
+as well as other uc
+
+933
+00:34:19,679 --> 00:34:22,480
+uh microsoft actually uses c-sharp on
+
+934
+00:34:22,480 --> 00:34:23,760
+their
+
+935
+00:34:23,760 --> 00:34:27,839
+game consoles uh xbox
+
+936
+00:34:27,839 --> 00:34:31,599
+um i'm not gonna get into game consoles
+
+937
+00:34:31,599 --> 00:34:32,639
+uh because i don't
+
+938
+00:34:32,639 --> 00:34:34,399
+i don't know what's current but long
+
+939
+00:34:34,399 --> 00:34:35,839
+story short
+
+940
+00:34:35,839 --> 00:34:37,599
+it's an embedded environment for which
+
+941
+00:34:37,599 --> 00:34:40,159
+you need us very good memory management
+
+942
+00:34:40,159 --> 00:34:43,040
+and the benefits of c sharp are still
+
+943
+00:34:43,040 --> 00:34:44,480
+being recognized there
+
+944
+00:34:44,480 --> 00:34:46,960
+now c sharp for internet development is
+
+945
+00:34:46,960 --> 00:34:48,480
+with asp
+
+946
+00:34:48,480 --> 00:34:51,918
+so asp.net is
+
+947
+00:34:51,918 --> 00:34:55,199
+very popular and so c sharp ish
+
+948
+00:34:55,199 --> 00:34:58,240
+or asp is still being
+
+949
+00:34:58,240 --> 00:35:01,440
+used in web development as well so
+
+950
+00:35:01,440 --> 00:35:03,680
+java by the way is not the same as
+
+951
+00:35:03,680 --> 00:35:04,720
+javascript
+
+952
+00:35:04,720 --> 00:35:06,640
+javascript is a scripting language
+
+953
+00:35:06,640 --> 00:35:08,480
+that's client-side
+
+954
+00:35:08,480 --> 00:35:11,680
+that works uh for internet development
+
+955
+00:35:11,680 --> 00:35:13,520
+java can be used for internet
+
+956
+00:35:13,520 --> 00:35:15,119
+development as well it's an
+
+957
+00:35:15,119 --> 00:35:16,000
+object-oriented
+
+958
+00:35:16,000 --> 00:35:17,760
+programming language you need to go
+
+959
+00:35:17,760 --> 00:35:19,920
+through jsp
+
+960
+00:35:19,920 --> 00:35:23,920
+or servlets and look at java enterprise
+
+961
+00:35:23,920 --> 00:35:24,640
+edition
+
+962
+00:35:24,640 --> 00:35:27,040
+if you want to get into development work
+
+963
+00:35:27,040 --> 00:35:29,280
+and its server side
+
+964
+00:35:29,280 --> 00:35:31,440
+if you take a web development class
+
+965
+00:35:31,440 --> 00:35:32,960
+you'll learn about client-side and
+
+966
+00:35:32,960 --> 00:35:35,440
+server-side programming languages
+
+967
+00:35:35,440 --> 00:35:38,000
+and but job everyone seems to think
+
+968
+00:35:38,000 --> 00:35:39,280
+javascript
+
+969
+00:35:39,280 --> 00:35:42,079
+is the client-side version of java it's
+
+970
+00:35:42,079 --> 00:35:42,400
+not
+
+971
+00:35:42,400 --> 00:35:44,079
+it's a completely different programming
+
+972
+00:35:44,079 --> 00:35:45,839
+language and if you wanted to you could
+
+973
+00:35:45,839 --> 00:35:48,240
+actually take and compare and contrast
+
+974
+00:35:48,240 --> 00:35:51,200
+javascript with java because they are
+
+975
+00:35:51,200 --> 00:35:52,480
+two different languages
+
+976
+00:35:52,480 --> 00:35:54,720
+and javascript is supposed to be object
+
+977
+00:35:54,720 --> 00:35:56,000
+oriented
+
+978
+00:35:56,000 --> 00:35:58,240
+but you never create a class if you want
+
+979
+00:35:58,240 --> 00:35:59,680
+to do it for this assignment you can't
+
+980
+00:35:59,680 --> 00:36:01,920
+first assignment number five you can
+
+981
+00:36:01,920 --> 00:36:04,400
+and it might be an interesting adventure
+
+982
+00:36:04,400 --> 00:36:05,359
+uh
+
+983
+00:36:05,359 --> 00:36:09,040
+but you know more power to you okay so
+
+984
+00:36:09,040 --> 00:36:10,839
+in this particular case we're looking at
+
+985
+00:36:10,839 --> 00:36:12,480
+scripting and so c
+
+986
+00:36:12,480 --> 00:36:14,640
+plus plus is really a scripting kind of
+
+987
+00:36:14,640 --> 00:36:16,160
+language
+
+988
+00:36:16,160 --> 00:36:18,079
+so the modern day programming languages
+
+989
+00:36:18,079 --> 00:36:20,000
+are changing in the way that the phases
+
+990
+00:36:20,000 --> 00:36:22,160
+of compilation are performed
+
+991
+00:36:22,160 --> 00:36:24,160
+the way that the code is written this is
+
+992
+00:36:24,160 --> 00:36:25,760
+more written like a script
+
+993
+00:36:25,760 --> 00:36:28,000
+in fact when you see things like begin
+
+994
+00:36:28,000 --> 00:36:28,800
+and
+
+995
+00:36:28,800 --> 00:36:31,920
+end and write line this is like
+
+996
+00:36:31,920 --> 00:36:33,440
+scripting
+
+997
+00:36:33,440 --> 00:36:36,079
+uh so python is written sort of like
+
+998
+00:36:36,079 --> 00:36:37,760
+scripting as well
+
+999
+00:36:37,760 --> 00:36:39,599
+so when people learn python as their
+
+1000
+00:36:39,599 --> 00:36:41,280
+first language they don't
+
+1001
+00:36:41,280 --> 00:36:43,040
+understand the concept of like they're
+
+1002
+00:36:43,040 --> 00:36:44,480
+being main
+
+1003
+00:36:44,480 --> 00:36:46,320
+and they're being this flow control and
+
+1004
+00:36:46,320 --> 00:36:48,320
+they're being all because python is a
+
+1005
+00:36:48,320 --> 00:36:49,200
+scripting
+
+1006
+00:36:49,200 --> 00:36:51,200
+as well as a programming language c
+
+1007
+00:36:51,200 --> 00:36:52,720
+sharp is a scripting
+
+1008
+00:36:52,720 --> 00:36:56,320
+swift is a scripting javascript is
+
+1009
+00:36:56,320 --> 00:36:58,960
+scripting but java is not scripting
+
+1010
+00:36:58,960 --> 00:37:02,240
+and then there's jython and cython
+
+1011
+00:37:02,240 --> 00:37:04,640
+which is java mixed in with python or
+
+1012
+00:37:04,640 --> 00:37:05,520
+java mixed
+
+1013
+00:37:05,520 --> 00:37:08,880
+in with c plus plus to give c plus plus
+
+1014
+00:37:08,880 --> 00:37:10,800
+more java features or to give python
+
+1015
+00:37:10,800 --> 00:37:12,960
+more java features or vice verse
+
+1016
+00:37:12,960 --> 00:37:15,839
+so modern day programming languages are
+
+1017
+00:37:15,839 --> 00:37:17,280
+hybrids
+
+1018
+00:37:17,280 --> 00:37:19,359
+they are combinations of different types
+
+1019
+00:37:19,359 --> 00:37:20,960
+of languages put together
+
+1020
+00:37:20,960 --> 00:37:22,960
+all right so this what we're looking at
+
+1021
+00:37:22,960 --> 00:37:25,200
+is the syntax tree and a symbol table
+
+1022
+00:37:25,200 --> 00:37:27,359
+that could be created from a compilation
+
+1023
+00:37:27,359 --> 00:37:28,960
+process
+
+1024
+00:37:28,960 --> 00:37:31,119
+you've got blocks of code and the blocks
+
+1025
+00:37:31,119 --> 00:37:32,160
+run in memory
+
+1026
+00:37:32,160 --> 00:37:34,000
+and they all connect with each other you
+
+1027
+00:37:34,000 --> 00:37:36,400
+have basic blocks
+
+1028
+00:37:36,400 --> 00:37:38,960
+that kind of put together and this is
+
+1029
+00:37:38,960 --> 00:37:41,440
+really just kind of going through
+
+1030
+00:37:41,440 --> 00:37:43,520
+this and if you really want to review
+
+1031
+00:37:43,520 --> 00:37:45,359
+the compilation process this lecture is
+
+1032
+00:37:45,359 --> 00:37:46,480
+not bad
+
+1033
+00:37:46,480 --> 00:37:47,520
+i mean it's going through the
+
+1034
+00:37:47,520 --> 00:37:49,200
+differences and the changes that are
+
+1035
+00:37:49,200 --> 00:37:50,240
+being made
+
+1036
+00:37:50,240 --> 00:37:52,640
+with modern day languages and you can
+
+1037
+00:37:52,640 --> 00:37:54,240
+probably read through this at a slower
+
+1038
+00:37:54,240 --> 00:37:55,920
+pace it is in the course materials for
+
+1039
+00:37:55,920 --> 00:37:57,040
+this week
+
+1040
+00:37:57,040 --> 00:38:00,720
+but we're going away from machine
+
+1041
+00:38:00,720 --> 00:38:03,760
+code that is dependent on one particular
+
+1042
+00:38:03,760 --> 00:38:04,480
+platform
+
+1043
+00:38:04,480 --> 00:38:06,960
+and the trend is to go to independent
+
+1044
+00:38:06,960 --> 00:38:08,240
+code
+
+1045
+00:38:08,240 --> 00:38:10,640
+so machine independent code is an
+
+1046
+00:38:10,640 --> 00:38:11,359
+improvement
+
+1047
+00:38:11,359 --> 00:38:14,079
+because you can write one source code
+
+1048
+00:38:14,079 --> 00:38:16,839
+one thing of source code
+
+1049
+00:38:16,839 --> 00:38:19,599
+and basically run it on multiple
+
+1050
+00:38:19,599 --> 00:38:21,040
+different platforms without having to
+
+1051
+00:38:21,040 --> 00:38:22,560
+rewrite the program
+
+1052
+00:38:22,560 --> 00:38:25,119
+and so languages like java provide that
+
+1053
+00:38:25,119 --> 00:38:27,280
+languages like c sharp provide that
+
+1054
+00:38:27,280 --> 00:38:31,680
+um so you can have essentially
+
+1055
+00:38:31,680 --> 00:38:35,280
+a multi-platform multiple compatibility
+
+1056
+00:38:35,280 --> 00:38:36,560
+source code
+
+1057
+00:38:36,560 --> 00:38:37,920
+and you don't have to keep rewriting
+
+1058
+00:38:37,920 --> 00:38:39,040
+programs the last thing a programmer
+
+1059
+00:38:39,040 --> 00:38:41,119
+wants to do is rewrite the code
+
+1060
+00:38:41,119 --> 00:38:44,560
+you want the code to last forever
+
+1061
+00:38:44,560 --> 00:38:45,839
+and then be ported to different
+
+1062
+00:38:45,839 --> 00:38:47,599
+platforms and the concept of porting
+
+1063
+00:38:47,599 --> 00:38:49,280
+always makes mistakes as well in the
+
+1064
+00:38:49,280 --> 00:38:49,680
+past
+
+1065
+00:38:49,680 --> 00:38:53,280
+things were ported from c
+
+1066
+00:38:53,280 --> 00:38:56,320
+to asp or to
+
+1067
+00:38:56,320 --> 00:38:58,720
+java or to other languages to make them
+
+1068
+00:38:58,720 --> 00:39:00,880
+work and
+
+1069
+00:39:00,880 --> 00:39:04,720
+the trends these days is not to have to
+
+1070
+00:39:04,720 --> 00:39:06,720
+port and not to have to make things
+
+1071
+00:39:06,720 --> 00:39:10,000
+uh independent on particular platforms
+
+1072
+00:39:10,000 --> 00:39:13,119
+so target cogeneration is the issue
+
+1073
+00:39:13,119 --> 00:39:15,280
+we don't want to have to create an
+
+1074
+00:39:15,280 --> 00:39:16,960
+executable file
+
+1075
+00:39:16,960 --> 00:39:20,079
+and so that's something where brand new
+
+1076
+00:39:20,079 --> 00:39:22,800
+students in computer science are all
+
+1077
+00:39:22,800 --> 00:39:24,400
+about that
+
+1078
+00:39:24,400 --> 00:39:27,280
+you know the concept of that exe file or
+
+1079
+00:39:27,280 --> 00:39:27,680
+the
+
+1080
+00:39:27,680 --> 00:39:30,960
+com file from a windows perspective is
+
+1081
+00:39:30,960 --> 00:39:33,119
+completely outdated
+
+1082
+00:39:33,119 --> 00:39:35,920
+but we're still running it all microsoft
+
+1083
+00:39:35,920 --> 00:39:37,680
+development through visual studio
+
+1084
+00:39:37,680 --> 00:39:39,920
+creates the concept of a static
+
+1085
+00:39:39,920 --> 00:39:45,200
+executable file and so a lot of
+
+1086
+00:39:45,200 --> 00:39:48,079
+older if you've been in computer science
+
+1087
+00:39:48,079 --> 00:39:49,200
+for a very long time
+
+1088
+00:39:49,200 --> 00:39:50,720
+and that's how you started developing
+
+1089
+00:39:50,720 --> 00:39:52,960
+stuff you started creating those exe
+
+1090
+00:39:52,960 --> 00:39:54,079
+files
+
+1091
+00:39:54,079 --> 00:39:56,480
+all of a sudden your output or your your
+
+1092
+00:39:56,480 --> 00:39:57,680
+your viewpoint
+
+1093
+00:39:57,680 --> 00:40:01,359
+on programming changes because
+
+1094
+00:40:01,359 --> 00:40:04,319
+you don't recognize the compilation or
+
+1095
+00:40:04,319 --> 00:40:05,760
+you don't actually see the
+
+1096
+00:40:05,760 --> 00:40:07,760
+or hopefully you start seeing the
+
+1097
+00:40:07,760 --> 00:40:10,720
+benefit of not creating an executable
+
+1098
+00:40:10,720 --> 00:40:13,680
+so i once had and this was um this was a
+
+1099
+00:40:13,680 --> 00:40:14,720
+couple years back
+
+1100
+00:40:14,720 --> 00:40:17,440
+actually um and it was an older student
+
+1101
+00:40:17,440 --> 00:40:18,800
+who had been in computer science for a
+
+1102
+00:40:18,800 --> 00:40:21,119
+very long time as a grad student
+
+1103
+00:40:21,119 --> 00:40:24,400
+i told me that you know well java's not
+
+1104
+00:40:24,400 --> 00:40:25,599
+compiled
+
+1105
+00:40:25,599 --> 00:40:27,200
+oh no actually i'm sorry he said that
+
+1106
+00:40:27,200 --> 00:40:29,359
+python wasn't compiled
+
+1107
+00:40:29,359 --> 00:40:32,319
+python's not compiled code i'm like i
+
+1108
+00:40:32,319 --> 00:40:32,800
+don't
+
+1109
+00:40:32,800 --> 00:40:34,880
+know any computer system that can run
+
+1110
+00:40:34,880 --> 00:40:36,319
+python
+
+1111
+00:40:36,319 --> 00:40:39,200
+like computers don't speak python they
+
+1112
+00:40:39,200 --> 00:40:40,640
+speak machine code
+
+1113
+00:40:40,640 --> 00:40:42,400
+and the idea is every target machine
+
+1114
+00:40:42,400 --> 00:40:44,240
+today speaks machine code
+
+1115
+00:40:44,240 --> 00:40:46,240
+and the question is who's translating it
+
+1116
+00:40:46,240 --> 00:40:48,240
+into machine code is the programmer
+
+1117
+00:40:48,240 --> 00:40:50,319
+doing it through the compilation process
+
+1118
+00:40:50,319 --> 00:40:53,280
+or is the runtime interpreter doing it
+
+1119
+00:40:53,280 --> 00:40:55,680
+and so it took about 45 minutes actually
+
+1120
+00:40:55,680 --> 00:40:57,440
+to convince this guy that
+
+1121
+00:40:57,440 --> 00:40:59,680
+python is a compiled programming
+
+1122
+00:40:59,680 --> 00:41:01,440
+language
+
+1123
+00:41:01,440 --> 00:41:04,079
+all programming languages are compiled
+
+1124
+00:41:04,079 --> 00:41:05,280
+languages
+
+1125
+00:41:05,280 --> 00:41:07,760
+it's just you're not recognizing because
+
+1126
+00:41:07,760 --> 00:41:08,720
+you're not looking
+
+1127
+00:41:08,720 --> 00:41:11,920
+at the traditional spaces of compilation
+
+1128
+00:41:11,920 --> 00:41:13,760
+and you're not understanding that there
+
+1129
+00:41:13,760 --> 00:41:15,599
+can be changes in which
+
+1130
+00:41:15,599 --> 00:41:18,000
+we don't have machine specific code
+
+1131
+00:41:18,000 --> 00:41:20,400
+that's created by the programmer
+
+1132
+00:41:20,400 --> 00:41:23,280
+and so the separation of the machine
+
+1133
+00:41:23,280 --> 00:41:24,000
+specific
+
+1134
+00:41:24,000 --> 00:41:26,400
+code generation is now done through this
+
+1135
+00:41:26,400 --> 00:41:28,720
+concept of interpreters
+
+1136
+00:41:28,720 --> 00:41:31,359
+so you need to have a python interpreter
+
+1137
+00:41:31,359 --> 00:41:32,720
+installed on your computer
+
+1138
+00:41:32,720 --> 00:41:34,960
+you need to have a jvm java virtual
+
+1139
+00:41:34,960 --> 00:41:37,119
+machine installed on your computer
+
+1140
+00:41:37,119 --> 00:41:39,119
+you need to have net installed on your
+
+1141
+00:41:39,119 --> 00:41:40,160
+computer
+
+1142
+00:41:40,160 --> 00:41:42,480
+if you're going to run a language that
+
+1143
+00:41:42,480 --> 00:41:43,760
+uses
+
+1144
+00:41:43,760 --> 00:41:46,400
+that static excuse me that creates that
+
+1145
+00:41:46,400 --> 00:41:47,359
+dynamic
+
+1146
+00:41:47,359 --> 00:41:50,319
+compilation and does it at runtime and
+
+1147
+00:41:50,319 --> 00:41:53,440
+so the differences are the runtime
+
+1148
+00:41:53,440 --> 00:41:55,839
+uh hold on one second i hear some noises
+
+1149
+00:41:55,839 --> 00:41:57,119
+on the side of the building
+
+1150
+00:41:57,119 --> 00:42:00,800
+i will back in one moment hold that
+
+1151
+00:42:00,839 --> 00:42:03,839
+button
+
+1152
+00:42:14,839 --> 00:42:17,359
+baby
+
+1153
+00:42:17,359 --> 00:42:20,079
+how am i supposed to keep the door open
+
+1154
+00:42:20,079 --> 00:42:21,520
+i don't like the door
+
+1155
+00:42:21,520 --> 00:42:23,520
+all right sorry about that i got the the
+
+1156
+00:42:23,520 --> 00:42:25,119
+door propped open i guess someone came
+
+1157
+00:42:25,119 --> 00:42:26,160
+through and went to the bathroom or
+
+1158
+00:42:26,160 --> 00:42:27,119
+something i will
+
+1159
+00:42:27,119 --> 00:42:30,480
+learn to ignore it uh all right so
+
+1160
+00:42:30,480 --> 00:42:31,920
+machine specific code
+
+1161
+00:42:31,920 --> 00:42:35,359
+improvement so if you're
+
+1162
+00:42:35,359 --> 00:42:38,880
+making machine specific code
+
+1163
+00:42:38,880 --> 00:42:41,280
+for a particular platform you can
+
+1164
+00:42:41,280 --> 00:42:42,960
+optimize things
+
+1165
+00:42:42,960 --> 00:42:45,040
+so it's not always a good it's not
+
+1166
+00:42:45,040 --> 00:42:46,640
+always like everything should not be
+
+1167
+00:42:46,640 --> 00:42:47,200
+machine
+
+1168
+00:42:47,200 --> 00:42:51,040
+specific a lot of embedded devices
+
+1169
+00:42:51,040 --> 00:42:53,040
+a lot of embedded systems that have
+
+1170
+00:42:53,040 --> 00:42:54,640
+specific hardware with
+
+1171
+00:42:54,640 --> 00:42:57,839
+specific registers and memory do benefit
+
+1172
+00:42:57,839 --> 00:42:59,440
+from machine specific code
+
+1173
+00:42:59,440 --> 00:43:02,560
+especially if you don't have enough
+
+1174
+00:43:02,560 --> 00:43:04,960
+memory or enough hardware on the system
+
+1175
+00:43:04,960 --> 00:43:06,680
+to create one of those
+
+1176
+00:43:06,680 --> 00:43:09,520
+one-size-fits-all virtual machines or
+
+1177
+00:43:09,520 --> 00:43:11,680
+operating systems so we can go from
+
+1178
+00:43:11,680 --> 00:43:12,960
+target generation
+
+1179
+00:43:12,960 --> 00:43:15,200
+to machine specific code to machine in
+
+1180
+00:43:15,200 --> 00:43:16,880
+specific code
+
+1181
+00:43:16,880 --> 00:43:18,720
+and then the way that these compilation
+
+1182
+00:43:18,720 --> 00:43:20,240
+phases are put together
+
+1183
+00:43:20,240 --> 00:43:22,800
+determines what type of language we're
+
+1184
+00:43:22,800 --> 00:43:24,079
+working with
+
+1185
+00:43:24,079 --> 00:43:26,240
+and it also determines what's happening
+
+1186
+00:43:26,240 --> 00:43:27,200
+in the future
+
+1187
+00:43:27,200 --> 00:43:29,200
+so the modern day trend which is kind of
+
+1188
+00:43:29,200 --> 00:43:30,880
+less sort of like what i was
+
+1189
+00:43:30,880 --> 00:43:34,720
+talking about today uh was
+
+1190
+00:43:34,720 --> 00:43:36,480
+to start out we originally started out
+
+1191
+00:43:36,480 --> 00:43:38,400
+with machine specific code that was in
+
+1192
+00:43:38,400 --> 00:43:40,800
+executable files now we have
+
+1193
+00:43:40,800 --> 00:43:43,040
+interpreters that run at runtime that
+
+1194
+00:43:43,040 --> 00:43:46,000
+convert non-machine specific code
+
+1195
+00:43:46,000 --> 00:43:49,040
+to machine specific code at runtime and
+
+1196
+00:43:49,040 --> 00:43:50,240
+we call that and i called in the
+
+1197
+00:43:50,240 --> 00:43:51,359
+beginning of the course i called it
+
+1198
+00:43:51,359 --> 00:43:53,359
+dynamic compilation
+
+1199
+00:43:53,359 --> 00:43:54,800
+and really i'm going back to those
+
+1200
+00:43:54,800 --> 00:43:57,040
+differences between static compilation
+
+1201
+00:43:57,040 --> 00:43:59,599
+and dynamic compilation in static
+
+1202
+00:43:59,599 --> 00:44:00,800
+compilation
+
+1203
+00:44:00,800 --> 00:44:03,200
+the same stages might be used but we
+
+1204
+00:44:03,200 --> 00:44:04,560
+have a machine specific
+
+1205
+00:44:04,560 --> 00:44:07,280
+target targeted platform that the code
+
+1206
+00:44:07,280 --> 00:44:08,000
+is generated
+
+1207
+00:44:08,000 --> 00:44:10,400
+for and if you want to do that you got
+
+1208
+00:44:10,400 --> 00:44:11,040
+to create
+
+1209
+00:44:11,040 --> 00:44:13,839
+five different versions of the same
+
+1210
+00:44:13,839 --> 00:44:14,560
+program
+
+1211
+00:44:14,560 --> 00:44:17,599
+for five different machines why not just
+
+1212
+00:44:17,599 --> 00:44:19,280
+take the modern day approach and the
+
+1213
+00:44:19,280 --> 00:44:20,480
+current trend right now
+
+1214
+00:44:20,480 --> 00:44:22,960
+is not make it machine specific write
+
+1215
+00:44:22,960 --> 00:44:23,760
+the code
+
+1216
+00:44:23,760 --> 00:44:26,400
+take the code over to an interpreter or
+
+1217
+00:44:26,400 --> 00:44:27,920
+a virtual machine
+
+1218
+00:44:27,920 --> 00:44:30,960
+or a translator and have it translated
+
+1219
+00:44:30,960 --> 00:44:31,280
+on
+
+1220
+00:44:31,280 --> 00:44:33,359
+same one set of code translated on five
+
+1221
+00:44:33,359 --> 00:44:34,800
+different platforms cuts down on the
+
+1222
+00:44:34,800 --> 00:44:36,240
+programming effort
+
+1223
+00:44:36,240 --> 00:44:38,480
+makes it more generic in terms of the
+
+1224
+00:44:38,480 --> 00:44:39,920
+compilation
+
+1225
+00:44:39,920 --> 00:44:43,200
+but at the same time makes it more
+
+1226
+00:44:43,200 --> 00:44:45,040
+efficient and is the growing trend and
+
+1227
+00:44:45,040 --> 00:44:45,760
+you can actually
+
+1228
+00:44:45,760 --> 00:44:47,520
+incorporate different higher level
+
+1229
+00:44:47,520 --> 00:44:49,599
+languages into that
+
+1230
+00:44:49,599 --> 00:44:51,680
+so compilation phases why are compilers
+
+1231
+00:44:51,680 --> 00:44:53,200
+divided into phases
+
+1232
+00:44:53,200 --> 00:44:55,599
+makes it easier for you to understand
+
+1233
+00:44:55,599 --> 00:44:56,319
+and
+
+1234
+00:44:56,319 --> 00:44:57,359
+some people have a hard time
+
+1235
+00:44:57,359 --> 00:44:59,599
+understanding the concept in general
+
+1236
+00:44:59,599 --> 00:45:01,119
+but if you break it out into these
+
+1237
+00:45:01,119 --> 00:45:02,800
+phases it's
+
+1238
+00:45:02,800 --> 00:45:05,680
+got you know an easy kind of format to
+
+1239
+00:45:05,680 --> 00:45:06,160
+it
+
+1240
+00:45:06,160 --> 00:45:07,920
+so sharing the front end among the
+
+1241
+00:45:07,920 --> 00:45:09,280
+compilers
+
+1242
+00:45:09,280 --> 00:45:12,400
+of more than one machine makes sense
+
+1243
+00:45:12,400 --> 00:45:13,920
+and then sharing the back end among the
+
+1244
+00:45:13,920 --> 00:45:16,480
+compilers of more than one language
+
+1245
+00:45:16,480 --> 00:45:19,200
+makes sense historically phases help
+
+1246
+00:45:19,200 --> 00:45:22,319
+reduce the memory usage as well
+
+1247
+00:45:22,319 --> 00:45:25,440
+in terms of the compilation process
+
+1248
+00:45:25,440 --> 00:45:27,680
+and so some languages actually in the
+
+1249
+00:45:27,680 --> 00:45:29,280
+modern day languages are doing more
+
+1250
+00:45:29,280 --> 00:45:31,520
+intermediate forms
+
+1251
+00:45:31,520 --> 00:45:34,800
+java is an intermediate so java creates
+
+1252
+00:45:34,800 --> 00:45:35,200
+a
+
+1253
+00:45:35,200 --> 00:45:37,280
+class file it's an intermediate
+
+1254
+00:45:37,280 --> 00:45:40,000
+representation or intermediate form
+
+1255
+00:45:40,000 --> 00:45:43,040
+of the machine code the same.class file
+
+1256
+00:45:43,040 --> 00:45:44,000
+can be loaded on
+
+1257
+00:45:44,000 --> 00:45:46,880
+multiple different computers and
+
+1258
+00:45:46,880 --> 00:45:49,359
+interpret it into machine code
+
+1259
+00:45:49,359 --> 00:45:52,400
+into multiple different versions
+
+1260
+00:45:52,400 --> 00:45:53,520
+that are all compatible with the
+
+1261
+00:45:53,520 --> 00:45:55,200
+different platforms and it came from an
+
+1262
+00:45:55,200 --> 00:45:56,720
+intermediate form so the intermediate
+
+1263
+00:45:56,720 --> 00:45:59,280
+form just saves some steps
+
+1264
+00:45:59,280 --> 00:46:02,079
+in terms of its ability to to use it
+
+1265
+00:46:02,079 --> 00:46:03,920
+with many different backends and
+
+1266
+00:46:03,920 --> 00:46:05,040
+there was something here that was
+
+1267
+00:46:05,040 --> 00:46:07,760
+mentioned the front end and the back end
+
+1268
+00:46:07,760 --> 00:46:10,319
+the front end of a language of a
+
+1269
+00:46:10,319 --> 00:46:13,200
+compiler is the code going into it
+
+1270
+00:46:13,200 --> 00:46:15,440
+the back end is the executable machine
+
+1271
+00:46:15,440 --> 00:46:16,640
+code
+
+1272
+00:46:16,640 --> 00:46:20,640
+and so the separation of the two
+
+1273
+00:46:20,640 --> 00:46:22,960
+help you combine different languages so
+
+1274
+00:46:22,960 --> 00:46:25,040
+you can take multiple front ends and
+
+1275
+00:46:25,040 --> 00:46:27,040
+stick it into the same back end
+
+1276
+00:46:27,040 --> 00:46:28,640
+we've been doing that for years actually
+
+1277
+00:46:28,640 --> 00:46:30,400
+long before our modern languages
+
+1278
+00:46:30,400 --> 00:46:32,640
+the c language does that you can write
+
+1279
+00:46:32,640 --> 00:46:34,160
+party or code in c
+
+1280
+00:46:34,160 --> 00:46:35,839
+you can write part of it in assembly
+
+1281
+00:46:35,839 --> 00:46:37,440
+language
+
+1282
+00:46:37,440 --> 00:46:38,880
+and you can put it all together in the
+
+1283
+00:46:38,880 --> 00:46:40,880
+same back end so the front end would be
+
+1284
+00:46:40,880 --> 00:46:42,400
+the c code and then the assembly
+
+1285
+00:46:42,400 --> 00:46:43,680
+code if you haven't figured that out you
+
+1286
+00:46:43,680 --> 00:46:46,079
+can write assembly and you can compile
+
+1287
+00:46:46,079 --> 00:46:46,560
+it with c
+
+1288
+00:46:46,560 --> 00:46:49,200
+code and you can create a exe file that
+
+1289
+00:46:49,200 --> 00:46:50,400
+contains both
+
+1290
+00:46:50,400 --> 00:46:52,319
+that's how most of the device drivers
+
+1291
+00:46:52,319 --> 00:46:56,720
+and driver driven programs are used
+
+1292
+00:46:56,720 --> 00:46:58,640
+intermediate forms can also be referred
+
+1293
+00:46:58,640 --> 00:47:00,880
+to as stacked based languages
+
+1294
+00:47:00,880 --> 00:47:02,560
+so stack based languages are another
+
+1295
+00:47:02,560 --> 00:47:05,440
+form of intermediate representation
+
+1296
+00:47:05,440 --> 00:47:08,319
+jvm the java virtual machine is going to
+
+1297
+00:47:08,319 --> 00:47:10,000
+be the one that you're familiar with
+
+1298
+00:47:10,000 --> 00:47:12,640
+pascal not really out there anymore
+
+1299
+00:47:12,640 --> 00:47:14,640
+pascal kind of died
+
+1300
+00:47:14,640 --> 00:47:16,720
+they're simple they're complex but
+
+1301
+00:47:16,720 --> 00:47:18,160
+they're also compact
+
+1302
+00:47:18,160 --> 00:47:21,440
+and they assemble post order tree
+
+1303
+00:47:21,440 --> 00:47:24,880
+enumerations well you've got the tree in
+
+1304
+00:47:24,880 --> 00:47:26,960
+there you've got the stages in there
+
+1305
+00:47:26,960 --> 00:47:29,920
+but when they're put together it's more
+
+1306
+00:47:29,920 --> 00:47:31,280
+of a layered
+
+1307
+00:47:31,280 --> 00:47:35,119
+or stacked architecture to it so
+
+1308
+00:47:35,119 --> 00:47:36,480
+i'm not going to ask you any questions
+
+1309
+00:47:36,480 --> 00:47:38,559
+on any final exam about the differences
+
+1310
+00:47:38,559 --> 00:47:40,000
+between these different languages what
+
+1311
+00:47:40,000 --> 00:47:42,400
+i'm trying to do is give you a
+
+1312
+00:47:42,400 --> 00:47:44,640
+modern day version of what's happening
+
+1313
+00:47:44,640 --> 00:47:46,559
+in terms of the trends of languages so
+
+1314
+00:47:46,559 --> 00:47:47,440
+you don't have to know anything about
+
+1315
+00:47:47,440 --> 00:47:48,960
+stack-based languages and it's not going
+
+1316
+00:47:48,960 --> 00:47:51,440
+to be in your textbook either
+
+1317
+00:47:51,440 --> 00:47:53,920
+okay java virtual machine that you might
+
+1318
+00:47:53,920 --> 00:47:55,440
+want to be familiar with because you're
+
+1319
+00:47:55,440 --> 00:47:56,800
+probably going to program in java in the
+
+1320
+00:47:56,800 --> 00:47:58,400
+future and if you take an object during
+
+1321
+00:47:58,400 --> 00:48:00,079
+a programming class you're going to
+
+1322
+00:48:00,079 --> 00:48:02,960
+work with java so the java programming
+
+1323
+00:48:02,960 --> 00:48:04,839
+language
+
+1324
+00:48:04,839 --> 00:48:08,000
+jvm uses a java api
+
+1325
+00:48:08,000 --> 00:48:09,440
+most people are familiar with that
+
+1326
+00:48:09,440 --> 00:48:12,079
+because they've used java
+
+1327
+00:48:12,079 --> 00:48:15,680
+runtime or they've used the rte
+
+1328
+00:48:15,680 --> 00:48:18,880
+java rt which is the
+
+1329
+00:48:18,880 --> 00:48:21,280
+browser plugins most browsers have it
+
+1330
+00:48:21,280 --> 00:48:22,800
+built in already or can go out
+
+1331
+00:48:22,800 --> 00:48:25,040
+so you don't necessarily have to put it
+
+1332
+00:48:25,040 --> 00:48:26,000
+or
+
+1333
+00:48:26,000 --> 00:48:28,000
+install it anymore but you get a brand
+
+1334
+00:48:28,000 --> 00:48:29,839
+new computer sometimes you run into that
+
+1335
+00:48:29,839 --> 00:48:33,520
+so your browser needs the java runtime
+
+1336
+00:48:33,520 --> 00:48:35,040
+um and then you have to do it because
+
+1337
+00:48:35,040 --> 00:48:38,240
+something on the website is using java
+
+1338
+00:48:38,240 --> 00:48:41,359
+um the java programming environment here
+
+1339
+00:48:41,359 --> 00:48:43,040
+we have a compile time environment and
+
+1340
+00:48:43,040 --> 00:48:45,839
+we also have a runtime environment
+
+1341
+00:48:45,839 --> 00:48:48,480
+and so the java compiler takes the java
+
+1342
+00:48:48,480 --> 00:48:49,839
+files turns it into the
+
+1343
+00:48:49,839 --> 00:48:52,880
+dot class files the runtime environment
+
+1344
+00:48:52,880 --> 00:48:54,720
+takes the dot class files and
+
+1345
+00:48:54,720 --> 00:48:57,680
+runs it and so you have that executable
+
+1346
+00:48:57,680 --> 00:49:00,000
+code that's created at runtime
+
+1347
+00:49:00,000 --> 00:49:02,400
+and runs through the java apis
+
+1348
+00:49:02,400 --> 00:49:04,000
+application programming interfaces
+
+1349
+00:49:04,000 --> 00:49:06,400
+is what api stands for and so you can
+
+1350
+00:49:06,400 --> 00:49:07,440
+have the same
+
+1351
+00:49:07,440 --> 00:49:09,280
+bright code or the same intermediate
+
+1352
+00:49:09,280 --> 00:49:11,599
+code running on all of these different
+
+1353
+00:49:11,599 --> 00:49:14,640
+platforms this is linux windows
+
+1354
+00:49:14,640 --> 00:49:17,200
+your television your toaster your
+
+1355
+00:49:17,200 --> 00:49:18,960
+microwave
+
+1356
+00:49:18,960 --> 00:49:20,880
+uh the java code can run on anything as
+
+1357
+00:49:20,880 --> 00:49:22,880
+long as there's a jvm for that platform
+
+1358
+00:49:22,880 --> 00:49:25,680
+the same java code can run on it
+
+1359
+00:49:25,680 --> 00:49:28,839
+which it's kind of a cool kind of a cool
+
+1360
+00:49:28,839 --> 00:49:30,000
+concept
+
+1361
+00:49:30,000 --> 00:49:33,200
+and the virtual machine architecture
+
+1362
+00:49:33,200 --> 00:49:36,240
+is very current not only is it for
+
+1363
+00:49:36,240 --> 00:49:37,839
+development for testing but
+
+1364
+00:49:37,839 --> 00:49:40,559
+for running programs you can't you can't
+
+1365
+00:49:40,559 --> 00:49:42,720
+go wrong with a vm
+
+1366
+00:49:42,720 --> 00:49:44,559
+so the java virtual machine here where
+
+1367
+00:49:44,559 --> 00:49:46,319
+we've got your program
+
+1368
+00:49:46,319 --> 00:49:49,040
+we've got the class loader that loads
+
+1369
+00:49:49,040 --> 00:49:50,640
+the programs and then we have the
+
+1370
+00:49:50,640 --> 00:49:53,680
+execution engine um and it's all on top
+
+1371
+00:49:53,680 --> 00:49:56,400
+of the host operating system
+
+1372
+00:49:56,400 --> 00:49:58,800
+all right so if you haven't figured it
+
+1373
+00:49:58,800 --> 00:49:59,760
+out um
+
+1374
+00:49:59,760 --> 00:50:02,079
+i'm strong for a strong supporter of
+
+1375
+00:50:02,079 --> 00:50:03,520
+java
+
+1376
+00:50:03,520 --> 00:50:07,520
+java does dynamic class loading
+
+1377
+00:50:07,520 --> 00:50:09,599
+uh so the user-defined classes are
+
+1378
+00:50:09,599 --> 00:50:12,240
+loaded enables you to dynamically extend
+
+1379
+00:50:12,240 --> 00:50:16,079
+a java app at runtime so the other trend
+
+1380
+00:50:16,079 --> 00:50:17,280
+we have with modern day
+
+1381
+00:50:17,280 --> 00:50:19,359
+programming languages is the ability to
+
+1382
+00:50:19,359 --> 00:50:20,319
+keep the language
+
+1383
+00:50:20,319 --> 00:50:23,119
+running 24 hours a day seven days a week
+
+1384
+00:50:23,119 --> 00:50:24,960
+keep the program running
+
+1385
+00:50:24,960 --> 00:50:28,000
+all this time and change it while it's
+
+1386
+00:50:28,000 --> 00:50:28,880
+running
+
+1387
+00:50:28,880 --> 00:50:31,920
+so this is the one reason why python
+
+1388
+00:50:31,920 --> 00:50:33,440
+is the most popular for internet
+
+1389
+00:50:33,440 --> 00:50:36,319
+development john is also popular
+
+1390
+00:50:36,319 --> 00:50:38,240
+for internet development but not so as
+
+1391
+00:50:38,240 --> 00:50:40,240
+much as python is
+
+1392
+00:50:40,240 --> 00:50:43,280
+python runs in a pure interpreter which
+
+1393
+00:50:43,280 --> 00:50:45,599
+means any changes in the dynamic
+
+1394
+00:50:45,599 --> 00:50:47,680
+environment while the program
+
+1395
+00:50:47,680 --> 00:50:49,520
+program is running is picked up
+
+1396
+00:50:49,520 --> 00:50:50,720
+instantly
+
+1397
+00:50:50,720 --> 00:50:53,839
+so you could swap out functionality and
+
+1398
+00:50:53,839 --> 00:50:55,280
+change components
+
+1399
+00:50:55,280 --> 00:50:57,200
+while somebody is actually using your
+
+1400
+00:50:57,200 --> 00:50:58,319
+program
+
+1401
+00:50:58,319 --> 00:51:01,280
+so this is how gmail works uh while
+
+1402
+00:51:01,280 --> 00:51:02,800
+gmail is working
+
+1403
+00:51:02,800 --> 00:51:05,520
+uh your the server is going and getting
+
+1404
+00:51:05,520 --> 00:51:07,359
+your messages and populating it in and
+
+1405
+00:51:07,359 --> 00:51:08,000
+doing a bunch
+
+1406
+00:51:08,000 --> 00:51:09,359
+of stuff for you and filtering out your
+
+1407
+00:51:09,359 --> 00:51:13,040
+spam messages and doing whatever
+
+1408
+00:51:13,040 --> 00:51:14,800
+and you don't actually have to start and
+
+1409
+00:51:14,800 --> 00:51:16,160
+stop the program
+
+1410
+00:51:16,160 --> 00:51:18,480
+it's constantly running it just matters
+
+1411
+00:51:18,480 --> 00:51:19,760
+when you're gonna check your email
+
+1412
+00:51:19,760 --> 00:51:21,920
+when you're gone if you have a client
+
+1413
+00:51:21,920 --> 00:51:23,599
+side program you might have to start and
+
+1414
+00:51:23,599 --> 00:51:24,880
+stop that
+
+1415
+00:51:24,880 --> 00:51:27,040
+but your email doesn't stop your email
+
+1416
+00:51:27,040 --> 00:51:29,440
+runs 24 hours a day seven days a week
+
+1417
+00:51:29,440 --> 00:51:31,440
+and the gmail system is constantly being
+
+1418
+00:51:31,440 --> 00:51:33,760
+upgraded and so the features you logged
+
+1419
+00:51:33,760 --> 00:51:34,880
+and if you're using the web
+
+1420
+00:51:34,880 --> 00:51:37,359
+interface you can notice it actually
+
+1421
+00:51:37,359 --> 00:51:38,720
+sometimes the features
+
+1422
+00:51:38,720 --> 00:51:41,440
+change sometimes the program changes
+
+1423
+00:51:41,440 --> 00:51:42,319
+depending upon
+
+1424
+00:51:42,319 --> 00:51:45,040
+you know what year it is so all of these
+
+1425
+00:51:45,040 --> 00:51:47,040
+things can happen with ever without ever
+
+1426
+00:51:47,040 --> 00:51:48,800
+taking the program down
+
+1427
+00:51:48,800 --> 00:51:51,920
+java has the same capability uh but you
+
+1428
+00:51:51,920 --> 00:51:54,400
+have to pull a class out put a class in
+
+1429
+00:51:54,400 --> 00:51:56,400
+and sometimes it does require the server
+
+1430
+00:51:56,400 --> 00:51:57,760
+to be reloaded
+
+1431
+00:51:57,760 --> 00:52:00,880
+so it's not quite as pure
+
+1432
+00:52:00,880 --> 00:52:04,559
+as and when i say pure i mean like 100
+
+1433
+00:52:04,559 --> 00:52:08,000
+dynamic as uh python python is probably
+
+1434
+00:52:08,000 --> 00:52:11,119
+the best dynamic out there
+
+1435
+00:52:11,119 --> 00:52:13,359
+so the execution engine the back end
+
+1436
+00:52:13,359 --> 00:52:15,680
+transformation and the execution of it
+
+1437
+00:52:15,680 --> 00:52:17,839
+we have a just in time compiler we have
+
+1438
+00:52:17,839 --> 00:52:20,240
+an adaptive optimization that occurs
+
+1439
+00:52:20,240 --> 00:52:23,280
+because the jvm is an operating system
+
+1440
+00:52:23,280 --> 00:52:25,440
+so we have an operating system installed
+
+1441
+00:52:25,440 --> 00:52:28,079
+on top of an operating system
+
+1442
+00:52:28,079 --> 00:52:30,800
+and we can optimize that operating
+
+1443
+00:52:30,800 --> 00:52:32,240
+system to take advantage
+
+1444
+00:52:32,240 --> 00:52:35,440
+of of anything you know that's that's of
+
+1445
+00:52:35,440 --> 00:52:37,440
+interest for example memory management
+
+1446
+00:52:37,440 --> 00:52:39,440
+is one of the biggest ones
+
+1447
+00:52:39,440 --> 00:52:41,200
+so java was actually the first
+
+1448
+00:52:41,200 --> 00:52:42,960
+programming language to incorporate
+
+1449
+00:52:42,960 --> 00:52:45,599
+garbage collection and memory management
+
+1450
+00:52:45,599 --> 00:52:48,319
+into the runtime environment
+
+1451
+00:52:48,319 --> 00:52:50,960
+so if you haven't figured it out uh
+
+1452
+00:52:50,960 --> 00:52:53,040
+garbage collection
+
+1453
+00:52:53,040 --> 00:52:56,319
+is how we're removing components from
+
+1454
+00:52:56,319 --> 00:52:57,440
+the
+
+1455
+00:52:57,440 --> 00:52:59,200
+memory that are no longer being used are
+
+1456
+00:52:59,200 --> 00:53:00,800
+no longer being accessed
+
+1457
+00:53:00,800 --> 00:53:03,280
+in c plus that is done through a
+
+1458
+00:53:03,280 --> 00:53:04,480
+deconstructor
+
+1459
+00:53:04,480 --> 00:53:06,400
+or destructor depending upon how you
+
+1460
+00:53:06,400 --> 00:53:07,599
+like to pronounce it
+
+1461
+00:53:07,599 --> 00:53:10,079
+when you allocate memory and when the
+
+1462
+00:53:10,079 --> 00:53:11,440
+object goes out of
+
+1463
+00:53:11,440 --> 00:53:14,240
+scope that memory needs to be removed it
+
+1464
+00:53:14,240 --> 00:53:15,760
+doesn't have a built-in
+
+1465
+00:53:15,760 --> 00:53:18,160
+engine to do that java was one of the
+
+1466
+00:53:18,160 --> 00:53:20,160
+first languages that actually built in
+
+1467
+00:53:20,160 --> 00:53:21,599
+automatic garbage collection
+
+1468
+00:53:21,599 --> 00:53:23,839
+so that there's a sweeper in the jvm
+
+1469
+00:53:23,839 --> 00:53:25,760
+that goes through and picks up memory
+
+1470
+00:53:25,760 --> 00:53:27,760
+that's no longer being used
+
+1471
+00:53:27,760 --> 00:53:30,000
+which is why you don't have a destructor
+
+1472
+00:53:30,000 --> 00:53:31,119
+in that language
+
+1473
+00:53:31,119 --> 00:53:32,720
+you don't need one you don't have a copy
+
+1474
+00:53:32,720 --> 00:53:34,720
+constructor either because
+
+1475
+00:53:34,720 --> 00:53:38,960
+items don't get mixed items don't get
+
+1476
+00:53:38,960 --> 00:53:41,119
+items don't get messed up when you copy
+
+1477
+00:53:41,119 --> 00:53:42,000
+memory to memory
+
+1478
+00:53:42,000 --> 00:53:43,599
+because the memory management is more
+
+1479
+00:53:43,599 --> 00:53:45,040
+sophisticated in c
+
+1480
+00:53:45,040 --> 00:53:48,079
+plus plus if you copied one item
+
+1481
+00:53:48,079 --> 00:53:51,760
+to one object to another object
+
+1482
+00:53:51,760 --> 00:53:55,119
+the memory is going to be corrupted um
+
+1483
+00:53:55,119 --> 00:53:56,559
+we're not corrupted but it's going to
+
+1484
+00:53:56,559 --> 00:53:58,319
+copy the same memory addresses so you
+
+1485
+00:53:58,319 --> 00:54:00,000
+don't get new memory
+
+1486
+00:54:00,000 --> 00:54:02,960
+so look up the copy constructor take a
+
+1487
+00:54:02,960 --> 00:54:04,800
+look at what that's doing and
+
+1488
+00:54:04,800 --> 00:54:06,480
+it's basically what i was saying in the
+
+1489
+00:54:06,480 --> 00:54:08,480
+beginning it's creating a situation
+
+1490
+00:54:08,480 --> 00:54:10,160
+where there's a band-aid or
+
+1491
+00:54:10,160 --> 00:54:13,440
+duct tape being used to
+
+1492
+00:54:13,440 --> 00:54:15,839
+basically control what's happening with
+
+1493
+00:54:15,839 --> 00:54:18,160
+that memory
+
+1494
+00:54:18,160 --> 00:54:21,599
+okay shared data access these are all
+
+1495
+00:54:21,599 --> 00:54:22,480
+kind of
+
+1496
+00:54:22,480 --> 00:54:25,200
+thread data access stack frames this is
+
+1497
+00:54:25,200 --> 00:54:25,920
+a bunch of
+
+1498
+00:54:25,920 --> 00:54:27,280
+everything you ever wanted to know about
+
+1499
+00:54:27,280 --> 00:54:28,800
+stack frames i'm going to kind of skip
+
+1500
+00:54:28,800 --> 00:54:30,319
+through that and kind of look at
+
+1501
+00:54:30,319 --> 00:54:34,079
+uh heap the heap for example
+
+1502
+00:54:34,079 --> 00:54:36,400
+the heaping job and this lecture goes
+
+1503
+00:54:36,400 --> 00:54:37,440
+through java
+
+1504
+00:54:37,440 --> 00:54:40,160
+in a lot of different ways uh it also
+
+1505
+00:54:40,160 --> 00:54:42,160
+goes through csharpen.net as well but
+
+1506
+00:54:42,160 --> 00:54:42,960
+not not in
+
+1507
+00:54:42,960 --> 00:54:45,760
+as much detail it's about 50 slides long
+
+1508
+00:54:45,760 --> 00:54:47,200
+i'm just kind of giving you an overview
+
+1509
+00:54:47,200 --> 00:54:48,640
+of what's inside of it
+
+1510
+00:54:48,640 --> 00:54:53,119
+um java memory used in java programs is
+
+1511
+00:54:53,119 --> 00:54:53,839
+100
+
+1512
+00:54:53,839 --> 00:54:57,599
+heap um c plus plus is about 50 50.
+
+1513
+00:54:57,599 --> 00:55:00,799
+heat memory and then static memory
+
+1514
+00:55:00,799 --> 00:55:04,559
+so static memory is let me just go back
+
+1515
+00:55:04,559 --> 00:55:06,240
+to this little view here
+
+1516
+00:55:06,240 --> 00:55:09,520
+is within the stack space
+
+1517
+00:55:09,520 --> 00:55:12,559
+or within a static memory space of the
+
+1518
+00:55:12,559 --> 00:55:14,799
+process
+
+1519
+00:55:14,799 --> 00:55:16,079
+you don't need to know that for this
+
+1520
+00:55:16,079 --> 00:55:18,079
+class the differences between
+
+1521
+00:55:18,079 --> 00:55:21,440
+stack static or heap
+
+1522
+00:55:21,440 --> 00:55:23,839
+heap dynamic or static heap dynamic
+
+1523
+00:55:23,839 --> 00:55:25,440
+memory
+
+1524
+00:55:25,440 --> 00:55:26,799
+you'll get that in operating systems
+
+1525
+00:55:26,799 --> 00:55:28,720
+concepts
+
+1526
+00:55:28,720 --> 00:55:31,839
+but for the purposes of this class in
+
+1527
+00:55:31,839 --> 00:55:35,520
+c the memory space allocated for a
+
+1528
+00:55:35,520 --> 00:55:37,119
+process and a process is an
+
+1529
+00:55:37,119 --> 00:55:38,960
+operating system term for running
+
+1530
+00:55:38,960 --> 00:55:41,359
+program it's a program process
+
+1531
+00:55:41,359 --> 00:55:44,400
+the memory allocation is different than
+
+1532
+00:55:44,400 --> 00:55:46,319
+it is for other languages that work on
+
+1533
+00:55:46,319 --> 00:55:48,160
+different operating systems
+
+1534
+00:55:48,160 --> 00:55:50,720
+and also different for java so the
+
+1535
+00:55:50,720 --> 00:55:51,760
+static
+
+1536
+00:55:51,760 --> 00:55:53,760
+stack memory that you've got in that
+
+1537
+00:55:53,760 --> 00:55:57,119
+process space and c
+
+1538
+00:55:57,119 --> 00:56:00,400
+is managed by the runtime stack
+
+1539
+00:56:00,400 --> 00:56:03,680
+of the running process
+
+1540
+00:56:03,680 --> 00:56:05,359
+operating systems concepts you'll learn
+
+1541
+00:56:05,359 --> 00:56:07,839
+all about that um
+
+1542
+00:56:07,839 --> 00:56:10,559
+and so it's the memory is divided out
+
+1543
+00:56:10,559 --> 00:56:11,520
+differently
+
+1544
+00:56:11,520 --> 00:56:14,000
+in java what we're looking at is a heap
+
+1545
+00:56:14,000 --> 00:56:14,880
+dynamic
+
+1546
+00:56:14,880 --> 00:56:17,440
+or heap allocation that's controlled by
+
+1547
+00:56:17,440 --> 00:56:19,359
+the actual running program
+
+1548
+00:56:19,359 --> 00:56:21,520
+and the object versus the operating
+
+1549
+00:56:21,520 --> 00:56:23,359
+system and the jvm
+
+1550
+00:56:23,359 --> 00:56:26,240
+manages that heat memory and all that
+
+1551
+00:56:26,240 --> 00:56:27,359
+stuff i said about
+
+1552
+00:56:27,359 --> 00:56:28,960
+garbage collection is for the heat
+
+1553
+00:56:28,960 --> 00:56:30,559
+memory
+
+1554
+00:56:30,559 --> 00:56:33,760
+so the heat memory is managed by the jvm
+
+1555
+00:56:33,760 --> 00:56:36,400
+which is why we don't have to allocate
+
+1556
+00:56:36,400 --> 00:56:37,520
+and then remove
+
+1557
+00:56:37,520 --> 00:56:40,240
+memory in a java program but we do in a
+
+1558
+00:56:40,240 --> 00:56:43,040
+c plus plus program
+
+1559
+00:56:43,040 --> 00:56:46,240
+so anyway a little bit about c
+
+1560
+00:56:46,240 --> 00:56:49,359
+sharp and cnet dot-net around
+
+1561
+00:56:49,359 --> 00:56:51,359
+the year 2000 i guess it was 21 years
+
+1562
+00:56:51,359 --> 00:56:53,760
+ago microsoft releases c-sharp
+
+1563
+00:56:53,760 --> 00:56:55,119
+wow i didn't realize it was that long
+
+1564
+00:56:55,119 --> 00:56:57,920
+ago but it was about 20 years ago
+
+1565
+00:56:57,920 --> 00:56:59,839
+heavily influenced by java and c
+
+1566
+00:56:59,839 --> 00:57:03,359
+plus so um
+
+1567
+00:57:03,359 --> 00:57:06,240
+there is the question is is there
+
+1568
+00:57:06,240 --> 00:57:07,760
+anything new from the programming
+
+1569
+00:57:07,760 --> 00:57:09,119
+languages point of view
+
+1570
+00:57:09,119 --> 00:57:11,440
+not really they were kind of a combo
+
+1571
+00:57:11,440 --> 00:57:12,799
+actually
+
+1572
+00:57:12,799 --> 00:57:16,160
+microsoft's also making it a keystone
+
+1573
+00:57:16,160 --> 00:57:17,680
+in their new development well it's not
+
+1574
+00:57:17,680 --> 00:57:19,760
+new anymore but again about 20 years ago
+
+1575
+00:57:19,760 --> 00:57:21,760
+is when c sharp came out as well
+
+1576
+00:57:21,760 --> 00:57:24,000
+i want to say that net was coming out a
+
+1577
+00:57:24,000 --> 00:57:27,119
+little bit earlier than that
+
+1578
+00:57:27,119 --> 00:57:29,680
+and it's basically net is very similar
+
+1579
+00:57:29,680 --> 00:57:31,520
+to the jvm
+
+1580
+00:57:31,520 --> 00:57:34,799
+and here we got a java program and here
+
+1581
+00:57:34,799 --> 00:57:35,520
+we have a c
+
+1582
+00:57:35,520 --> 00:57:39,280
+sharp program we have a static void main
+
+1583
+00:57:39,280 --> 00:57:42,280
+we got a static void main we have a
+
+1584
+00:57:42,280 --> 00:57:43,960
+system.out.printline
+
+1585
+00:57:43,960 --> 00:57:46,480
+system.console.writeline
+
+1586
+00:57:46,480 --> 00:57:50,799
+kinda looks like java sorta
+
+1587
+00:57:50,799 --> 00:57:54,480
+yep so the net is a layered architecture
+
+1588
+00:57:54,480 --> 00:57:56,000
+that comes with a framework if you've
+
+1589
+00:57:56,000 --> 00:57:56,480
+looked at
+
+1590
+00:57:56,480 --> 00:57:58,000
+android or if you take a mobile app
+
+1591
+00:57:58,000 --> 00:58:00,000
+development course um
+
+1592
+00:58:00,000 --> 00:58:02,000
+and you look at the android it's also a
+
+1593
+00:58:02,000 --> 00:58:04,240
+layered or a stacked operating system i
+
+1594
+00:58:04,240 --> 00:58:06,079
+like to use the word layered
+
+1595
+00:58:06,079 --> 00:58:07,520
+some other people like to use the word
+
+1596
+00:58:07,520 --> 00:58:09,359
+stack uh
+
+1597
+00:58:09,359 --> 00:58:12,000
+basically you've got a framework of time
+
+1598
+00:58:12,000 --> 00:58:13,200
+upon
+
+1599
+00:58:13,200 --> 00:58:15,760
+common language runtimes you know it's
+
+1600
+00:58:15,760 --> 00:58:17,440
+stacked on top of the windows operating
+
+1601
+00:58:17,440 --> 00:58:19,079
+system in the old days you had to
+
+1602
+00:58:19,079 --> 00:58:20,240
+install.net
+
+1603
+00:58:20,240 --> 00:58:21,680
+onto your operating system now it just
+
+1604
+00:58:21,680 --> 00:58:24,559
+comes integrated in um
+
+1605
+00:58:24,559 --> 00:58:27,520
+there's different machine dependent
+
+1606
+00:58:27,520 --> 00:58:30,079
+libraries and frameworks that also work
+
+1607
+00:58:30,079 --> 00:58:32,160
+or some independent i should say machine
+
+1608
+00:58:32,160 --> 00:58:34,240
+independent frameworks
+
+1609
+00:58:34,240 --> 00:58:36,880
+sort of like the jvm level they give you
+
+1610
+00:58:36,880 --> 00:58:37,680
+things like you know
+
+1611
+00:58:37,680 --> 00:58:40,720
+vb visual basic.net and c-sharp programs
+
+1612
+00:58:40,720 --> 00:58:42,880
+that all run on the same framework
+
+1613
+00:58:42,880 --> 00:58:45,680
+so what microsoft did was make the net
+
+1614
+00:58:45,680 --> 00:58:46,559
+to run with
+
+1615
+00:58:46,559 --> 00:58:48,480
+multiple different programming languages
+
+1616
+00:58:48,480 --> 00:58:50,240
+and so like what ends up happening is
+
+1617
+00:58:50,240 --> 00:58:52,000
+people get missed this completely when
+
+1618
+00:58:52,000 --> 00:58:53,040
+they install
+
+1619
+00:58:53,040 --> 00:58:55,760
+visual studio.net and then they go in
+
+1620
+00:58:55,760 --> 00:58:57,200
+there and they go well i got like 10
+
+1621
+00:58:57,200 --> 00:58:59,839
+different languages i got asp
+
+1622
+00:58:59,839 --> 00:59:02,640
+which is the same as jsp by the way for
+
+1623
+00:59:02,640 --> 00:59:03,359
+java
+
+1624
+00:59:03,359 --> 00:59:06,640
+i got asp i got c sharp i got c plus
+
+1625
+00:59:06,640 --> 00:59:07,839
+plus i got vb
+
+1626
+00:59:07,839 --> 00:59:10,160
+i got all this crap in here and i can
+
+1627
+00:59:10,160 --> 00:59:12,000
+compile them all to the same executable
+
+1628
+00:59:12,000 --> 00:59:12,559
+file
+
+1629
+00:59:12,559 --> 00:59:13,760
+and then i could take and write part of
+
+1630
+00:59:13,760 --> 00:59:15,359
+the program here part of the program
+
+1631
+00:59:15,359 --> 00:59:17,839
+over here and stick them all together
+
+1632
+00:59:17,839 --> 00:59:18,880
+which is what you get with c
+
+1633
+00:59:18,880 --> 00:59:23,440
+sharp and asp actually um
+
+1634
+00:59:23,520 --> 00:59:25,839
+the framework does the same thing as
+
+1635
+00:59:25,839 --> 00:59:26,960
+java
+
+1636
+00:59:26,960 --> 00:59:28,480
+but instead of one java programming
+
+1637
+00:59:28,480 --> 00:59:30,720
+language you've got this
+
+1638
+00:59:30,720 --> 00:59:33,119
+sophisticated framework that can support
+
+1639
+00:59:33,119 --> 00:59:34,880
+all these other languages
+
+1640
+00:59:34,880 --> 00:59:36,480
+and then to tell you the truth it would
+
+1641
+00:59:36,480 --> 00:59:38,319
+have been super popular
+
+1642
+00:59:38,319 --> 00:59:40,319
+it's a great concept would have been
+
+1643
+00:59:40,319 --> 00:59:42,000
+super du and i'm not even a microsoft
+
+1644
+00:59:42,000 --> 00:59:44,240
+fan but it would have been super popular
+
+1645
+00:59:44,240 --> 00:59:46,720
+if when it was first launched it was
+
+1646
+00:59:46,720 --> 00:59:47,680
+launched for
+
+1647
+00:59:47,680 --> 00:59:50,799
+all operating systems not just windows
+
+1648
+00:59:50,799 --> 00:59:53,280
+so it got a lot of flack on only being
+
+1649
+00:59:53,280 --> 00:59:54,880
+used on windows and only being
+
+1650
+00:59:54,880 --> 00:59:55,760
+compatible
+
+1651
+00:59:55,760 --> 00:59:57,280
+and it hasn't been till the last couple
+
+1652
+00:59:57,280 --> 00:59:59,839
+years that they made it so it works on
+
+1653
+00:59:59,839 --> 01:00:01,119
+other platforms
+
+1654
+01:00:01,119 --> 01:00:03,280
+but the microsoft kind of shot
+
+1655
+01:00:03,280 --> 01:00:05,359
+themselves in the foot on this one
+
+1656
+01:00:05,359 --> 01:00:07,200
+by limiting it to windows thinking that
+
+1657
+01:00:07,200 --> 01:00:09,119
+windows was going to take over the world
+
+1658
+01:00:09,119 --> 01:00:12,319
+well it sort of has and it did but they
+
+1659
+01:00:12,319 --> 01:00:13,520
+should have been a little bit mindful
+
+1660
+01:00:13,520 --> 01:00:14,000
+about other
+
+1661
+01:00:14,000 --> 01:00:16,720
+operating systems when the jvm came out
+
+1662
+01:00:16,720 --> 01:00:19,119
+which came out before.net
+
+1663
+01:00:19,119 --> 01:00:21,119
+it was available for all of the other
+
+1664
+01:00:21,119 --> 01:00:22,880
+operating systems and didn't have that
+
+1665
+01:00:22,880 --> 01:00:23,680
+bias
+
+1666
+01:00:23,680 --> 01:00:25,920
+so all right so we have the common
+
+1667
+01:00:25,920 --> 01:00:27,839
+language runtime and this is
+
+1668
+01:00:27,839 --> 01:00:30,960
+pretty much going through features of c
+
+1669
+01:00:30,960 --> 01:00:32,240
+sharp now
+
+1670
+01:00:32,240 --> 01:00:34,319
+rapid application development visual
+
+1671
+01:00:34,319 --> 01:00:36,079
+development tools
+
+1672
+01:00:36,079 --> 01:00:39,359
+languages like visual basic and delphi
+
+1673
+01:00:39,359 --> 01:00:41,200
+very popular and useful c drivers
+
+1674
+01:00:41,200 --> 01:00:43,920
+optimized for such development models
+
+1675
+01:00:43,920 --> 01:00:46,640
+we have a command line interface to it
+
+1676
+01:00:46,640 --> 01:00:50,078
+platform independence
+
+1677
+01:00:50,319 --> 01:00:52,720
+more direct approach than the one taken
+
+1678
+01:00:52,720 --> 01:00:54,319
+for the java
+
+1679
+01:00:54,319 --> 01:00:57,359
+java native interface j and i
+
+1680
+01:00:57,359 --> 01:00:58,960
+which you probably haven't heard of
+
+1681
+01:00:58,960 --> 01:01:00,640
+either um
+
+1682
+01:01:00,640 --> 01:01:03,040
+syntax here's your java versus your c
+
+1683
+01:01:03,040 --> 01:01:03,839
+sharp
+
+1684
+01:01:03,839 --> 01:01:06,720
+more syntax and you know what it sort of
+
+1685
+01:01:06,720 --> 01:01:08,160
+looks the same
+
+1686
+01:01:08,160 --> 01:01:10,480
+and doesn't kind of sort of look like c
+
+1687
+01:01:10,480 --> 01:01:13,119
+plus plus as well or c
+
+1688
+01:01:13,119 --> 01:01:15,920
+all right so java pretty much stole its
+
+1689
+01:01:15,920 --> 01:01:16,880
+syntax from c
+
+1690
+01:01:16,880 --> 01:01:19,520
+plus plus and the c plus plus sold stole
+
+1691
+01:01:19,520 --> 01:01:20,720
+the syntax from
+
+1692
+01:01:20,720 --> 01:01:23,200
+c and c and c plus plus are two
+
+1693
+01:01:23,200 --> 01:01:24,240
+different languages
+
+1694
+01:01:24,240 --> 01:01:27,439
+they're not the same language
+
+1695
+01:01:27,599 --> 01:01:30,160
+so it's like the chicken or the egg
+
+1696
+01:01:30,160 --> 01:01:31,920
+where did the syntax come from and why
+
+1697
+01:01:31,920 --> 01:01:34,000
+is the syntax the same
+
+1698
+01:01:34,000 --> 01:01:36,400
+and if you haven't figured it out the
+
+1699
+01:01:36,400 --> 01:01:38,480
+syntax is the same
+
+1700
+01:01:38,480 --> 01:01:41,839
+so it's like not a mistake in this light
+
+1701
+01:01:41,839 --> 01:01:42,319
+set
+
+1702
+01:01:42,319 --> 01:01:45,680
+it's the same so
+
+1703
+01:01:45,680 --> 01:01:47,839
+familiarity makes the pot makes the
+
+1704
+01:01:47,839 --> 01:01:49,760
+language more popular
+
+1705
+01:01:49,760 --> 01:01:51,839
+um so no one's going to write a language
+
+1706
+01:01:51,839 --> 01:01:53,440
+today that doesn't use
+
+1707
+01:01:53,440 --> 01:01:56,559
+c basic syntax style well i shouldn't
+
+1708
+01:01:56,559 --> 01:01:57,520
+say that
+
+1709
+01:01:57,520 --> 01:02:00,559
+c uh not c sharp uh
+
+1710
+01:02:00,559 --> 01:02:03,680
+swift and python
+
+1711
+01:02:03,680 --> 01:02:05,920
+actually but swift is the newer one of
+
+1712
+01:02:05,920 --> 01:02:07,200
+the two uh
+
+1713
+01:02:07,200 --> 01:02:10,559
+don't use c style okay it's a variation
+
+1714
+01:02:10,559 --> 01:02:11,200
+of it
+
+1715
+01:02:11,200 --> 01:02:14,079
+so people programmers own you invest
+
+1716
+01:02:14,079 --> 01:02:17,200
+some time and you learn a language
+
+1717
+01:02:17,200 --> 01:02:18,799
+uh you want to be able to take that
+
+1718
+01:02:18,799 --> 01:02:21,599
+knowledge and reuse it in a new language
+
+1719
+01:02:21,599 --> 01:02:24,640
+so this pattern makes c-sharp popular
+
+1720
+01:02:24,640 --> 01:02:27,680
+makes java popular because this
+
+1721
+01:02:27,680 --> 01:02:30,640
+the syntax is practically identical so a
+
+1722
+01:02:30,640 --> 01:02:32,240
+little for each in there
+
+1723
+01:02:32,240 --> 01:02:33,760
+let's say sharp does have some new
+
+1724
+01:02:33,760 --> 01:02:35,760
+features added to it that that are not
+
+1725
+01:02:35,760 --> 01:02:38,160
+in java or c plus plus either so
+
+1726
+01:02:38,160 --> 01:02:40,319
+but you can kind of sort of see the
+
+1727
+01:02:40,319 --> 01:02:43,039
+illustrations here between these slides
+
+1728
+01:02:43,039 --> 01:02:46,839
+um looking pretty similar to me
+
+1729
+01:02:46,839 --> 01:02:50,400
+so try catch finally
+
+1730
+01:02:50,400 --> 01:02:53,039
+so anyway the slide set kind of goes
+
+1731
+01:02:53,039 --> 01:02:54,400
+through half a dozen of these little
+
+1732
+01:02:54,400 --> 01:02:56,559
+examples and features
+
+1733
+01:02:56,559 --> 01:03:00,640
+and and uh earlier when i said c sharp
+
+1734
+01:03:00,640 --> 01:03:03,119
+is uh not going to stick around that
+
+1735
+01:03:03,119 --> 01:03:04,880
+long it's because there's so many people
+
+1736
+01:03:04,880 --> 01:03:06,480
+out there that kind of think
+
+1737
+01:03:06,480 --> 01:03:09,119
+that there's a better approach to it and
+
+1738
+01:03:09,119 --> 01:03:09,520
+i'm not
+
+1739
+01:03:09,520 --> 01:03:11,280
+criticizing the language i actually like
+
+1740
+01:03:11,280 --> 01:03:13,280
+the language but the idea is that
+
+1741
+01:03:13,280 --> 01:03:15,119
+there's so much speculation that we can
+
+1742
+01:03:15,119 --> 01:03:16,799
+improve it we can grow it
+
+1743
+01:03:16,799 --> 01:03:20,000
+we can make a better language
+
+1744
+01:03:20,000 --> 01:03:21,760
+i don't know they thought it was going
+
+1745
+01:03:21,760 --> 01:03:23,520
+to happen with swift it didn't happen
+
+1746
+01:03:23,520 --> 01:03:24,319
+that way
+
+1747
+01:03:24,319 --> 01:03:26,640
+so you know who knows maybe c sharp is
+
+1748
+01:03:26,640 --> 01:03:28,000
+definitely going to stick around longer
+
+1749
+01:03:28,000 --> 01:03:28,640
+than c
+
+1750
+01:03:28,640 --> 01:03:32,160
+plus will but
+
+1751
+01:03:32,160 --> 01:03:35,200
+it may last as long as java who knows
+
+1752
+01:03:35,200 --> 01:03:36,799
+and the purpose of this lecture is not
+
+1753
+01:03:36,799 --> 01:03:38,480
+to criticize the languages in order to
+
+1754
+01:03:38,480 --> 01:03:40,319
+say one language is better than another
+
+1755
+01:03:40,319 --> 01:03:42,480
+they both have contributions into the
+
+1756
+01:03:42,480 --> 01:03:44,079
+computer science community and they're
+
+1757
+01:03:44,079 --> 01:03:45,520
+both all
+
+1758
+01:03:45,520 --> 01:03:48,160
+all languages are sort of a result of
+
+1759
+01:03:48,160 --> 01:03:49,359
+growing trends
+
+1760
+01:03:49,359 --> 01:03:52,000
+in operating environments as well as the
+
+1761
+01:03:52,000 --> 01:03:53,760
+different types of applications we have
+
+1762
+01:03:53,760 --> 01:03:54,960
+today
+
+1763
+01:03:54,960 --> 01:03:56,880
+you're not going to invent a language
+
+1764
+01:03:56,880 --> 01:03:58,079
+that works on a desktop
+
+1765
+01:03:58,079 --> 01:03:59,440
+and only a desktop you're going to
+
+1766
+01:03:59,440 --> 01:04:00,799
+invent a language that works on the
+
+1767
+01:04:00,799 --> 01:04:01,920
+internet
+
+1768
+01:04:01,920 --> 01:04:04,400
+if you're going to invent a new language
+
+1769
+01:04:04,400 --> 01:04:06,799
+that's just how it works
+
+1770
+01:04:06,799 --> 01:04:08,400
+and you're not going to invent a
+
+1771
+01:04:08,400 --> 01:04:09,920
+language it only works on one target
+
+1772
+01:04:09,920 --> 01:04:11,039
+platform
+
+1773
+01:04:11,039 --> 01:04:12,240
+you're gonna make sure that your
+
+1774
+01:04:12,240 --> 01:04:14,160
+language can work on anything
+
+1775
+01:04:14,160 --> 01:04:17,520
+so all right so i'm gonna stop for today
+
+1776
+01:04:17,520 --> 01:04:21,039
+and ask if there are any questions
+
+1777
+01:04:21,039 --> 01:04:23,119
+if we don't have any questions we'll do
+
+1778
+01:04:23,119 --> 01:04:24,400
+the same thing
+
+1779
+01:04:24,400 --> 01:04:26,319
+two weeks from now not the same thing
+
+1780
+01:04:26,319 --> 01:04:27,760
+i'll have a different topic for you next
+
+1781
+01:04:27,760 --> 01:04:28,240
+week
+
+1782
+01:04:28,240 --> 01:04:31,839
+is spring break there are no classes
+
+1783
+01:04:31,839 --> 01:04:32,559
+next week
+
+1784
+01:04:32,559 --> 01:04:34,559
+for any of your classes so if your
+
+1785
+01:04:34,559 --> 01:04:36,160
+teacher's trying to hold class
+
+1786
+01:04:36,160 --> 01:04:38,400
+telling this spring break spring break
+
+1787
+01:04:38,400 --> 01:04:39,440
+for the whole week
+
+1788
+01:04:39,440 --> 01:04:42,160
+uh but i will see you i think let's just
+
+1789
+01:04:42,160 --> 01:04:44,319
+take a look at my calendar real quick
+
+1790
+01:04:44,319 --> 01:04:48,480
+uh i'm gonna see you on april
+
+1791
+01:04:48,480 --> 01:04:51,359
+7th it looks like yeah next week is the
+
+1792
+01:04:51,359 --> 01:04:53,839
+31st of march oh my god we're into april
+
+1793
+01:04:53,839 --> 01:04:55,039
+already
+
+1794
+01:04:55,039 --> 01:04:58,160
+april 7th is the next time we're gonna
+
+1795
+01:04:58,160 --> 01:04:59,280
+have class
+
+1796
+01:04:59,280 --> 01:05:02,319
+it's after the spring break
+
+1797
+01:05:02,319 --> 01:05:06,839
+so questions comments or concerns or
+
+1798
+01:05:06,839 --> 01:05:08,240
+anything
+
+1799
+01:05:08,240 --> 01:05:11,680
+and i think you
+
+1800
+01:05:11,680 --> 01:05:14,160
+oh you guys still awake thank you all
+
+1801
+01:05:14,160 --> 01:05:16,960
+pretending
+
+1802
+01:05:17,119 --> 01:05:20,079
+uh looks like my internet yes we are
+
+1803
+01:05:20,079 --> 01:05:23,039
+awake okay good
+
+1804
+01:05:23,039 --> 01:05:24,640
+well it's better than having everybody
+
+1805
+01:05:24,640 --> 01:05:26,240
+try to talk at the same time
+
+1806
+01:05:26,240 --> 01:05:28,400
+so that's good there's this people are
+
+1807
+01:05:28,400 --> 01:05:30,240
+kind of adapted to zoom
+
+1808
+01:05:30,240 --> 01:05:33,440
+so kind of same patterns are occurring
+
+1809
+01:05:33,440 --> 01:05:35,200
+so unless you have any questions or
+
+1810
+01:05:35,200 --> 01:05:37,200
+anything i see you guys dropping out
+
+1811
+01:05:37,200 --> 01:05:38,880
+go ahead and drop out i'm going to wait
+
+1812
+01:05:38,880 --> 01:05:40,640
+till everybody's out before i
+
+1813
+01:05:40,640 --> 01:05:43,920
+end this call or end this meeting
+
+1814
+01:05:43,920 --> 01:05:45,680
+recording will be available have a happy
+
+1815
+01:05:45,680 --> 01:05:47,039
+spring break trying to get outside get
+
+1816
+01:05:47,039 --> 01:05:48,079
+some vitamin d
+
+1817
+01:05:48,079 --> 01:05:50,079
+some sun exposure i'm looking a little
+
+1818
+01:05:50,079 --> 01:05:52,240
+pale maybe i'll be all tan next time
+
+1819
+01:05:52,240 --> 01:05:54,319
+you see me who knows i'm gonna go out
+
+1820
+01:05:54,319 --> 01:05:56,000
+and play some girls
+
+1821
+01:05:56,000 --> 01:05:58,319
+thank you have a good one don't take
+
+1822
+01:05:58,319 --> 01:05:59,599
+life too seriously
+
+1823
+01:05:59,599 --> 01:06:05,440
+and i will see you in another week
+
+1824
+01:06:05,440 --> 01:06:08,559
+oh we got two more students krina
+
+1825
+01:06:08,559 --> 01:06:11,680
+and sid
+
+1826
+01:06:11,680 --> 01:06:15,200
+oh no no sid okay that's when i type
+
+1827
+01:06:15,200 --> 01:06:16,400
+start
+
+1828
+01:06:16,400 --> 01:06:20,300
+are you there said
+
+1829
+01:06:20,300 --> 01:06:21,680
+[Music]
+
+1830
+01:06:21,680 --> 01:06:23,599
+okay i'm gonna assume you're gone all
+
+1831
+01:06:23,599 --> 01:06:27,839
+right ciao
+

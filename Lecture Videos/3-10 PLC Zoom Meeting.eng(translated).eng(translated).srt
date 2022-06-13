@@ -1,0 +1,7864 @@
+﻿1
+00:00:02,080 --> 00:00:04,240
+good morning everyone
+
+2
+00:00:04,240 --> 00:00:07,040
+welcome to the 3-1-1 programming
+
+3
+00:00:07,040 --> 00:00:08,400
+language concepts
+
+4
+00:00:08,400 --> 00:00:11,920
+course uh hold on one second while i get
+
+5
+00:00:11,920 --> 00:00:16,079
+myself situated here
+
+6
+00:00:16,079 --> 00:00:18,800
+there we go a loud little heater going
+
+7
+00:00:18,800 --> 00:00:20,320
+on in the background there
+
+8
+00:00:20,320 --> 00:00:22,960
+uh so let's see can you guys hear me
+
+9
+00:00:22,960 --> 00:00:25,199
+okay
+
+10
+00:00:25,199 --> 00:00:28,320
+yes i just yeah great i just need one
+
+11
+00:00:28,320 --> 00:00:29,920
+person to confirm that's just great
+
+12
+00:00:29,920 --> 00:00:31,439
+thank you
+
+13
+00:00:31,439 --> 00:00:34,000
+um all right uh so you guys all took the
+
+14
+00:00:34,000 --> 00:00:34,640
+midterm
+
+15
+00:00:34,640 --> 00:00:37,600
+last week do you guys have any questions
+
+16
+00:00:37,600 --> 00:00:39,040
+about the midterm
+
+17
+00:00:39,040 --> 00:00:40,320
+i guess we should start out with those
+
+18
+00:00:40,320 --> 00:00:41,840
+questions first if there are any
+
+19
+00:00:41,840 --> 00:00:43,040
+questions
+
+20
+00:00:43,040 --> 00:00:45,680
+so this is only midterm correct excuse
+
+21
+00:00:45,680 --> 00:00:46,320
+me
+
+22
+00:00:46,320 --> 00:00:48,000
+this is the only midterm of the semester
+
+23
+00:00:48,000 --> 00:00:49,440
+right and then it's just the final
+
+24
+00:00:49,440 --> 00:00:50,000
+afterwards
+
+25
+00:00:50,000 --> 00:00:52,719
+okay we only have one midterm one
+
+26
+00:00:52,719 --> 00:00:56,399
+midterm and one final exam
+
+27
+00:00:57,199 --> 00:00:58,960
+all right well if you don't have any
+
+28
+00:00:58,960 --> 00:01:00,239
+questions um
+
+29
+00:01:00,239 --> 00:01:02,559
+you can also send me an email message
+
+30
+00:01:02,559 --> 00:01:04,720
+and i can answer them by email
+
+31
+00:01:04,720 --> 00:01:07,920
+um the scores were pretty good i was
+
+32
+00:01:07,920 --> 00:01:09,280
+pretty happy with the results
+
+33
+00:01:09,280 --> 00:01:11,439
+it seems like everyone's got a pretty
+
+34
+00:01:11,439 --> 00:01:13,280
+good grasp even though we're in the
+
+35
+00:01:13,280 --> 00:01:16,080
+kind of a weird online environment
+
+36
+00:01:16,080 --> 00:01:17,680
+everything's looking good
+
+37
+00:01:17,680 --> 00:01:20,799
+um so i'm gonna assume that you guys are
+
+38
+00:01:20,799 --> 00:01:22,240
+good with the uh
+
+39
+00:01:22,240 --> 00:01:24,080
+you know you're doing well so your
+
+40
+00:01:24,080 --> 00:01:25,600
+scores are reflecting it
+
+41
+00:01:25,600 --> 00:01:28,240
+i'm assuming there's not any problems if
+
+42
+00:01:28,240 --> 00:01:29,680
+you do have a problem you are
+
+43
+00:01:29,680 --> 00:01:31,439
+experiencing some difficulties with the
+
+44
+00:01:31,439 --> 00:01:32,079
+class
+
+45
+00:01:32,079 --> 00:01:34,240
+reaching out to me by email is a great
+
+46
+00:01:34,240 --> 00:01:36,159
+way of getting a hold of me
+
+47
+00:01:36,159 --> 00:01:39,040
+or creating a you know getting a zoom
+
+48
+00:01:39,040 --> 00:01:40,240
+session
+
+49
+00:01:40,240 --> 00:01:42,320
+scheduling a meeting with me would work
+
+50
+00:01:42,320 --> 00:01:43,439
+out just fine
+
+51
+00:01:43,439 --> 00:01:45,360
+okay so i'm going to take a look at the
+
+52
+00:01:45,360 --> 00:01:47,680
+course schedule
+
+53
+00:01:47,680 --> 00:01:49,360
+i just touch base because it's been a
+
+54
+00:01:49,360 --> 00:01:51,119
+while since the last time
+
+55
+00:01:51,119 --> 00:01:52,960
+i've seen you guys because last week was
+
+56
+00:01:52,960 --> 00:01:54,479
+the midterm week
+
+57
+00:01:54,479 --> 00:01:56,719
+um just as a side note we will not have
+
+58
+00:01:56,719 --> 00:01:57,840
+a zoom meeting
+
+59
+00:01:57,840 --> 00:02:00,640
+next week uh we will not have one
+
+60
+00:02:00,640 --> 00:02:02,000
+because
+
+61
+00:02:02,000 --> 00:02:05,040
+i will be uh navigating my way back on
+
+62
+00:02:05,040 --> 00:02:08,560
+campus believe it or not and
+
+63
+00:02:08,560 --> 00:02:10,720
+i am teaching a face-to-face class
+
+64
+00:02:10,720 --> 00:02:13,280
+starting next week on campus
+
+65
+00:02:13,280 --> 00:02:15,360
+and uh i know i don't know if i'm gonna
+
+66
+00:02:15,360 --> 00:02:16,800
+have internet access i don't know what
+
+67
+00:02:16,800 --> 00:02:18,080
+i'm gonna run into
+
+68
+00:02:18,080 --> 00:02:21,040
+and it's right after this class so i'm
+
+69
+00:02:21,040 --> 00:02:23,360
+gonna cancel next week's
+
+70
+00:02:23,360 --> 00:02:26,400
+meeting it's also st patrick's day and i
+
+71
+00:02:26,400 --> 00:02:27,520
+don't know if you guys are celebrating
+
+72
+00:02:27,520 --> 00:02:27,760
+st
+
+73
+00:02:27,760 --> 00:02:30,480
+patrick's day but next week on wednesday
+
+74
+00:02:30,480 --> 00:02:31,920
+is march
+
+75
+00:02:31,920 --> 00:02:35,680
+17th uh wednesday march 17th
+
+76
+00:02:35,680 --> 00:02:37,920
+i'm going to cancel that meeting because
+
+77
+00:02:37,920 --> 00:02:40,000
+i will be on campus
+
+78
+00:02:40,000 --> 00:02:42,959
+uh in the bbt building and i'll be
+
+79
+00:02:42,959 --> 00:02:44,319
+setting up for and
+
+80
+00:02:44,319 --> 00:02:46,480
+basically experiencing my first live
+
+81
+00:02:46,480 --> 00:02:47,440
+class
+
+82
+00:02:47,440 --> 00:02:50,000
+since the pandemic i'm so i'm really
+
+83
+00:02:50,000 --> 00:02:51,920
+excited about it but i don't know what's
+
+84
+00:02:51,920 --> 00:02:52,480
+going on
+
+85
+00:02:52,480 --> 00:02:54,800
+haven't been to campus in a year don't
+
+86
+00:02:54,800 --> 00:02:56,720
+know what to expect when i get there
+
+87
+00:02:56,720 --> 00:02:58,879
+i have a key for the door but you know
+
+88
+00:02:58,879 --> 00:02:59,920
+it might be locked
+
+89
+00:02:59,920 --> 00:03:01,920
+i have a problem and rather than having
+
+90
+00:03:01,920 --> 00:03:04,000
+you guys wait online for
+
+91
+00:03:04,000 --> 00:03:08,319
+for me to connect uh i would just rather
+
+92
+00:03:08,319 --> 00:03:11,440
+just uh just kind of cancel it and
+
+93
+00:03:11,440 --> 00:03:12,879
+test out the waters make sure i have
+
+94
+00:03:12,879 --> 00:03:14,159
+internet access and make sure
+
+95
+00:03:14,159 --> 00:03:15,920
+everything's working and then we will
+
+96
+00:03:15,920 --> 00:03:16,959
+regain
+
+97
+00:03:16,959 --> 00:03:20,080
+we will have another meeting on uh 3
+
+98
+00:03:20,080 --> 00:03:22,800
+24 and i'll do it right from the campus
+
+99
+00:03:22,800 --> 00:03:24,319
+so anyway long story short you don't
+
+100
+00:03:24,319 --> 00:03:25,920
+even know all those details but long
+
+101
+00:03:25,920 --> 00:03:27,519
+short story short we will not have a
+
+102
+00:03:27,519 --> 00:03:29,680
+meeting next week
+
+103
+00:03:29,680 --> 00:03:32,400
+so that i can make sure everything is
+
+104
+00:03:32,400 --> 00:03:33,920
+working properly
+
+105
+00:03:33,920 --> 00:03:36,400
+the classes for cs621 will be in person
+
+106
+00:03:36,400 --> 00:03:37,120
+for next week
+
+107
+00:03:37,120 --> 00:03:40,239
+that is correct uh karina
+
+108
+00:03:40,239 --> 00:03:42,480
+if you guys i know i do some grad
+
+109
+00:03:42,480 --> 00:03:44,840
+students in this class if you are in the
+
+110
+00:03:44,840 --> 00:03:46,400
+cs620
+
+111
+00:03:46,400 --> 00:03:51,040
+class uh and you're also in this class
+
+112
+00:03:51,040 --> 00:03:53,920
+uh which is kind of interesting um i
+
+113
+00:03:53,920 --> 00:03:54,879
+will be holding
+
+114
+00:03:54,879 --> 00:03:59,760
+this class via zoom in the 621 classroom
+
+115
+00:03:59,760 --> 00:04:02,080
+next uh not next week i'll be doing it
+
+116
+00:04:02,080 --> 00:04:03,439
+the following week
+
+117
+00:04:03,439 --> 00:04:04,799
+because i have no idea what i'm going to
+
+118
+00:04:04,799 --> 00:04:07,040
+run into next week
+
+119
+00:04:07,040 --> 00:04:09,360
+um so it'll be weird you can actually
+
+120
+00:04:09,360 --> 00:04:10,959
+show up early
+
+121
+00:04:10,959 --> 00:04:15,040
+if you are in the 621 uh
+
+122
+00:04:15,040 --> 00:04:16,478
+what do we mean that's gonna be
+
+123
+00:04:16,478 --> 00:04:19,519
+difficult if you're in the 620 cs621
+
+124
+00:04:19,519 --> 00:04:20,798
+class which is the graduate level
+
+125
+00:04:20,798 --> 00:04:22,479
+operating systems design class
+
+126
+00:04:22,479 --> 00:04:25,199
+and you have this class right before the
+
+127
+00:04:25,199 --> 00:04:26,400
+live
+
+128
+00:04:26,400 --> 00:04:30,479
+session i recommend showing up early
+
+129
+00:04:30,479 --> 00:04:33,600
+um i will be in the building at 11 00
+
+130
+00:04:33,600 --> 00:04:36,720
+am and i will be in that classroom at 11
+
+131
+00:04:36,720 --> 00:04:40,000
+am you can bring your computer
+
+132
+00:04:40,000 --> 00:04:43,280
+sit at a desk we'll have an online
+
+133
+00:04:43,280 --> 00:04:46,400
+zoom meeting and then we'll have the
+
+134
+00:04:46,400 --> 00:04:46,880
+live
+
+135
+00:04:46,880 --> 00:04:50,560
+6 21 meeting um
+
+136
+00:04:50,560 --> 00:04:52,240
+but next week we'll be kind of i'm going
+
+137
+00:04:52,240 --> 00:04:54,720
+to show up early next week and see
+
+138
+00:04:54,720 --> 00:04:57,520
+but i have a strange feeling i need to
+
+139
+00:04:57,520 --> 00:04:58,560
+all right i don't know about the
+
+140
+00:04:58,560 --> 00:05:00,320
+internet access i have to make sure i
+
+141
+00:05:00,320 --> 00:05:02,080
+have internet access i have to make sure
+
+142
+00:05:02,080 --> 00:05:04,880
+the logistics work out that building and
+
+143
+00:05:04,880 --> 00:05:07,199
+that classroom is not being used etc and
+
+144
+00:05:07,199 --> 00:05:09,280
+so forth so i'm going to try it out
+
+145
+00:05:09,280 --> 00:05:10,880
+experiment next week and see what
+
+146
+00:05:10,880 --> 00:05:12,639
+happens um
+
+147
+00:05:12,639 --> 00:05:16,880
+so i wish i could also come over
+
+148
+00:05:16,880 --> 00:05:21,759
+um yeah i think i'm gonna get in trouble
+
+149
+00:05:21,759 --> 00:05:25,280
+i don't think unless you're in the 621
+
+150
+00:05:25,280 --> 00:05:28,960
+the graduate class you can't
+
+151
+00:05:28,960 --> 00:05:32,560
+no i can't attend it live i ha
+
+152
+00:05:32,560 --> 00:05:35,440
+i will need to get permission for 3-1-1
+
+153
+00:05:35,440 --> 00:05:37,440
+students to show up
+
+154
+00:05:37,440 --> 00:05:41,440
+um but
+
+155
+00:05:41,440 --> 00:05:44,880
+you cannot show up yet so let's just
+
+156
+00:05:44,880 --> 00:05:46,880
+keep that one on the down low
+
+157
+00:05:46,880 --> 00:05:50,639
+and uh i know um i am missing college
+
+158
+00:05:50,639 --> 00:05:51,759
+too i'm missing
+
+159
+00:05:51,759 --> 00:05:53,360
+missing the face-to-face meeting so i
+
+160
+00:05:53,360 --> 00:05:55,440
+believe in a fall the 3-1-1 class will
+
+161
+00:05:55,440 --> 00:05:58,319
+be face-to-face by the way
+
+162
+00:05:58,319 --> 00:06:00,479
+and also my 621 class but anyway long
+
+163
+00:06:00,479 --> 00:06:01,680
+story short
+
+164
+00:06:01,680 --> 00:06:04,160
+uh i know i just gave you way too much
+
+165
+00:06:04,160 --> 00:06:05,600
+information
+
+166
+00:06:05,600 --> 00:06:09,360
+no class meeting next week for 311
+
+167
+00:06:09,360 --> 00:06:12,639
+because i'll be experimenting
+
+168
+00:06:12,639 --> 00:06:14,319
+okay so we are expected to have 50
+
+169
+00:06:14,319 --> 00:06:16,240
+percent of classes back in person for
+
+170
+00:06:16,240 --> 00:06:18,000
+those who don't know well that's good
+
+171
+00:06:18,000 --> 00:06:21,039
+thank you for that update so yeah while
+
+172
+00:06:21,039 --> 00:06:22,080
+we are discussing
+
+173
+00:06:22,080 --> 00:06:24,560
+that it's good to know 50 of the classes
+
+174
+00:06:24,560 --> 00:06:25,759
+will be back in person
+
+175
+00:06:25,759 --> 00:06:27,919
+that's good um apparently they need to
+
+176
+00:06:27,919 --> 00:06:29,600
+make sure we have enough capacity
+
+177
+00:06:29,600 --> 00:06:31,199
+uh because we're only allowed to operate
+
+178
+00:06:31,199 --> 00:06:34,880
+at 25 room capacity and
+
+179
+00:06:34,880 --> 00:06:37,039
+if you are in the 621 class and you are
+
+180
+00:06:37,039 --> 00:06:38,400
+showing up
+
+181
+00:06:38,400 --> 00:06:41,039
+uh not this semester fall semester fall
+
+182
+00:06:41,039 --> 00:06:41,919
+semester
+
+183
+00:06:41,919 --> 00:06:45,840
+next one uh fall summer
+
+184
+00:06:45,840 --> 00:06:51,520
+fall is 50 on face to face
+
+185
+00:06:51,520 --> 00:06:55,440
+summer is still 100 online
+
+186
+00:06:56,400 --> 00:07:00,000
+as far as i know just so you know
+
+187
+00:07:00,000 --> 00:07:03,199
+okay let's go back to our class so i
+
+188
+00:07:03,199 --> 00:07:04,800
+will send a message out at the end of
+
+189
+00:07:04,800 --> 00:07:06,319
+this meeting just to remind everybody
+
+190
+00:07:06,319 --> 00:07:07,919
+especially for those who did not attend
+
+191
+00:07:07,919 --> 00:07:08,720
+today
+
+192
+00:07:08,720 --> 00:07:10,080
+that next week's meeting will be
+
+193
+00:07:10,080 --> 00:07:12,880
+canceled but i will make it up for you
+
+194
+00:07:12,880 --> 00:07:14,000
+we will have a good meeting the
+
+195
+00:07:14,000 --> 00:07:16,000
+following week and i will have an
+
+196
+00:07:16,000 --> 00:07:17,360
+internet access and everything i just
+
+197
+00:07:17,360 --> 00:07:18,319
+don't like
+
+198
+00:07:18,319 --> 00:07:21,280
+just only you know unexpected issues
+
+199
+00:07:21,280 --> 00:07:22,720
+that happen
+
+200
+00:07:22,720 --> 00:07:24,479
+uh you know like showing up to a
+
+201
+00:07:24,479 --> 00:07:25,919
+building that hasn't been opened in a
+
+202
+00:07:25,919 --> 00:07:26,960
+year
+
+203
+00:07:26,960 --> 00:07:28,560
+i don't even know if i'm gonna have
+
+204
+00:07:28,560 --> 00:07:30,000
+anybody there to open the door
+
+205
+00:07:30,000 --> 00:07:32,319
+for the outdoor door for me uh so we'll
+
+206
+00:07:32,319 --> 00:07:33,360
+see what happens
+
+207
+00:07:33,360 --> 00:07:36,960
+i'm not optimistic but let's see
+
+208
+00:07:38,240 --> 00:07:41,280
+okay so last week was week seven today
+
+209
+00:07:41,280 --> 00:07:43,759
+is the 10th i believe it is march 10th
+
+210
+00:07:43,759 --> 00:07:45,680
+we are in week 8 of the class
+
+211
+00:07:45,680 --> 00:07:47,120
+you should be finishing assignment
+
+212
+00:07:47,120 --> 00:07:48,560
+number three which is due at the end of
+
+213
+00:07:48,560 --> 00:07:50,160
+this week assignment number three is on
+
+214
+00:07:50,160 --> 00:07:52,160
+scheme
+
+215
+00:07:52,160 --> 00:07:54,000
+uh the scheme programming language
+
+216
+00:07:54,000 --> 00:07:55,520
+assignment number four
+
+217
+00:07:55,520 --> 00:07:57,840
+is on a language called prologue and i'm
+
+218
+00:07:57,840 --> 00:08:00,000
+going to talk about prologue today
+
+219
+00:08:00,000 --> 00:08:01,840
+and i'll start the lecture on prologue
+
+220
+00:08:01,840 --> 00:08:05,199
+and i'll finish it next week
+
+221
+00:08:05,199 --> 00:08:07,199
+so the lecture that i'm going to cover i
+
+222
+00:08:07,199 --> 00:08:08,960
+just put up this morning
+
+223
+00:08:08,960 --> 00:08:11,599
+because i noticed it wasn't there it is
+
+224
+00:08:11,599 --> 00:08:13,520
+a review the lecture on prolog
+
+225
+00:08:13,520 --> 00:08:16,560
+programming called prologue.ppt
+
+226
+00:08:16,560 --> 00:08:19,599
+it is in the week eight materials right
+
+227
+00:08:19,599 --> 00:08:20,240
+at the top
+
+228
+00:08:20,240 --> 00:08:22,160
+right underneath assignment number four
+
+229
+00:08:22,160 --> 00:08:23,440
+so i'm going to go over assignment
+
+230
+00:08:23,440 --> 00:08:24,240
+number four
+
+231
+00:08:24,240 --> 00:08:27,599
+first and then i will go over prologue
+
+232
+00:08:27,599 --> 00:08:29,840
+i will start prologue today and then i
+
+233
+00:08:29,840 --> 00:08:31,440
+will finish it
+
+234
+00:08:31,440 --> 00:08:34,000
+not next week but the following week so
+
+235
+00:08:34,000 --> 00:08:35,519
+you have plenty of time the assignment
+
+236
+00:08:35,519 --> 00:08:37,200
+is not due until march
+
+237
+00:08:37,200 --> 00:08:40,399
+28th uh today is
+
+238
+00:08:40,399 --> 00:08:44,240
+actually the 10th uh next week is the
+
+239
+00:08:44,240 --> 00:08:46,800
+17th and then we have the 24th
+
+240
+00:08:46,800 --> 00:08:48,320
+it's not due until that week so we'll
+
+241
+00:08:48,320 --> 00:08:50,240
+have plenty of time between now and the
+
+242
+00:08:50,240 --> 00:08:51,680
+24th we are a little bit ahead of
+
+243
+00:08:51,680 --> 00:08:53,360
+schedule actually which is good
+
+244
+00:08:53,360 --> 00:08:55,600
+i had to go over prologue yeah i'm
+
+245
+00:08:55,600 --> 00:08:57,600
+thinking you're gonna find it quite easy
+
+246
+00:08:57,600 --> 00:08:59,760
+now there are some prologue lectures in
+
+247
+00:08:59,760 --> 00:09:01,519
+here these are not bad these are good
+
+248
+00:09:01,519 --> 00:09:02,880
+prologue part one
+
+249
+00:09:02,880 --> 00:09:05,279
+part two and part three you'll need to
+
+250
+00:09:05,279 --> 00:09:07,120
+know about prologue
+
+251
+00:09:07,120 --> 00:09:09,360
+from a fact and rule base but you'll
+
+252
+00:09:09,360 --> 00:09:12,800
+also need to know about the list
+
+253
+00:09:12,800 --> 00:09:15,120
+so the list processing in prologue which
+
+254
+00:09:15,120 --> 00:09:17,680
+is this list of pairs
+
+255
+00:09:17,680 --> 00:09:20,399
+so the last video has the list in it but
+
+256
+00:09:20,399 --> 00:09:22,399
+these are pretty small i would recommend
+
+257
+00:09:22,399 --> 00:09:22,959
+watching
+
+258
+00:09:22,959 --> 00:09:24,800
+all of them and also going over the
+
+259
+00:09:24,800 --> 00:09:27,600
+prologue that ppt lecture for example
+
+260
+00:09:27,600 --> 00:09:30,640
+so okay so let me switch over
+
+261
+00:09:30,640 --> 00:09:35,920
+to the assignment find the assignment
+
+262
+00:09:35,920 --> 00:09:37,360
+let's see here it is
+
+263
+00:09:37,360 --> 00:09:40,160
+that's what it is let's stop this one
+
+264
+00:09:40,160 --> 00:09:40,640
+and
+
+265
+00:09:40,640 --> 00:09:44,240
+we'll start prolog
+
+266
+00:09:44,240 --> 00:09:47,600
+i highly recommend using the swish
+
+267
+00:09:47,600 --> 00:09:49,120
+let me show that to you i just clicked
+
+268
+00:09:49,120 --> 00:09:51,200
+on the link that was in the assignment
+
+269
+00:09:51,200 --> 00:09:52,880
+i know i just started to share but let
+
+270
+00:09:52,880 --> 00:09:55,279
+me start a new share now
+
+271
+00:09:55,279 --> 00:09:58,640
+and it took me to the swiss swish
+
+272
+00:09:58,640 --> 00:10:01,920
+it's prologue and so you write the
+
+273
+00:10:01,920 --> 00:10:04,320
+syntax in this lower window down here
+
+274
+00:10:04,320 --> 00:10:06,720
+where i'm hovering my mouse
+
+275
+00:10:06,720 --> 00:10:08,720
+the output will show up over here as
+
+276
+00:10:08,720 --> 00:10:12,160
+well there's a ton of cool stuff in here
+
+277
+00:10:12,160 --> 00:10:14,480
+uh there's some prologue tutorials
+
+278
+00:10:14,480 --> 00:10:16,000
+there's some lists
+
+279
+00:10:16,000 --> 00:10:18,399
+so you can look at the list processing
+
+280
+00:10:18,399 --> 00:10:20,480
+over here and this is this is prolog
+
+281
+00:10:20,480 --> 00:10:23,680
+code on the left hand side over here
+
+282
+00:10:23,680 --> 00:10:26,240
+uh we have a little knowledge base uh
+
+283
+00:10:26,240 --> 00:10:27,519
+and i'll talk about what these things
+
+284
+00:10:27,519 --> 00:10:28,720
+are in a few minutes
+
+285
+00:10:28,720 --> 00:10:30,800
+some examples and then the examples
+
+286
+00:10:30,800 --> 00:10:32,560
+you'll see
+
+287
+00:10:32,560 --> 00:10:35,920
+puzzles you'll see
+
+288
+00:10:35,920 --> 00:10:39,200
+io machine learning graphical output
+
+289
+00:10:39,200 --> 00:10:40,160
+some ai
+
+290
+00:10:40,160 --> 00:10:42,959
+examples and so over here you've got all
+
+291
+00:10:42,959 --> 00:10:43,519
+of the
+
+292
+00:10:43,519 --> 00:10:46,959
+kind of code examples and tutorials and
+
+293
+00:10:46,959 --> 00:10:48,000
+things
+
+294
+00:10:48,000 --> 00:10:49,519
+and then over here is where you write
+
+295
+00:10:49,519 --> 00:10:51,120
+the stuff in and they have a little run
+
+296
+00:10:51,120 --> 00:10:51,920
+button here
+
+297
+00:10:51,920 --> 00:10:54,320
+and i'll run it this is just a fact this
+
+298
+00:10:54,320 --> 00:10:55,279
+is facts
+
+299
+00:10:55,279 --> 00:10:58,480
+uh that x a person loves mia
+
+300
+00:10:58,480 --> 00:11:01,360
+and that x is equal to vincent then
+
+301
+00:11:01,360 --> 00:11:02,399
+vincent
+
+302
+00:11:02,399 --> 00:11:05,920
+or x is equal to marcellus you know
+
+303
+00:11:05,920 --> 00:11:09,120
+uh in the database to see who who
+
+304
+00:11:09,120 --> 00:11:10,000
+actually look
+
+305
+00:11:10,000 --> 00:11:11,200
+and you don't know anything about
+
+306
+00:11:11,200 --> 00:11:12,480
+prologue yet so probably doesn't make
+
+307
+00:11:12,480 --> 00:11:13,440
+any
+
+308
+00:11:13,440 --> 00:11:16,480
+any probably does not make any uh sense
+
+309
+00:11:16,480 --> 00:11:17,839
+to you right now
+
+310
+00:11:17,839 --> 00:11:21,519
+um but the interface
+
+311
+00:11:21,519 --> 00:11:23,680
+is what i wanted to show you so let's go
+
+312
+00:11:23,680 --> 00:11:29,760
+back to the assignment
+
+313
+00:11:29,760 --> 00:11:31,760
+so you don't have to install anything if
+
+314
+00:11:31,760 --> 00:11:33,440
+you want to install something you can
+
+315
+00:11:33,440 --> 00:11:33,920
+install
+
+316
+00:11:33,920 --> 00:11:36,959
+swi prolog which is the same swi
+
+317
+00:11:36,959 --> 00:11:38,320
+prologue but it's not
+
+318
+00:11:38,320 --> 00:11:40,000
+running on the internet it's running on
+
+319
+00:11:40,000 --> 00:11:42,000
+your computer you'll get a screen that
+
+320
+00:11:42,000 --> 00:11:43,839
+looks very similar but you won't get all
+
+321
+00:11:43,839 --> 00:11:45,120
+of the examples
+
+322
+00:11:45,120 --> 00:11:48,160
+or the tutorial links as you do with the
+
+323
+00:11:48,160 --> 00:11:49,920
+swish online
+
+324
+00:11:49,920 --> 00:11:51,920
+so i highly recommend don't install it
+
+325
+00:11:51,920 --> 00:11:55,360
+on your computer just use swish
+
+326
+00:11:55,360 --> 00:11:58,720
+which is the online version of the swi
+
+327
+00:11:58,720 --> 00:11:59,600
+prologue
+
+328
+00:11:59,600 --> 00:12:02,160
+okay so the assignment goes through a
+
+329
+00:12:02,160 --> 00:12:02,880
+bunch of stuff
+
+330
+00:12:02,880 --> 00:12:05,920
+brief introduction to prologue
+
+331
+00:12:05,920 --> 00:12:09,600
+programming and prologue facts rules
+
+332
+00:12:09,600 --> 00:12:11,120
+i'm going to give you some powerpoint
+
+333
+00:12:11,120 --> 00:12:12,880
+information on this in a few minutes so
+
+334
+00:12:12,880 --> 00:12:14,160
+i'm not going to skip through that and
+
+335
+00:12:14,160 --> 00:12:16,240
+then your assignments towards the end
+
+336
+00:12:16,240 --> 00:12:18,399
+you have question number one given these
+
+337
+00:12:18,399 --> 00:12:20,160
+relations you're going to define some
+
+338
+00:12:20,160 --> 00:12:21,200
+new relations
+
+339
+00:12:21,200 --> 00:12:23,120
+and you're going to provide the facts
+
+340
+00:12:23,120 --> 00:12:25,200
+for father mother male and female
+
+341
+00:12:25,200 --> 00:12:27,440
+predicates and then test the entire
+
+342
+00:12:27,440 --> 00:12:30,079
+thing using prologue you'll know how to
+
+343
+00:12:30,079 --> 00:12:32,399
+do this once i go through the lecture
+
+344
+00:12:32,399 --> 00:12:34,240
+for number two you're gonna write a
+
+345
+00:12:34,240 --> 00:12:35,920
+relation remove an
+
+346
+00:12:35,920 --> 00:12:39,200
+element so it's an element
+
+347
+00:12:39,200 --> 00:12:42,399
+that is true if r is in the list
+
+348
+00:12:42,399 --> 00:12:44,399
+which results from removing one instance
+
+349
+00:12:44,399 --> 00:12:46,399
+of the element from the list
+
+350
+00:12:46,399 --> 00:12:48,959
+the relation is false if the element
+
+351
+00:12:48,959 --> 00:12:52,000
+isn't a member of the list
+
+352
+00:12:52,000 --> 00:12:54,399
+so you'll be removing an element from a
+
+353
+00:12:54,399 --> 00:12:56,240
+list
+
+354
+00:12:56,240 --> 00:13:00,800
+and this is kind of a function-ish
+
+355
+00:13:00,800 --> 00:13:03,760
+relation and then you're going to answer
+
+356
+00:13:03,760 --> 00:13:04,800
+the questions
+
+357
+00:13:04,800 --> 00:13:06,160
+what are all the answers to the
+
+358
+00:13:06,160 --> 00:13:08,399
+following queries
+
+359
+00:13:08,399 --> 00:13:11,760
+and and then you know it says ask
+
+360
+00:13:11,760 --> 00:13:15,040
+remove a from you know it's what is it
+
+361
+00:13:15,040 --> 00:13:16,480
+going to return so what are what are the
+
+362
+00:13:16,480 --> 00:13:18,839
+answers following queries and these are
+
+363
+00:13:18,839 --> 00:13:22,399
+basically queries that are run
+
+364
+00:13:22,399 --> 00:13:23,920
+using this relation that you're going to
+
+365
+00:13:23,920 --> 00:13:25,920
+create so you can run them and see what
+
+366
+00:13:25,920 --> 00:13:27,440
+the answers are
+
+367
+00:13:27,440 --> 00:13:30,000
+or you can guess at the answers and then
+
+368
+00:13:30,000 --> 00:13:31,519
+you're going to write a relation sub
+
+369
+00:13:31,519 --> 00:13:34,000
+sequence with list one list two that is
+
+370
+00:13:34,000 --> 00:13:36,000
+true if list one contains a subset of
+
+371
+00:13:36,000 --> 00:13:37,839
+the elements that are in ls2
+
+372
+00:13:37,839 --> 00:13:40,720
+in list two so so list one is in list
+
+373
+00:13:40,720 --> 00:13:41,199
+two
+
+374
+00:13:41,199 --> 00:13:43,040
+in the same order and then how many
+
+375
+00:13:43,040 --> 00:13:44,880
+different proofs uh for each one of the
+
+376
+00:13:44,880 --> 00:13:46,079
+queries
+
+377
+00:13:46,079 --> 00:13:49,120
+depends on um you know is a
+
+378
+00:13:49,120 --> 00:13:52,320
+d in the same sequence in here no
+
+379
+00:13:52,320 --> 00:13:56,800
+it's b a in here yes um
+
+380
+00:13:56,800 --> 00:13:59,199
+explain why there are so many or not so
+
+381
+00:13:59,199 --> 00:14:00,000
+many
+
+382
+00:14:00,000 --> 00:14:02,000
+and then write a prologue relation that
+
+383
+00:14:02,000 --> 00:14:04,000
+returns a list containing the union of
+
+384
+00:14:04,000 --> 00:14:05,760
+elements of two given lists you take two
+
+385
+00:14:05,760 --> 00:14:07,360
+lists and you put them together
+
+386
+00:14:07,360 --> 00:14:09,120
+and then write a relation anything you
+
+387
+00:14:09,120 --> 00:14:10,639
+want that does anything that you want is
+
+388
+00:14:10,639 --> 00:14:11,920
+not performed above
+
+389
+00:14:11,920 --> 00:14:13,680
+so you have these five questions to
+
+390
+00:14:13,680 --> 00:14:15,199
+answer and for this particular
+
+391
+00:14:15,199 --> 00:14:16,560
+assignment you want to answer
+
+392
+00:14:16,560 --> 00:14:19,600
+all five so i didn't remove any
+
+393
+00:14:19,600 --> 00:14:21,360
+to make it any easier for you because
+
+394
+00:14:21,360 --> 00:14:23,440
+these are pretty super duper easy
+
+395
+00:14:23,440 --> 00:14:24,959
+to begin with in the code you're writing
+
+396
+00:14:24,959 --> 00:14:27,519
+is extremely small
+
+397
+00:14:27,519 --> 00:14:30,639
+so keep that in mind
+
+398
+00:14:30,639 --> 00:14:32,959
+and let's talk about prologue so i'm
+
+399
+00:14:32,959 --> 00:14:34,199
+going to open up the
+
+400
+00:14:34,199 --> 00:14:37,120
+prologue.ppt unless we have any
+
+401
+00:14:37,120 --> 00:14:38,720
+questions about the assignment at this
+
+402
+00:14:38,720 --> 00:14:39,519
+point
+
+403
+00:14:39,519 --> 00:14:41,199
+until again prologue is really hard to
+
+404
+00:14:41,199 --> 00:14:44,320
+answer questions
+
+405
+00:14:44,320 --> 00:14:46,320
+all right so this is the logical
+
+406
+00:14:46,320 --> 00:14:48,160
+programming language
+
+407
+00:14:48,160 --> 00:14:49,839
+featuring prolog your new favorite
+
+408
+00:14:49,839 --> 00:14:51,839
+programming language
+
+409
+00:14:51,839 --> 00:14:55,040
+all right so prologue falls in the
+
+410
+00:14:55,040 --> 00:14:56,160
+category of
+
+411
+00:14:56,160 --> 00:14:58,880
+logic programming okay and you might
+
+412
+00:14:58,880 --> 00:15:00,160
+have noticed from looking at that
+
+413
+00:15:00,160 --> 00:15:00,800
+assignment
+
+414
+00:15:00,800 --> 00:15:04,000
+that the logic that we're using
+
+415
+00:15:04,000 --> 00:15:07,199
+can overlap into what i call functions
+
+416
+00:15:07,199 --> 00:15:08,800
+like a function it takes one list and
+
+417
+00:15:08,800 --> 00:15:10,399
+another list and puts it together
+
+418
+00:15:10,399 --> 00:15:13,199
+or a function that sees if list one is
+
+419
+00:15:13,199 --> 00:15:15,279
+part of list two
+
+420
+00:15:15,279 --> 00:15:17,760
+or returns true or false if an element
+
+421
+00:15:17,760 --> 00:15:19,120
+is actually in a list
+
+422
+00:15:19,120 --> 00:15:20,800
+which is the list processing you're
+
+423
+00:15:20,800 --> 00:15:22,880
+doing um
+
+424
+00:15:22,880 --> 00:15:25,519
+but they're functions but they're also
+
+425
+00:15:25,519 --> 00:15:26,720
+facts and rules
+
+426
+00:15:26,720 --> 00:15:28,320
+they actually instead of using all of
+
+427
+00:15:28,320 --> 00:15:32,000
+that vocabulary they call them relations
+
+428
+00:15:32,000 --> 00:15:34,480
+so it's like in the assignment the
+
+429
+00:15:34,480 --> 00:15:35,759
+wording you might have noticed the
+
+430
+00:15:35,759 --> 00:15:37,279
+wording looks a little funny
+
+431
+00:15:37,279 --> 00:15:39,440
+you see a relation what the what is the
+
+432
+00:15:39,440 --> 00:15:40,560
+relation
+
+433
+00:15:40,560 --> 00:15:42,320
+it's just another word for all this
+
+434
+00:15:42,320 --> 00:15:43,759
+other stuff so
+
+435
+00:15:43,759 --> 00:15:45,120
+we're not we don't call them functions
+
+436
+00:15:45,120 --> 00:15:46,800
+there's no such thing as a function
+
+437
+00:15:46,800 --> 00:15:50,160
+there's really no such thing as a it's a
+
+438
+00:15:50,160 --> 00:15:50,560
+list
+
+439
+00:15:50,560 --> 00:15:54,480
+really but there is a list it's logic
+
+440
+00:15:54,480 --> 00:15:57,120
+so prologue stands for programming logic
+
+441
+00:15:57,120 --> 00:15:58,720
+as you see in red here
+
+442
+00:15:58,720 --> 00:16:02,800
+pro and log so it's the most widely used
+
+443
+00:16:02,800 --> 00:16:05,440
+well okay it's like the only existing
+
+444
+00:16:05,440 --> 00:16:07,519
+logic programming language today
+
+445
+00:16:07,519 --> 00:16:10,160
+no there's no other ones out there so
+
+446
+00:16:10,160 --> 00:16:11,440
+it's the only thing you have
+
+447
+00:16:11,440 --> 00:16:13,920
+started in 1970s what is it good for
+
+448
+00:16:13,920 --> 00:16:15,199
+well oops
+
+449
+00:16:15,199 --> 00:16:18,079
+it is good for knowledge representation
+
+450
+00:16:18,079 --> 00:16:19,680
+i'll talk about that if you natural
+
+451
+00:16:19,680 --> 00:16:22,000
+language processing believe it or not
+
+452
+00:16:22,000 --> 00:16:24,880
+rubik's cube solving problems state
+
+453
+00:16:24,880 --> 00:16:25,440
+space
+
+454
+00:16:25,440 --> 00:16:27,600
+problems expert systems deductive
+
+455
+00:16:27,600 --> 00:16:30,079
+reasoning and deductive databases and
+
+456
+00:16:30,079 --> 00:16:32,959
+agents the main idea is you ask the
+
+457
+00:16:32,959 --> 00:16:34,720
+computer a question and it solves the
+
+458
+00:16:34,720 --> 00:16:37,040
+problems using principles of logic
+
+459
+00:16:37,040 --> 00:16:39,680
+okay i always say remember the eight
+
+460
+00:16:39,680 --> 00:16:41,920
+ball
+
+461
+00:16:42,480 --> 00:16:45,120
+and a magic eight ball that wasn't using
+
+462
+00:16:45,120 --> 00:16:47,120
+any programming that was just you know
+
+463
+00:16:47,120 --> 00:16:49,040
+whatever floated to the top
+
+464
+00:16:49,040 --> 00:16:50,320
+but you took the vial and you shook it
+
+465
+00:16:50,320 --> 00:16:53,040
+you said is it going to rain today
+
+466
+00:16:53,040 --> 00:16:54,959
+and the magic 8-ball comes up this is
+
+467
+00:16:54,959 --> 00:16:57,360
+highly likely
+
+468
+00:16:57,360 --> 00:17:00,240
+man that's prologue so you put a bunch
+
+469
+00:17:00,240 --> 00:17:00,800
+of data
+
+470
+00:17:00,800 --> 00:17:03,440
+into the database system or into the
+
+471
+00:17:03,440 --> 00:17:05,359
+prologue knowledge base
+
+472
+00:17:05,359 --> 00:17:07,520
+and then you ask prologue a question you
+
+473
+00:17:07,520 --> 00:17:08,799
+can ask it the same question you could
+
+474
+00:17:08,799 --> 00:17:10,799
+say is it going to rain today
+
+475
+00:17:10,799 --> 00:17:12,959
+a prologue can come back and say yes it
+
+476
+00:17:12,959 --> 00:17:14,000
+is or
+
+477
+00:17:14,000 --> 00:17:16,959
+no it's not most prologue systems they
+
+478
+00:17:16,959 --> 00:17:18,079
+don't come back with
+
+479
+00:17:18,079 --> 00:17:20,959
+you know try again later or highly
+
+480
+00:17:20,959 --> 00:17:21,839
+unlikely
+
+481
+00:17:21,839 --> 00:17:25,919
+or highly likely it's just yes or no
+
+482
+00:17:25,919 --> 00:17:28,240
+uh so you can sort of consider prologue
+
+483
+00:17:28,240 --> 00:17:29,919
+sort of like that magic 8-ball if you
+
+484
+00:17:29,919 --> 00:17:31,520
+have no idea what the magic 8 ball is
+
+485
+00:17:31,520 --> 00:17:32,000
+don't worry
+
+486
+00:17:32,000 --> 00:17:34,400
+about it you can google it later and buy
+
+487
+00:17:34,400 --> 00:17:36,559
+your family one for christmas
+
+488
+00:17:36,559 --> 00:17:38,720
+and uh you know they should be pretty
+
+489
+00:17:38,720 --> 00:17:39,919
+cheap at this point
+
+490
+00:17:39,919 --> 00:17:42,799
+uh because they're like an old old old
+
+491
+00:17:42,799 --> 00:17:43,360
+little
+
+492
+00:17:43,360 --> 00:17:47,280
+toy from the past kind of a retro toy
+
+493
+00:17:47,280 --> 00:17:50,080
+the main idea though is the same so the
+
+494
+00:17:50,080 --> 00:17:51,360
+program states the known
+
+495
+00:17:51,360 --> 00:17:54,080
+facts you ask it a question you make a
+
+496
+00:17:54,080 --> 00:17:55,919
+statement and ask the computer to search
+
+497
+00:17:55,919 --> 00:17:57,760
+for a proof that is true
+
+498
+00:17:57,760 --> 00:17:59,440
+and then the additional mechanisms are
+
+499
+00:17:59,440 --> 00:18:01,679
+provided to guide the search to find and
+
+500
+00:18:01,679 --> 00:18:03,840
+proof
+
+501
+00:18:03,840 --> 00:18:06,639
+let's compare this
+
+502
+00:18:06,880 --> 00:18:11,200
+okay so c c is an imperative programming
+
+503
+00:18:11,200 --> 00:18:13,520
+language
+
+504
+00:18:13,520 --> 00:18:16,960
+prologue is a declarative programming
+
+505
+00:18:16,960 --> 00:18:19,120
+language
+
+506
+00:18:19,120 --> 00:18:22,799
+it's like okay imperative languages
+
+507
+00:18:22,799 --> 00:18:25,600
+are things that have assignment
+
+508
+00:18:25,600 --> 00:18:26,720
+expressions
+
+509
+00:18:26,720 --> 00:18:31,039
+variables iteration the programmer
+
+510
+00:18:31,039 --> 00:18:33,440
+designs the way the program is going to
+
+511
+00:18:33,440 --> 00:18:34,320
+run
+
+512
+00:18:34,320 --> 00:18:36,080
+and it runs the same way every time you
+
+513
+00:18:36,080 --> 00:18:37,840
+run it well
+
+514
+00:18:37,840 --> 00:18:39,919
+give or take a few event driven
+
+515
+00:18:39,919 --> 00:18:42,400
+statements of code that you could put in
+
+516
+00:18:42,400 --> 00:18:44,480
+but for the most part your c function
+
+517
+00:18:44,480 --> 00:18:45,440
+runs like your c
+
+518
+00:18:45,440 --> 00:18:48,480
+function your main function just runs
+
+519
+00:18:48,480 --> 00:18:51,600
+the c commands in the same order every
+
+520
+00:18:51,600 --> 00:18:52,880
+time you run it
+
+521
+00:18:52,880 --> 00:18:55,679
+in a declarative programming language
+
+522
+00:18:55,679 --> 00:18:56,160
+you make
+
+523
+00:18:56,160 --> 00:18:59,559
+declarations so you don't have a
+
+524
+00:18:59,559 --> 00:19:02,000
+predetermined flow of execution through
+
+525
+00:19:02,000 --> 00:19:03,840
+the program
+
+526
+00:19:03,840 --> 00:19:07,520
+instead you ask it questions and it
+
+527
+00:19:07,520 --> 00:19:11,120
+answers you in a symbolic language form
+
+528
+00:19:11,120 --> 00:19:13,760
+so prolog is declarative you make
+
+529
+00:19:13,760 --> 00:19:14,720
+declarations
+
+530
+00:19:14,720 --> 00:19:16,640
+and i'll show you some examples of these
+
+531
+00:19:16,640 --> 00:19:18,559
+in a few minutes but declarations
+
+532
+00:19:18,559 --> 00:19:20,720
+generally come out in the form of facts
+
+533
+00:19:20,720 --> 00:19:22,240
+and rules
+
+534
+00:19:22,240 --> 00:19:24,000
+which is part of what the concept of a
+
+535
+00:19:24,000 --> 00:19:25,760
+knowledge base is
+
+536
+00:19:25,760 --> 00:19:30,080
+okay so the logic is non-procedural
+
+537
+00:19:30,080 --> 00:19:32,880
+it doesn't go from one line at the top
+
+538
+00:19:32,880 --> 00:19:35,039
+of the code to the bottom of the code
+
+539
+00:19:35,039 --> 00:19:37,520
+when you write the database you're
+
+540
+00:19:37,520 --> 00:19:39,600
+populating it with things and the things
+
+541
+00:19:39,600 --> 00:19:41,280
+you're populating it with
+
+542
+00:19:41,280 --> 00:19:43,919
+are relevant facts and rules even the
+
+543
+00:19:43,919 --> 00:19:44,400
+list
+
+544
+00:19:44,400 --> 00:19:47,679
+is a fact and the list processing is a
+
+545
+00:19:47,679 --> 00:19:49,039
+rule
+
+546
+00:19:49,039 --> 00:19:51,520
+the method of inferences whatever is
+
+547
+00:19:51,520 --> 00:19:54,559
+desired to produce the results
+
+548
+00:19:54,559 --> 00:19:56,559
+it's based on this predicate calculus
+
+549
+00:19:56,559 --> 00:19:58,000
+kind of concept and i'm going to come
+
+550
+00:19:58,000 --> 00:19:59,520
+through an example or two in a few
+
+551
+00:19:59,520 --> 00:20:00,960
+minutes that will show you
+
+552
+00:20:00,960 --> 00:20:03,200
+what this actually means and here's sort
+
+553
+00:20:03,200 --> 00:20:05,200
+of the way that you write the statements
+
+554
+00:20:05,200 --> 00:20:05,600
+you
+
+555
+00:20:05,600 --> 00:20:08,080
+they're called horn clauses and i guess
+
+556
+00:20:08,080 --> 00:20:10,480
+you'd have to go back to discrete math
+
+557
+00:20:10,480 --> 00:20:13,520
+uh yeah i think this is just great math
+
+558
+00:20:13,520 --> 00:20:17,440
+uh where you get like boolean
+
+559
+00:20:17,440 --> 00:20:20,559
+boolean algebra stuff and you get horn
+
+560
+00:20:20,559 --> 00:20:22,000
+clauses like so if
+
+561
+00:20:22,000 --> 00:20:25,600
+a one and a two and a three then h
+
+562
+00:20:25,600 --> 00:20:29,360
+so h is the head the body is a1 and u2
+
+563
+00:20:29,360 --> 00:20:32,080
+so if x is this is how the logic goes so
+
+564
+00:20:32,080 --> 00:20:34,640
+if x is positive and y is negative
+
+565
+00:20:34,640 --> 00:20:37,919
+then y is less than x
+
+566
+00:20:37,919 --> 00:20:41,120
+i think that's discrete math and prolog
+
+567
+00:20:41,120 --> 00:20:42,240
+is written like
+
+568
+00:20:42,240 --> 00:20:44,000
+this and we sort of saw that because it
+
+569
+00:20:44,000 --> 00:20:45,600
+was a sample that was
+
+570
+00:20:45,600 --> 00:20:48,640
+running on the swish interface
+
+571
+00:20:48,640 --> 00:20:50,240
+where we make this and this thing is
+
+572
+00:20:50,240 --> 00:20:52,240
+called a proposition a proposition
+
+573
+00:20:52,240 --> 00:20:54,880
+is a logical statement that uses a
+
+574
+00:20:54,880 --> 00:20:56,480
+relationship
+
+575
+00:20:56,480 --> 00:21:00,799
+but there's no value to the actual words
+
+576
+00:21:00,799 --> 00:21:04,480
+so man john likes pizza and
+
+577
+00:21:04,480 --> 00:21:07,919
+baseball they're called funktors
+
+578
+00:21:07,919 --> 00:21:09,840
+it's kind of like a function but they're
+
+579
+00:21:09,840 --> 00:21:10,960
+not really a function
+
+580
+00:21:10,960 --> 00:21:13,120
+and then what's in the brackets are
+
+581
+00:21:13,120 --> 00:21:14,880
+parameters
+
+582
+00:21:14,880 --> 00:21:17,200
+but mostly these are i call them just
+
+583
+00:21:17,200 --> 00:21:19,039
+you could just call them facts
+
+584
+00:21:19,039 --> 00:21:21,840
+the fact of the matter is that john is a
+
+585
+00:21:21,840 --> 00:21:22,480
+man
+
+586
+00:21:22,480 --> 00:21:25,600
+and pete's and john likes or people can
+
+587
+00:21:25,600 --> 00:21:29,120
+like pizza and baseball
+
+588
+00:21:29,679 --> 00:21:32,320
+and then we put these facts together and
+
+589
+00:21:32,320 --> 00:21:34,799
+they might consist of two or more
+
+590
+00:21:34,799 --> 00:21:37,360
+of the logical connectors for example we
+
+591
+00:21:37,360 --> 00:21:38,720
+have like the negative
+
+592
+00:21:38,720 --> 00:21:41,760
+not a or a and b a or b
+
+593
+00:21:41,760 --> 00:21:44,080
+this is definitely discrete math a is
+
+594
+00:21:44,080 --> 00:21:45,120
+equivalent to b
+
+595
+00:21:45,120 --> 00:21:48,159
+a implies b b implies a implication
+
+596
+00:21:48,159 --> 00:21:48,880
+equation
+
+597
+00:21:48,880 --> 00:21:51,200
+conjunction negative all of the
+
+598
+00:21:51,200 --> 00:21:52,880
+different possibilities that
+
+599
+00:21:52,880 --> 00:21:54,880
+are part of the foundation of predicate
+
+600
+00:21:54,880 --> 00:21:56,880
+calculus you don't really have to do
+
+601
+00:21:56,880 --> 00:22:00,400
+too much math to figure out the kind of
+
+602
+00:22:00,400 --> 00:22:02,640
+formulas to use because you're only
+
+603
+00:22:02,640 --> 00:22:04,240
+using all of them all over again it's
+
+604
+00:22:04,240 --> 00:22:06,320
+like maybe half a dozen like six ways of
+
+605
+00:22:06,320 --> 00:22:08,080
+expressing it
+
+606
+00:22:08,080 --> 00:22:10,720
+variables appear in the formula but only
+
+607
+00:22:10,720 --> 00:22:12,799
+when introduced by qualifiers
+
+608
+00:22:12,799 --> 00:22:16,000
+so for example for all women are
+
+609
+00:22:16,000 --> 00:22:20,159
+human there is no sport that bill likes
+
+610
+00:22:20,159 --> 00:22:23,919
+and this is not prologue code over here
+
+611
+00:22:23,919 --> 00:22:26,000
+uh this is just an illustration of the
+
+612
+00:22:26,000 --> 00:22:28,960
+concept of the qualifiers
+
+613
+00:22:28,960 --> 00:22:30,720
+i'm going to show you some code in a few
+
+614
+00:22:30,720 --> 00:22:33,039
+minutes there's a resolution and then
+
+615
+00:22:33,039 --> 00:22:34,559
+there's unification
+
+616
+00:22:34,559 --> 00:22:36,400
+there's forward and there's backward
+
+617
+00:22:36,400 --> 00:22:37,840
+reasoning so what we're talking about
+
+618
+00:22:37,840 --> 00:22:40,159
+now is the reasoning system
+
+619
+00:22:40,159 --> 00:22:42,159
+so you type in a bunch of facts you type
+
+620
+00:22:42,159 --> 00:22:43,760
+in a bunch of rules
+
+621
+00:22:43,760 --> 00:22:46,080
+and then you pick a reasoning system and
+
+622
+00:22:46,080 --> 00:22:47,120
+the reasoning system
+
+623
+00:22:47,120 --> 00:22:50,480
+by default is selected by the
+
+624
+00:22:50,480 --> 00:22:53,280
+interpreter so your runtime interpreter
+
+625
+00:22:53,280 --> 00:22:54,320
+let's say in
+
+626
+00:22:54,320 --> 00:22:58,159
+python is reading each line of code
+
+627
+00:22:58,159 --> 00:23:01,600
+and it is executing
+
+628
+00:23:01,600 --> 00:23:04,320
+whatever it is the user wants you to do
+
+629
+00:23:04,320 --> 00:23:05,919
+you say you write code in python very
+
+630
+00:23:05,919 --> 00:23:08,080
+similar to write code in c
+
+631
+00:23:08,080 --> 00:23:11,120
+line by line and it's running in
+
+632
+00:23:11,120 --> 00:23:12,960
+sort of a pseudo-imperative kind of
+
+633
+00:23:12,960 --> 00:23:14,720
+fashion
+
+634
+00:23:14,720 --> 00:23:17,840
+in prolog you put a fact in it's like
+
+635
+00:23:17,840 --> 00:23:18,880
+okay here's a fact
+
+636
+00:23:18,880 --> 00:23:20,240
+put another factor here's another factor
+
+637
+00:23:20,240 --> 00:23:21,360
+there's another factor there's another
+
+638
+00:23:21,360 --> 00:23:22,480
+fact
+
+639
+00:23:22,480 --> 00:23:24,320
+and the interpreter is keeping track of
+
+640
+00:23:24,320 --> 00:23:25,520
+where where are the facts
+
+641
+00:23:25,520 --> 00:23:28,559
+where the lists where are the rules you
+
+642
+00:23:28,559 --> 00:23:30,159
+know and there's all these categories of
+
+643
+00:23:30,159 --> 00:23:31,600
+things that you're putting into the
+
+644
+00:23:31,600 --> 00:23:33,200
+system and you're populating it
+
+645
+00:23:33,200 --> 00:23:36,080
+which is called the knowledge base and
+
+646
+00:23:36,080 --> 00:23:38,400
+then the runtime's job
+
+647
+00:23:38,400 --> 00:23:40,480
+is to provide the resolution and
+
+648
+00:23:40,480 --> 00:23:42,720
+unification
+
+649
+00:23:42,720 --> 00:23:46,320
+so resolution is how do we deduce from
+
+650
+00:23:46,320 --> 00:23:47,919
+multiple horn clauses
+
+651
+00:23:47,919 --> 00:23:50,080
+the answer how do we solve the problem
+
+652
+00:23:50,080 --> 00:23:51,080
+so the
+
+653
+00:23:51,080 --> 00:23:54,640
+compiler aka interpreter
+
+654
+00:23:54,640 --> 00:23:57,919
+is solving the problem for us
+
+655
+00:23:57,919 --> 00:24:00,159
+so we give it a problem and it solves
+
+656
+00:24:00,159 --> 00:24:01,760
+the problem so if the head of the horn
+
+657
+00:24:01,760 --> 00:24:02,960
+clause
+
+658
+00:24:02,960 --> 00:24:04,640
+let's say number one matches one of the
+
+659
+00:24:04,640 --> 00:24:06,400
+terms and then whole class number two
+
+660
+00:24:06,400 --> 00:24:08,080
+then when we replace them in the body
+
+661
+00:24:08,080 --> 00:24:09,440
+and the clause number one
+
+662
+00:24:09,440 --> 00:24:11,039
+and yeah yeah you don't really need to
+
+663
+00:24:11,039 --> 00:24:12,640
+do that the interpreter is doing it for
+
+664
+00:24:12,640 --> 00:24:14,000
+us and how do you determine when the
+
+665
+00:24:14,000 --> 00:24:14,960
+hypothesis
+
+666
+00:24:14,960 --> 00:24:17,919
+are satisfied is when you get a match
+
+667
+00:24:17,919 --> 00:24:20,080
+when there's some sort of substitution
+
+668
+00:24:20,080 --> 00:24:21,679
+that makes sense
+
+669
+00:24:21,679 --> 00:24:24,960
+so if you can substitute in data facts
+
+670
+00:24:24,960 --> 00:24:28,480
+into rules follow the rule
+
+671
+00:24:28,480 --> 00:24:31,600
+to find another substitution and you're
+
+672
+00:24:31,600 --> 00:24:33,760
+asking if that substitution exists
+
+673
+00:24:33,760 --> 00:24:36,159
+and if it's found the prologue system
+
+674
+00:24:36,159 --> 00:24:38,960
+can come back and say yes
+
+675
+00:24:38,960 --> 00:24:42,559
+if not then it says no let me give you a
+
+676
+00:24:42,559 --> 00:24:44,000
+little example and then there's an
+
+677
+00:24:44,000 --> 00:24:45,760
+example on the screen
+
+678
+00:24:45,760 --> 00:24:47,440
+but let me give you one actually let me
+
+679
+00:24:47,440 --> 00:24:48,559
+go through the one on the screen i'll
+
+680
+00:24:48,559 --> 00:24:48,960
+give you
+
+681
+00:24:48,960 --> 00:24:50,720
+another one that makes more sense the
+
+682
+00:24:50,720 --> 00:24:52,640
+resolution this is we're talking about
+
+683
+00:24:52,640 --> 00:24:54,559
+the resolution to resolve
+
+684
+00:24:54,559 --> 00:24:57,760
+the problem it's an inference rule
+
+685
+00:24:57,760 --> 00:24:59,840
+that allows us to infer propositions to
+
+686
+00:24:59,840 --> 00:25:01,360
+be computed by a given process of
+
+687
+00:25:01,360 --> 00:25:02,960
+position so suppose we have two
+
+688
+00:25:02,960 --> 00:25:04,559
+propositions
+
+689
+00:25:04,559 --> 00:25:07,679
+b implies a and d implies
+
+690
+00:25:07,679 --> 00:25:11,200
+c and then a is identical to d
+
+691
+00:25:11,200 --> 00:25:12,880
+and suppose they're going to be name a d
+
+692
+00:25:12,880 --> 00:25:15,520
+is t
+
+693
+00:25:15,520 --> 00:25:19,919
+then here we can infer that b implies c
+
+694
+00:25:19,919 --> 00:25:20,960
+all right let me give you something in
+
+695
+00:25:20,960 --> 00:25:23,600
+plain english
+
+696
+00:25:24,320 --> 00:25:27,520
+all tall people so just this is not true
+
+697
+00:25:27,520 --> 00:25:28,720
+i'm just making some crap
+
+698
+00:25:28,720 --> 00:25:32,080
+up here all tall people like
+
+699
+00:25:32,080 --> 00:25:35,279
+pizza bill
+
+700
+00:25:35,279 --> 00:25:40,799
+is a tall person does bill like pizza
+
+701
+00:25:40,799 --> 00:25:43,600
+yes yes phil likes pizza because all
+
+702
+00:25:43,600 --> 00:25:44,720
+tall people
+
+703
+00:25:44,720 --> 00:25:48,960
+like pizza mary is short does mary like
+
+704
+00:25:48,960 --> 00:25:49,840
+pizza
+
+705
+00:25:49,840 --> 00:25:53,440
+no okay
+
+706
+00:25:53,440 --> 00:25:57,200
+all people who like pizza
+
+707
+00:25:57,200 --> 00:26:00,799
+also like baseball
+
+708
+00:26:01,279 --> 00:26:05,679
+john likes pizza does john like baseball
+
+709
+00:26:05,679 --> 00:26:09,120
+prologue can say yes all right simple i
+
+710
+00:26:09,120 --> 00:26:10,320
+know very simple
+
+711
+00:26:10,320 --> 00:26:13,039
+very simplified okay imagine more
+
+712
+00:26:13,039 --> 00:26:14,720
+complex
+
+713
+00:26:14,720 --> 00:26:18,159
+logic with multiple different
+
+714
+00:26:18,159 --> 00:26:22,799
+levels or layers for example
+
+715
+00:26:22,799 --> 00:26:25,679
+it rains outside when there is a high
+
+716
+00:26:25,679 --> 00:26:26,400
+level
+
+717
+00:26:26,400 --> 00:26:29,520
+of precipitation as
+
+718
+00:26:29,520 --> 00:26:32,960
+is a fact high level precipitation rain
+
+719
+00:26:32,960 --> 00:26:36,159
+low level precipitation no rain
+
+720
+00:26:36,159 --> 00:26:38,799
+clouds in the sky rain no clouds in the
+
+721
+00:26:38,799 --> 00:26:39,600
+sky
+
+722
+00:26:39,600 --> 00:26:43,200
+no rain um temperature
+
+723
+00:26:43,200 --> 00:26:46,559
+above 70. no rain
+
+724
+00:26:46,559 --> 00:26:50,720
+temperature below 50 possible rain
+
+725
+00:26:50,720 --> 00:26:53,760
+could rain um
+
+726
+00:26:53,760 --> 00:26:57,200
+the months of the year you know january
+
+727
+00:26:57,200 --> 00:26:58,799
+february march april may
+
+728
+00:26:58,799 --> 00:27:01,840
+with their associated rain values
+
+729
+00:27:01,840 --> 00:27:04,799
+likelihood of rain yes or no and then
+
+730
+00:27:04,799 --> 00:27:06,159
+you ask the question
+
+731
+00:27:06,159 --> 00:27:10,000
+on march 17th is it going to rain
+
+732
+00:27:10,000 --> 00:27:11,279
+and then prologue would come back and
+
+733
+00:27:11,279 --> 00:27:14,080
+say yes actually training right now in
+
+734
+00:27:14,080 --> 00:27:14,559
+campbell
+
+735
+00:27:14,559 --> 00:27:18,399
+so i can say yes but why did it say yes
+
+736
+00:27:18,399 --> 00:27:20,000
+well because he goes back and says well
+
+737
+00:27:20,000 --> 00:27:22,080
+in march there's a highly likelihood of
+
+738
+00:27:22,080 --> 00:27:23,200
+rain
+
+739
+00:27:23,200 --> 00:27:24,480
+if there's cloud and there's clouds in
+
+740
+00:27:24,480 --> 00:27:26,399
+the sky okay there's rain so it's
+
+741
+00:27:26,399 --> 00:27:29,039
+it might you know need more information
+
+742
+00:27:29,039 --> 00:27:30,720
+it might come back and say
+
+743
+00:27:30,720 --> 00:27:34,399
+uh no and says well there's clouds in
+
+744
+00:27:34,399 --> 00:27:35,919
+the sky
+
+745
+00:27:35,919 --> 00:27:39,600
+and it's march and the precipitation is
+
+746
+00:27:39,600 --> 00:27:40,320
+high
+
+747
+00:27:40,320 --> 00:27:43,279
+and the temperature is low then prologue
+
+748
+00:27:43,279 --> 00:27:44,960
+can come back and say yes
+
+749
+00:27:44,960 --> 00:27:47,840
+so it's just the way humans think and
+
+750
+00:27:47,840 --> 00:27:48,880
+it's used a lot
+
+751
+00:27:48,880 --> 00:27:51,039
+in artificial intelligence and for
+
+752
+00:27:51,039 --> 00:27:52,559
+natural language processing believe it
+
+753
+00:27:52,559 --> 00:27:53,440
+or not to come out
+
+754
+00:27:53,440 --> 00:27:55,200
+and to formulate a response to a
+
+755
+00:27:55,200 --> 00:27:56,799
+question
+
+756
+00:27:56,799 --> 00:27:59,120
+from a bot or from some sort of a
+
+757
+00:27:59,120 --> 00:28:01,760
+logical inference that might be made
+
+758
+00:28:01,760 --> 00:28:03,679
+so unification is the process of finding
+
+759
+00:28:03,679 --> 00:28:05,679
+values for variables
+
+760
+00:28:05,679 --> 00:28:07,600
+during the resolutions so that the
+
+761
+00:28:07,600 --> 00:28:09,520
+matching process can succeed that's what
+
+762
+00:28:09,520 --> 00:28:12,399
+i just did it was unification by saying
+
+763
+00:28:12,399 --> 00:28:15,840
+it's march today is on march 17th but
+
+764
+00:28:15,840 --> 00:28:16,960
+today is march 10th
+
+765
+00:28:16,960 --> 00:28:20,000
+i have to say i'm stuck on the 17th you
+
+766
+00:28:20,000 --> 00:28:20,559
+know
+
+767
+00:28:20,559 --> 00:28:22,240
+i can look it up and i can use
+
+768
+00:28:22,240 --> 00:28:23,760
+unification
+
+769
+00:28:23,760 --> 00:28:27,840
+to find a correlating fact
+
+770
+00:28:27,840 --> 00:28:31,679
+to contribute to my resolution process
+
+771
+00:28:31,679 --> 00:28:33,919
+and instantiations temporary binding of
+
+772
+00:28:33,919 --> 00:28:34,799
+a value
+
+773
+00:28:34,799 --> 00:28:36,960
+and type to a variable to allow the
+
+774
+00:28:36,960 --> 00:28:38,640
+unification to happen the variables
+
+775
+00:28:38,640 --> 00:28:39,440
+instantiate
+
+776
+00:28:39,440 --> 00:28:41,919
+only during the resolution process
+
+777
+00:28:41,919 --> 00:28:43,120
+anyway there's a lot of
+
+778
+00:28:43,120 --> 00:28:45,600
+stuff you don't really have to know but
+
+779
+00:28:45,600 --> 00:28:48,080
+it kind of explains
+
+780
+00:28:48,080 --> 00:28:51,039
+how the prologue engine kind of works
+
+781
+00:28:51,039 --> 00:28:52,720
+all right so i'm going to kind of skip
+
+782
+00:28:52,720 --> 00:28:54,000
+ahead you can read this on your own a
+
+783
+00:28:54,000 --> 00:28:55,279
+little bit here i'm just going to kind
+
+784
+00:28:55,279 --> 00:28:58,000
+of skip ahead past the terminology and
+
+785
+00:28:58,000 --> 00:29:00,799
+go right into the syntax
+
+786
+00:29:00,799 --> 00:29:04,000
+okay we have a goal we have a query
+
+787
+00:29:04,000 --> 00:29:05,840
+we usually have a question mark at the
+
+788
+00:29:05,840 --> 00:29:08,159
+front it tells the prolog interpreter
+
+789
+00:29:08,159 --> 00:29:10,880
+see if it can solve and prove a problem
+
+790
+00:29:10,880 --> 00:29:13,120
+okay we have facts
+
+791
+00:29:13,120 --> 00:29:16,799
+rules and queries so in the first one
+
+792
+00:29:16,799 --> 00:29:18,559
+you have a family tree and i'll tell you
+
+793
+00:29:18,559 --> 00:29:20,559
+that the first
+
+794
+00:29:20,559 --> 00:29:23,039
+question on the homework assignment is
+
+795
+00:29:23,039 --> 00:29:25,760
+actually answered in this lecture
+
+796
+00:29:25,760 --> 00:29:27,279
+it's answered in the lecture further
+
+797
+00:29:27,279 --> 00:29:29,039
+down the road here
+
+798
+00:29:29,039 --> 00:29:30,559
+and i'm going to get to it momentarily
+
+799
+00:29:30,559 --> 00:29:32,559
+and i'll show you the answer before
+
+800
+00:29:32,559 --> 00:29:34,159
+this meeting is over just in case you
+
+801
+00:29:34,159 --> 00:29:35,919
+want to work on that assignment
+
+802
+00:29:35,919 --> 00:29:37,760
+next week and we don't we haven't
+
+803
+00:29:37,760 --> 00:29:40,640
+finished the lecture yet
+
+804
+00:29:40,640 --> 00:29:42,000
+so we have a collection of effects and
+
+805
+00:29:42,000 --> 00:29:44,320
+rules that's called the knowledge base
+
+806
+00:29:44,320 --> 00:29:47,440
+so it's kind of like um
+
+807
+00:29:47,440 --> 00:29:49,279
+it's kind of like human learning and if
+
+808
+00:29:49,279 --> 00:29:51,360
+you look at it from an ai perspective or
+
+809
+00:29:51,360 --> 00:29:51,919
+a machine
+
+810
+00:29:51,919 --> 00:29:54,799
+learning perspective it represents the
+
+811
+00:29:54,799 --> 00:29:55,360
+brain
+
+812
+00:29:55,360 --> 00:29:59,120
+the human brain so for example um
+
+813
+00:29:59,120 --> 00:30:02,320
+we go through life memorizing things
+
+814
+00:30:02,320 --> 00:30:04,159
+and then we go through life learning
+
+815
+00:30:04,159 --> 00:30:05,440
+rules
+
+816
+00:30:05,440 --> 00:30:07,440
+and we constantly ask ourselves
+
+817
+00:30:07,440 --> 00:30:10,960
+questions to navigate through life
+
+818
+00:30:10,960 --> 00:30:13,840
+you know for example uh everybody's
+
+819
+00:30:13,840 --> 00:30:16,960
+learned the rule of what hot and cold is
+
+820
+00:30:16,960 --> 00:30:20,080
+and everybody has learned the rules of
+
+821
+00:30:20,080 --> 00:30:22,559
+which items are associated with hot and
+
+822
+00:30:22,559 --> 00:30:23,600
+cold
+
+823
+00:30:23,600 --> 00:30:26,000
+so as a baby everybody burned themselves
+
+824
+00:30:26,000 --> 00:30:27,520
+at least one time
+
+825
+00:30:27,520 --> 00:30:29,520
+and you froze yourself at least one time
+
+826
+00:30:29,520 --> 00:30:31,520
+so you could feel
+
+827
+00:30:31,520 --> 00:30:33,919
+what he felt like actually a
+
+828
+00:30:33,919 --> 00:30:35,679
+psychologist say this is true
+
+829
+00:30:35,679 --> 00:30:37,600
+everybody has burned themselves one time
+
+830
+00:30:37,600 --> 00:30:38,960
+how do you how do you know what hot is
+
+831
+00:30:38,960 --> 00:30:40,320
+if you haven't burned yourself
+
+832
+00:30:40,320 --> 00:30:42,159
+either you touched the stove you touched
+
+833
+00:30:42,159 --> 00:30:44,159
+a candle you touched something
+
+834
+00:30:44,159 --> 00:30:48,159
+to feel the heat okay
+
+835
+00:30:48,159 --> 00:30:49,919
+now what you can do is new things come
+
+836
+00:30:49,919 --> 00:30:51,200
+in that you haven't seen
+
+837
+00:30:51,200 --> 00:30:54,399
+before you can relate them and put them
+
+838
+00:30:54,399 --> 00:30:56,080
+into categories
+
+839
+00:30:56,080 --> 00:30:58,320
+and this is learning theory so let's say
+
+840
+00:30:58,320 --> 00:30:59,919
+you were a baby and you burn yourself on
+
+841
+00:30:59,919 --> 00:31:01,360
+a stove
+
+842
+00:31:01,360 --> 00:31:03,360
+and then there's this big old pot of hot
+
+843
+00:31:03,360 --> 00:31:04,640
+water
+
+844
+00:31:04,640 --> 00:31:07,279
+and you see a similar you see similar
+
+845
+00:31:07,279 --> 00:31:08,960
+traits like you see steam
+
+846
+00:31:08,960 --> 00:31:11,279
+coming up from the water like you saw
+
+847
+00:31:11,279 --> 00:31:12,799
+steam on the stove
+
+848
+00:31:12,799 --> 00:31:16,159
+you see redness you feel the sensation
+
+849
+00:31:16,159 --> 00:31:18,000
+of heat
+
+850
+00:31:18,000 --> 00:31:19,840
+your brain should tell you don't touch
+
+851
+00:31:19,840 --> 00:31:21,440
+the water it's hot
+
+852
+00:31:21,440 --> 00:31:23,360
+or better yet you see a candle and you
+
+853
+00:31:23,360 --> 00:31:25,919
+see a flame or a fire
+
+854
+00:31:25,919 --> 00:31:27,600
+your brain is supposed to tell you
+
+855
+00:31:27,600 --> 00:31:29,200
+through its queries that
+
+856
+00:31:29,200 --> 00:31:31,200
+that fire is hot and you're not supposed
+
+857
+00:31:31,200 --> 00:31:32,720
+to touch it
+
+858
+00:31:32,720 --> 00:31:35,039
+and if that is true that's your
+
+859
+00:31:35,039 --> 00:31:36,480
+knowledge base
+
+860
+00:31:36,480 --> 00:31:39,360
+and your knowledge base is able to
+
+861
+00:31:39,360 --> 00:31:39,919
+answer
+
+862
+00:31:39,919 --> 00:31:42,399
+queries for you automatically as you go
+
+863
+00:31:42,399 --> 00:31:45,200
+through human reasoning and human logic
+
+864
+00:31:45,200 --> 00:31:48,480
+so a smart person doesn't touch
+
+865
+00:31:48,480 --> 00:31:50,799
+things that are hot because they're
+
+866
+00:31:50,799 --> 00:31:52,080
+going to burn themselves
+
+867
+00:31:52,080 --> 00:31:54,159
+so you don't go around constantly
+
+868
+00:31:54,159 --> 00:31:55,840
+touching things and
+
+869
+00:31:55,840 --> 00:31:58,480
+yeah you got the baby here too this just
+
+870
+00:31:58,480 --> 00:32:00,799
+never learns it's kind of like the
+
+871
+00:32:00,799 --> 00:32:02,159
+people in prison
+
+872
+00:32:02,159 --> 00:32:03,919
+when you say you're not supposed to
+
+873
+00:32:03,919 --> 00:32:05,200
+steal
+
+874
+00:32:05,200 --> 00:32:06,799
+you're not supposed to kill people
+
+875
+00:32:06,799 --> 00:32:08,320
+you're not supposed these are all the
+
+876
+00:32:08,320 --> 00:32:10,000
+rules that you're supposed to learn but
+
+877
+00:32:10,000 --> 00:32:11,919
+you keep breaking the rules
+
+878
+00:32:11,919 --> 00:32:13,840
+because you have some other form of
+
+879
+00:32:13,840 --> 00:32:15,360
+justification
+
+880
+00:32:15,360 --> 00:32:18,320
+for breaking the rule that it doesn't
+
+881
+00:32:18,320 --> 00:32:19,840
+make any sense to the
+
+882
+00:32:19,840 --> 00:32:22,159
+reasonable accepted rules and so you end
+
+883
+00:32:22,159 --> 00:32:23,200
+up in prison
+
+884
+00:32:23,200 --> 00:32:25,360
+or you end up burning yourself or
+
+885
+00:32:25,360 --> 00:32:28,320
+getting yourself into danger because
+
+886
+00:32:28,320 --> 00:32:30,960
+you're not following the rules correctly
+
+887
+00:32:30,960 --> 00:32:33,039
+so the rules in the knowledge base
+
+888
+00:32:33,039 --> 00:32:35,039
+for a human are to make you a functional
+
+889
+00:32:35,039 --> 00:32:36,399
+adult in
+
+890
+00:32:36,399 --> 00:32:39,760
+prologue it's to add richness or value
+
+891
+00:32:39,760 --> 00:32:41,279
+to the knowledge base so that we don't
+
+892
+00:32:41,279 --> 00:32:42,000
+have to be
+
+893
+00:32:42,000 --> 00:32:44,640
+experts on a particular subject area we
+
+894
+00:32:44,640 --> 00:32:47,120
+just go to the knowledge base
+
+895
+00:32:47,120 --> 00:32:49,600
+to acquire the knowledge so that's the
+
+896
+00:32:49,600 --> 00:32:52,000
+art of this style of programming
+
+897
+00:32:52,000 --> 00:32:54,880
+called logic programming programs are
+
+898
+00:32:54,880 --> 00:32:57,279
+called law uh knowledge bases
+
+899
+00:32:57,279 --> 00:33:00,960
+so you use prologue by posing queries
+
+900
+00:33:00,960 --> 00:33:04,000
+like should i rob the bank should i
+
+901
+00:33:04,000 --> 00:33:05,840
+touch the hot stove
+
+902
+00:33:05,840 --> 00:33:07,279
+should i and these are the kind of like
+
+903
+00:33:07,279 --> 00:33:10,000
+life queries that you might think about
+
+904
+00:33:10,000 --> 00:33:13,360
+okay so using a knowledge base we have
+
+905
+00:33:13,360 --> 00:33:15,919
+some facts we have woman janet woman
+
+906
+00:33:15,919 --> 00:33:16,720
+stacy
+
+907
+00:33:16,720 --> 00:33:20,399
+plays flute stacy we ask for a lot of
+
+908
+00:33:20,399 --> 00:33:22,640
+women stacy your prologue answers back
+
+909
+00:33:22,640 --> 00:33:24,799
+yes because there's a fact in the
+
+910
+00:33:24,799 --> 00:33:26,399
+database that says woman
+
+911
+00:33:26,399 --> 00:33:29,600
+stacy place do
+
+912
+00:33:29,600 --> 00:33:32,720
+this place the place flute stacy then
+
+913
+00:33:32,720 --> 00:33:35,519
+prolog comes back yes plays sploot mary
+
+914
+00:33:35,519 --> 00:33:37,360
+and it comes back are you kidding me and
+
+915
+00:33:37,360 --> 00:33:38,720
+now it does and it comes back and says
+
+916
+00:33:38,720 --> 00:33:39,840
+no
+
+917
+00:33:39,840 --> 00:33:41,360
+unless you program it to come back and
+
+918
+00:33:41,360 --> 00:33:44,320
+say are you kidding me
+
+919
+00:33:44,720 --> 00:33:45,919
+so i say it's kind of like the eight
+
+920
+00:33:45,919 --> 00:33:48,080
+ball shaking that april around and it
+
+921
+00:33:48,080 --> 00:33:49,679
+comes up with these various answers but
+
+922
+00:33:49,679 --> 00:33:52,320
+unlike the eight ball prologue is a
+
+923
+00:33:52,320 --> 00:33:54,240
+little bit more reliable
+
+924
+00:33:54,240 --> 00:33:56,080
+so you could ask roblox some questions
+
+925
+00:33:56,080 --> 00:33:57,519
+and this is a predict it's called
+
+926
+00:33:57,519 --> 00:33:58,799
+predictive systems
+
+927
+00:33:58,799 --> 00:34:01,440
+you can ask prologue some questions and
+
+928
+00:34:01,440 --> 00:34:03,360
+then roll i could come back and say
+
+929
+00:34:03,360 --> 00:34:07,200
+you know maybe highly likely
+
+930
+00:34:07,200 --> 00:34:10,399
+because it comes out the correlation
+
+931
+00:34:10,399 --> 00:34:12,800
+you're like well what kind of examples
+
+932
+00:34:12,800 --> 00:34:14,800
+of this type of programming do we have
+
+933
+00:34:14,800 --> 00:34:16,079
+in the real system
+
+934
+00:34:16,079 --> 00:34:19,280
+in in a real world
+
+935
+00:34:19,280 --> 00:34:20,960
+and then you look at this and you go
+
+936
+00:34:20,960 --> 00:34:25,040
+well what about those prediction systems
+
+937
+00:34:25,040 --> 00:34:27,839
+users who liked this movie this movie
+
+938
+00:34:27,839 --> 00:34:30,079
+and this movie
+
+939
+00:34:30,079 --> 00:34:32,800
+are gonna like this one over here so if
+
+940
+00:34:32,800 --> 00:34:34,079
+you've ever been in or
+
+941
+00:34:34,079 --> 00:34:37,839
+looked at netflix um most people i know
+
+942
+00:34:37,839 --> 00:34:39,280
+in the pandemic have
+
+943
+00:34:39,280 --> 00:34:41,760
+totally ventured out into streaming uh
+
+944
+00:34:41,760 --> 00:34:42,719
+netflix
+
+945
+00:34:42,719 --> 00:34:45,119
+is a good example of a recommendation
+
+946
+00:34:45,119 --> 00:34:46,239
+system
+
+947
+00:34:46,239 --> 00:34:49,760
+um we watch a movie and it tells you
+
+948
+00:34:49,760 --> 00:34:51,918
+uh you have a because you watch this
+
+949
+00:34:51,918 --> 00:34:52,879
+movie
+
+950
+00:34:52,879 --> 00:34:55,760
+you're gonna like these other movies
+
+951
+00:34:55,760 --> 00:34:57,520
+that's prologue that's logic and how's
+
+952
+00:34:57,520 --> 00:34:58,960
+it doing it's keeping track of
+
+953
+00:34:58,960 --> 00:35:00,720
+everybody who's watched the movie how
+
+954
+00:35:00,720 --> 00:35:02,000
+long they watch the movie and there's
+
+955
+00:35:02,000 --> 00:35:04,320
+some other analytics in there too
+
+956
+00:35:04,320 --> 00:35:05,599
+this would all be kept you can do a
+
+957
+00:35:05,599 --> 00:35:08,160
+prologue database to do a recommendation
+
+958
+00:35:08,160 --> 00:35:09,520
+system and there's a ton of them out
+
+959
+00:35:09,520 --> 00:35:11,440
+there actually
+
+960
+00:35:11,440 --> 00:35:14,400
+sample recommendation systems that say
+
+961
+00:35:14,400 --> 00:35:16,320
+you know because you watched
+
+962
+00:35:16,320 --> 00:35:19,680
+um i know now this movie
+
+963
+00:35:19,680 --> 00:35:22,480
+x y and z you're also going to like this
+
+964
+00:35:22,480 --> 00:35:24,000
+other movie
+
+965
+00:35:24,000 --> 00:35:27,440
+and then actually believe it or not uh
+
+966
+00:35:27,440 --> 00:35:29,920
+netflix uses a little bit of statistical
+
+967
+00:35:29,920 --> 00:35:31,440
+analysis in there because it says
+
+968
+00:35:31,440 --> 00:35:32,880
+there's a 98
+
+969
+00:35:32,880 --> 00:35:36,079
+match i always look at that and go a 98
+
+970
+00:35:36,079 --> 00:35:37,680
+match you're gonna like this movie and
+
+971
+00:35:37,680 --> 00:35:39,440
+i'm thinking well why
+
+972
+00:35:39,440 --> 00:35:41,280
+it's because i watched that other movie
+
+973
+00:35:41,280 --> 00:35:43,200
+but maybe you watched only like two
+
+974
+00:35:43,200 --> 00:35:44,720
+seconds of the other movie well
+
+975
+00:35:44,720 --> 00:35:47,760
+netflix is smart enough to know if
+
+976
+00:35:47,760 --> 00:35:49,359
+you've watched the movie from
+
+977
+00:35:49,359 --> 00:35:52,079
+start to end or did you watch just the
+
+978
+00:35:52,079 --> 00:35:54,160
+first five or ten minutes or get halfway
+
+979
+00:35:54,160 --> 00:35:55,040
+through the movie
+
+980
+00:35:55,040 --> 00:35:56,880
+it also keeps track of how far you've
+
+981
+00:35:56,880 --> 00:35:58,800
+gone through series
+
+982
+00:35:58,800 --> 00:36:01,920
+suddenly people binge watch on tv series
+
+983
+00:36:01,920 --> 00:36:03,760
+and movies all the time you go and you
+
+984
+00:36:03,760 --> 00:36:05,520
+just one episode after another one after
+
+985
+00:36:05,520 --> 00:36:07,760
+another one you spent all day doing that
+
+986
+00:36:07,760 --> 00:36:10,240
+well netflix knows you're doing that and
+
+987
+00:36:10,240 --> 00:36:11,359
+it keeps track of
+
+988
+00:36:11,359 --> 00:36:13,040
+the speed and the frequency in which
+
+989
+00:36:13,040 --> 00:36:14,560
+you've been watched it
+
+990
+00:36:14,560 --> 00:36:17,680
+binge watched it how far you got through
+
+991
+00:36:17,680 --> 00:36:18,960
+it
+
+992
+00:36:18,960 --> 00:36:21,119
+and then that's what comes up with this
+
+993
+00:36:21,119 --> 00:36:23,920
+category called binge worthy
+
+994
+00:36:23,920 --> 00:36:27,040
+these are the ones that people have been
+
+995
+00:36:27,040 --> 00:36:29,440
+binged watched for the longest duration
+
+996
+00:36:29,440 --> 00:36:30,880
+of time and have made it
+
+997
+00:36:30,880 --> 00:36:34,160
+past the 50 point or so in the series
+
+998
+00:36:34,160 --> 00:36:37,280
+so it knows which ones to put into which
+
+999
+00:36:37,280 --> 00:36:39,440
+one of the categories and it's using the
+
+1000
+00:36:39,440 --> 00:36:40,000
+user's
+
+1001
+00:36:40,000 --> 00:36:43,119
+behavior to predict that
+
+1002
+00:36:43,119 --> 00:36:44,560
+so it's kind of interesting if you have
+
+1003
+00:36:44,560 --> 00:36:47,119
+more than one user in your household
+
+1004
+00:36:47,119 --> 00:36:49,440
+who is clicking on stuff and using stuff
+
+1005
+00:36:49,440 --> 00:36:50,800
+that's going to cause a problem if you
+
+1006
+00:36:50,800 --> 00:36:52,720
+create multiple accounts as you probably
+
+1007
+00:36:52,720 --> 00:36:54,000
+know you can
+
+1008
+00:36:54,000 --> 00:36:56,079
+then your stats and your prediction
+
+1009
+00:36:56,079 --> 00:36:57,599
+system your prologue
+
+1010
+00:36:57,599 --> 00:37:01,680
+logic base is going to be kept
+
+1011
+00:37:01,680 --> 00:37:03,760
+separate for each one of the users so
+
+1012
+00:37:03,760 --> 00:37:05,680
+it's a little bit more reliable in terms
+
+1013
+00:37:05,680 --> 00:37:07,839
+of predictability
+
+1014
+00:37:07,839 --> 00:37:10,320
+music through spotify through some of
+
+1015
+00:37:10,320 --> 00:37:12,160
+the other applications are done this way
+
+1016
+00:37:12,160 --> 00:37:13,440
+as well
+
+1017
+00:37:13,440 --> 00:37:16,480
+where it keeps track of what what types
+
+1018
+00:37:16,480 --> 00:37:17,839
+of songs you listen to
+
+1019
+00:37:17,839 --> 00:37:20,400
+what's the beats what's the style and
+
+1020
+00:37:20,400 --> 00:37:21,760
+then it will recommend
+
+1021
+00:37:21,760 --> 00:37:24,000
+other songs that fit into that same and
+
+1022
+00:37:24,000 --> 00:37:25,760
+it's not necessarily a label
+
+1023
+00:37:25,760 --> 00:37:28,880
+genre it's a characteristic that's being
+
+1024
+00:37:28,880 --> 00:37:29,280
+kept
+
+1025
+00:37:29,280 --> 00:37:32,079
+about the particular track of music
+
+1026
+00:37:32,079 --> 00:37:34,000
+you're listening to
+
+1027
+00:37:34,000 --> 00:37:36,880
+google keeps track of this information
+
+1028
+00:37:36,880 --> 00:37:37,520
+as well
+
+1029
+00:37:37,520 --> 00:37:40,000
+these are used knowledge bases and
+
+1030
+00:37:40,000 --> 00:37:41,920
+inference engines
+
+1031
+00:37:41,920 --> 00:37:44,480
+and logical programming is used all over
+
+1032
+00:37:44,480 --> 00:37:45,599
+the internet
+
+1033
+00:37:45,599 --> 00:37:47,040
+and people come into this class think oh
+
+1034
+00:37:47,040 --> 00:37:49,280
+i've never heard a
+
+1035
+00:37:49,280 --> 00:37:51,119
+well prologue highly likely that you
+
+1036
+00:37:51,119 --> 00:37:53,040
+have it it's probably one of the
+
+1037
+00:37:53,040 --> 00:37:55,119
+it's the first and only logic
+
+1038
+00:37:55,119 --> 00:37:57,119
+programming system out there
+
+1039
+00:37:57,119 --> 00:37:58,880
+and it's being used in industry believe
+
+1040
+00:37:58,880 --> 00:38:01,359
+it or not um whether you'll use it
+
+1041
+00:38:01,359 --> 00:38:03,200
+if you get into artificial intelligence
+
+1042
+00:38:03,200 --> 00:38:05,200
+or machine learning
+
+1043
+00:38:05,200 --> 00:38:06,880
+or knowledge based programming expert
+
+1044
+00:38:06,880 --> 00:38:08,480
+system programming
+
+1045
+00:38:08,480 --> 00:38:11,599
+then you might get into it for example
+
+1046
+00:38:11,599 --> 00:38:14,720
+triage medical triage systems
+
+1047
+00:38:14,720 --> 00:38:16,880
+are generally programmed with logic
+
+1048
+00:38:16,880 --> 00:38:18,480
+programming for example
+
+1049
+00:38:18,480 --> 00:38:21,599
+a person comes into the hospital and
+
+1050
+00:38:21,599 --> 00:38:23,040
+there's a bunch of questions on the
+
+1051
+00:38:23,040 --> 00:38:25,359
+computer screen that the
+
+1052
+00:38:25,359 --> 00:38:27,680
+uh check-in nurse needs to record you
+
+1053
+00:38:27,680 --> 00:38:29,280
+know do they have a favor
+
+1054
+00:38:29,280 --> 00:38:31,040
+do they have are they running you know
+
+1055
+00:38:31,040 --> 00:38:33,440
+uh are they standing or were they
+
+1056
+00:38:33,440 --> 00:38:35,760
+brought in a wheelchair or whatever did
+
+1057
+00:38:35,760 --> 00:38:37,839
+they walk in are they bleeding
+
+1058
+00:38:37,839 --> 00:38:39,599
+i don't know you know i'm not a medical
+
+1059
+00:38:39,599 --> 00:38:41,040
+person but all of the
+
+1060
+00:38:41,040 --> 00:38:42,480
+you know the things that would be
+
+1061
+00:38:42,480 --> 00:38:43,839
+recorded and usually it's those
+
+1062
+00:38:43,839 --> 00:38:46,079
+questions that you're being asked when
+
+1063
+00:38:46,079 --> 00:38:48,400
+you walk into the emergency room
+
+1064
+00:38:48,400 --> 00:38:50,640
+uh and then there are persons putting in
+
+1065
+00:38:50,640 --> 00:38:53,280
+then what community so students
+
+1066
+00:38:53,280 --> 00:38:55,200
+putting in computer science and says
+
+1067
+00:38:55,200 --> 00:38:56,560
+okay put a red
+
+1068
+00:38:56,560 --> 00:39:00,480
+band on them put a orange put a
+
+1069
+00:39:00,480 --> 00:39:02,640
+yellow wristband on them or put a green
+
+1070
+00:39:02,640 --> 00:39:03,599
+one on it
+
+1071
+00:39:03,599 --> 00:39:05,520
+and the color is determining how
+
+1072
+00:39:05,520 --> 00:39:07,119
+critical your case is
+
+1073
+00:39:07,119 --> 00:39:10,160
+and so the different colors you'll get
+
+1074
+00:39:10,160 --> 00:39:12,160
+care a little faster they're not going
+
+1075
+00:39:12,160 --> 00:39:14,000
+to make somebody with a brain aneurysm
+
+1076
+00:39:14,000 --> 00:39:16,320
+wait the same amount of time as somebody
+
+1077
+00:39:16,320 --> 00:39:20,160
+who just walks in with a common cold
+
+1078
+00:39:20,160 --> 00:39:23,440
+so yeah and it's a it's a resolution
+
+1079
+00:39:23,440 --> 00:39:24,560
+system to see
+
+1080
+00:39:24,560 --> 00:39:26,800
+what's really raining now just to see
+
+1081
+00:39:26,800 --> 00:39:28,240
+what's uh
+
+1082
+00:39:28,240 --> 00:39:30,480
+what category you fall into so the facts
+
+1083
+00:39:30,480 --> 00:39:32,720
+here are propositions that are assumed
+
+1084
+00:39:32,720 --> 00:39:34,000
+to be true such as
+
+1085
+00:39:34,000 --> 00:39:36,720
+female janet male steve brother steve
+
+1086
+00:39:36,720 --> 00:39:38,079
+janet
+
+1087
+00:39:38,079 --> 00:39:41,040
+so they have no intrinsic semantics
+
+1088
+00:39:41,040 --> 00:39:42,640
+which means the words don't mean
+
+1089
+00:39:42,640 --> 00:39:43,359
+anything
+
+1090
+00:39:43,359 --> 00:39:45,359
+the word male the word female the word
+
+1091
+00:39:45,359 --> 00:39:46,960
+brother actually
+
+1092
+00:39:46,960 --> 00:39:49,839
+doesn't mean what it means in english
+
+1093
+00:39:49,839 --> 00:39:51,760
+and so some people like to write them
+
+1094
+00:39:51,760 --> 00:39:52,160
+with
+
+1095
+00:39:52,160 --> 00:39:55,359
+like f and b or
+
+1096
+00:39:55,359 --> 00:39:57,200
+just make up words or use a foreign
+
+1097
+00:39:57,200 --> 00:39:58,880
+language for it if you want
+
+1098
+00:39:58,880 --> 00:40:01,520
+it doesn't mean anything just so it
+
+1099
+00:40:01,520 --> 00:40:02,400
+doesn't have any
+
+1100
+00:40:02,400 --> 00:40:06,319
+english meaning so
+
+1101
+00:40:06,400 --> 00:40:08,880
+the rules combine the facts together to
+
+1102
+00:40:08,880 --> 00:40:09,839
+increase the knowledge
+
+1103
+00:40:09,839 --> 00:40:11,760
+system for example and this is read
+
+1104
+00:40:11,760 --> 00:40:14,400
+backwards actually
+
+1105
+00:40:14,400 --> 00:40:18,079
+male child of x y
+
+1106
+00:40:18,079 --> 00:40:21,520
+is the sum of x y
+
+1107
+00:40:21,520 --> 00:40:25,200
+so x is the sum of y if x is male
+
+1108
+00:40:25,200 --> 00:40:28,560
+and x is also a child of y
+
+1109
+00:40:28,560 --> 00:40:32,319
+it's a child of x y and
+
+1110
+00:40:32,319 --> 00:40:35,359
+it's a male child of x y then they're
+
+1111
+00:40:35,359 --> 00:40:36,960
+going to be a sign
+
+1112
+00:40:36,960 --> 00:40:39,599
+so sine of x y and this is this believe
+
+1113
+00:40:39,599 --> 00:40:40,960
+it or not it's supposed to be an
+
+1114
+00:40:40,960 --> 00:40:44,720
+arrow and the arrow is pointing this way
+
+1115
+00:40:44,720 --> 00:40:46,240
+so this is the tip of the arrow and
+
+1116
+00:40:46,240 --> 00:40:49,200
+these are the two sides of the arrow
+
+1117
+00:40:49,200 --> 00:40:50,800
+so but you know what computer programs i
+
+1118
+00:40:50,800 --> 00:40:52,240
+don't have the keyboard doesn't have an
+
+1119
+00:40:52,240 --> 00:40:53,440
+arrow has a colon an
+
+1120
+00:40:53,440 --> 00:40:56,640
+minus sign which is the arrow
+
+1121
+00:40:56,640 --> 00:40:59,920
+and it's red backwards so male x and
+
+1122
+00:40:59,920 --> 00:41:02,880
+child of x y if it's a child and he's
+
+1123
+00:41:02,880 --> 00:41:06,240
+male then he must be a sign
+
+1124
+00:41:06,240 --> 00:41:08,480
+that's a rule this is a rule and you're
+
+1125
+00:41:08,480 --> 00:41:10,160
+combining facts together so you have a
+
+1126
+00:41:10,160 --> 00:41:11,599
+fact about male x
+
+1127
+00:41:11,599 --> 00:41:14,640
+you have a fact about child x y oops
+
+1128
+00:41:14,640 --> 00:41:16,079
+didn't mean to do that
+
+1129
+00:41:16,079 --> 00:41:20,400
+and you are combining it together
+
+1130
+00:41:20,400 --> 00:41:21,680
+to come up with a rule and you're going
+
+1131
+00:41:21,680 --> 00:41:23,680
+to call it sun if this case
+
+1132
+00:41:23,680 --> 00:41:26,000
+exists then it's going to be assigned
+
+1133
+00:41:26,000 --> 00:41:27,359
+and then you substitute
+
+1134
+00:41:27,359 --> 00:41:29,359
+so you put the rule in there and you
+
+1135
+00:41:29,359 --> 00:41:30,640
+substitute the facts
+
+1136
+00:41:30,640 --> 00:41:33,520
+into the rules and then you can come out
+
+1137
+00:41:33,520 --> 00:41:36,079
+with a pretty sophisticated database
+
+1138
+00:41:36,079 --> 00:41:38,160
+so here's a rule the rule statement
+
+1139
+00:41:38,160 --> 00:41:40,319
+takes on the form of the consequence
+
+1140
+00:41:40,319 --> 00:41:42,240
+equals the antidote so the consequence
+
+1141
+00:41:42,240 --> 00:41:43,760
+must be a single term
+
+1142
+00:41:43,760 --> 00:41:46,319
+which is the rule while the antidote can
+
+1143
+00:41:46,319 --> 00:41:47,440
+be multiple for example
+
+1144
+00:41:47,440 --> 00:41:51,520
+parent xy is equal to a mother
+
+1145
+00:41:51,520 --> 00:41:53,760
+ex-wife or leads to a mother so a mother
+
+1146
+00:41:53,760 --> 00:41:54,880
+ex-wife is a parent
+
+1147
+00:41:54,880 --> 00:41:59,160
+a father xy is also a parent of x y
+
+1148
+00:41:59,160 --> 00:42:03,040
+grandparents are parents of parents
+
+1149
+00:42:03,040 --> 00:42:07,839
+so a parent can be a grandparent
+
+1150
+00:42:07,839 --> 00:42:10,319
+and parent a male and a parent female
+
+1151
+00:42:10,319 --> 00:42:11,839
+can be grandma grandpa
+
+1152
+00:42:11,839 --> 00:42:14,160
+parent
+
+1153
+00:42:15,440 --> 00:42:18,800
+and so the goal whoops
+
+1154
+00:42:18,960 --> 00:42:20,640
+and you know i'm going to flip ahead for
+
+1155
+00:42:20,640 --> 00:42:22,079
+a second because i remember i wanted to
+
+1156
+00:42:22,079 --> 00:42:23,760
+show you something
+
+1157
+00:42:23,760 --> 00:42:25,440
+i'm going to come back but i want to
+
+1158
+00:42:25,440 --> 00:42:27,440
+show you something here
+
+1159
+00:42:27,440 --> 00:42:30,640
+so in the first question
+
+1160
+00:42:30,640 --> 00:42:33,040
+of the assignment let me go back to the
+
+1161
+00:42:33,040 --> 00:42:36,319
+first question of the assignment
+
+1162
+00:42:36,720 --> 00:42:39,919
+you find the assignment
+
+1163
+00:42:40,720 --> 00:42:45,839
+there it is
+
+1164
+00:42:45,920 --> 00:42:48,400
+we have a father a mother a female a
+
+1165
+00:42:48,400 --> 00:42:50,000
+male
+
+1166
+00:42:50,000 --> 00:42:51,760
+we have these are the rules given these
+
+1167
+00:42:51,760 --> 00:42:53,200
+are given for you already
+
+1168
+00:42:53,200 --> 00:42:55,119
+and the syntax has a dot at the end of
+
+1169
+00:42:55,119 --> 00:42:56,480
+it you don't have to put a dot
+
+1170
+00:42:56,480 --> 00:42:59,200
+at the end what you're going to do is
+
+1171
+00:42:59,200 --> 00:42:59,760
+define
+
+1172
+00:42:59,760 --> 00:43:02,880
+sibling sister grandson or descendant so
+
+1173
+00:43:02,880 --> 00:43:04,800
+you're going to write one two three four
+
+1174
+00:43:04,800 --> 00:43:07,680
+more rules
+
+1175
+00:43:07,839 --> 00:43:11,040
+that provide for the these are facts
+
+1176
+00:43:11,040 --> 00:43:12,560
+here
+
+1177
+00:43:12,560 --> 00:43:16,079
+fact that x is male a female is
+
+1178
+00:43:16,079 --> 00:43:20,000
+x mother is x y x is the mother of y
+
+1179
+00:43:20,000 --> 00:43:23,040
+and x is the father of y
+
+1180
+00:43:23,040 --> 00:43:24,800
+and you're going to put together what a
+
+1181
+00:43:24,800 --> 00:43:26,240
+sibling is
+
+1182
+00:43:26,240 --> 00:43:29,599
+what a sister is a sister is a
+
+1183
+00:43:29,599 --> 00:43:33,280
+female sibling so
+
+1184
+00:43:33,280 --> 00:43:36,400
+a sister and a sibling work together and
+
+1185
+00:43:36,400 --> 00:43:39,200
+these rules can work together and you
+
+1186
+00:43:39,200 --> 00:43:40,000
+can make up more
+
+1187
+00:43:40,000 --> 00:43:42,960
+facts if you need to so you can go you
+
+1188
+00:43:42,960 --> 00:43:44,240
+know a sister
+
+1189
+00:43:44,240 --> 00:43:48,640
+is a female also female x
+
+1190
+00:43:48,640 --> 00:43:52,640
+of a mother and a father
+
+1191
+00:43:52,640 --> 00:43:56,079
+which is actually or grandson
+
+1192
+00:43:56,079 --> 00:43:58,400
+which is the parent level so you can
+
+1193
+00:43:58,400 --> 00:44:01,359
+actually make a hierarchy if you want
+
+1194
+00:44:01,359 --> 00:44:03,520
+in terms of a structure but let me show
+
+1195
+00:44:03,520 --> 00:44:05,359
+you from the powerpoint slide what this
+
+1196
+00:44:05,359 --> 00:44:06,960
+is talking about
+
+1197
+00:44:06,960 --> 00:44:10,960
+and this is a slide 30 of the powerpoint
+
+1198
+00:44:10,960 --> 00:44:14,560
+it's giving you grandparent okay so
+
+1199
+00:44:14,560 --> 00:44:17,280
+you have to tell you that it is actually
+
+1200
+00:44:17,280 --> 00:44:18,319
+so
+
+1201
+00:44:18,319 --> 00:44:21,440
+consider this database we have a mother
+
+1202
+00:44:21,440 --> 00:44:22,319
+betty janet
+
+1203
+00:44:22,319 --> 00:44:23,920
+we have a mother betty steve we have a
+
+1204
+00:44:23,920 --> 00:44:25,839
+mother janet adam
+
+1205
+00:44:25,839 --> 00:44:29,680
+father steve dylan we have a parent
+
+1206
+00:44:29,680 --> 00:44:31,839
+that is defined by a mother we have a
+
+1207
+00:44:31,839 --> 00:44:33,359
+parent that defined by a father we have
+
+1208
+00:44:33,359 --> 00:44:34,240
+a grandparent
+
+1209
+00:44:34,240 --> 00:44:37,280
+that has a mother and a father in it
+
+1210
+00:44:37,280 --> 00:44:39,920
+parent xy and parent y z it's a
+
+1211
+00:44:39,920 --> 00:44:41,040
+grandparent
+
+1212
+00:44:41,040 --> 00:44:44,079
+and the goal is here to find the
+
+1213
+00:44:44,079 --> 00:44:45,040
+grandparent
+
+1214
+00:44:45,040 --> 00:44:49,839
+of x adam well then the system
+
+1215
+00:44:49,839 --> 00:44:51,200
+is going to run through a bunch of
+
+1216
+00:44:51,200 --> 00:44:53,839
+iteration here prolog proceeds by
+
+1217
+00:44:53,839 --> 00:44:55,920
+attempting to match the goal clause
+
+1218
+00:44:55,920 --> 00:44:58,960
+with a fact in the database so it
+
+1219
+00:44:58,960 --> 00:45:00,079
+matches the goal with
+
+1220
+00:45:00,079 --> 00:45:03,280
+grandparent xz where z is instantiation
+
+1221
+00:45:03,280 --> 00:45:04,720
+of atom
+
+1222
+00:45:04,720 --> 00:45:06,319
+and what i want you to do is kind of
+
+1223
+00:45:06,319 --> 00:45:09,119
+take this it starts on slide 30
+
+1224
+00:45:09,119 --> 00:45:11,760
+and uh at your own pace take and come
+
+1225
+00:45:11,760 --> 00:45:12,880
+through and see if you can
+
+1226
+00:45:12,880 --> 00:45:16,319
+follow the logic there's a mother in
+
+1227
+00:45:16,319 --> 00:45:16,720
+here
+
+1228
+00:45:16,720 --> 00:45:18,560
+there's believe it or not you can
+
+1229
+00:45:18,560 --> 00:45:20,000
+actually easily define
+
+1230
+00:45:20,000 --> 00:45:22,720
+sister in here as well as brother in
+
+1231
+00:45:22,720 --> 00:45:24,079
+here
+
+1232
+00:45:24,079 --> 00:45:25,920
+but what i wanted to show you is this
+
+1233
+00:45:25,920 --> 00:45:27,680
+tree that comes out of it this is the
+
+1234
+00:45:27,680 --> 00:45:29,119
+grandparent x
+
+1235
+00:45:29,119 --> 00:45:31,839
+atom and so this is why i said you can
+
+1236
+00:45:31,839 --> 00:45:32,720
+actually take
+
+1237
+00:45:32,720 --> 00:45:35,920
+and on a like a scratch piece of paper
+
+1238
+00:45:35,920 --> 00:45:40,160
+and uh create a tree from this
+
+1239
+00:45:40,160 --> 00:45:43,760
+to map out the logic and the logic in
+
+1240
+00:45:43,760 --> 00:45:44,880
+this tree
+
+1241
+00:45:44,880 --> 00:45:47,200
+is going to run through the the
+
+1242
+00:45:47,200 --> 00:45:48,240
+implications
+
+1243
+00:45:48,240 --> 00:45:51,680
+of the different lab levels um
+
+1244
+00:45:51,680 --> 00:45:53,359
+i need to put you on hold for a second
+
+1245
+00:45:53,359 --> 00:45:55,200
+because i just noticed there's somebody
+
+1246
+00:45:55,200 --> 00:45:57,200
+knocking on my front door
+
+1247
+00:45:57,200 --> 00:46:00,560
+uh i'm just gonna leave this right here
+
+1248
+00:46:00,560 --> 00:46:01,440
+for a second
+
+1249
+00:46:01,440 --> 00:46:15,839
+i will be back in one minute here
+
+1250
+00:46:41,839 --> 00:46:43,920
+you
+
+1251
+00:47:05,440 --> 00:47:07,280
+all right sorry for the interruption i
+
+1252
+00:47:07,280 --> 00:47:09,280
+am back hopefully you guys are still
+
+1253
+00:47:09,280 --> 00:47:11,359
+there i wasn't going too long
+
+1254
+00:47:11,359 --> 00:47:12,640
+this would definitely not happen in a
+
+1255
+00:47:12,640 --> 00:47:15,119
+face-to-face classroom
+
+1256
+00:47:15,119 --> 00:47:17,119
+and i can't wait to get back into a more
+
+1257
+00:47:17,119 --> 00:47:19,119
+professional environment for this
+
+1258
+00:47:19,119 --> 00:47:22,000
+uh but anyway uh it was my amazon
+
+1259
+00:47:22,000 --> 00:47:24,880
+delivery of why
+
+1260
+00:47:24,880 --> 00:47:27,359
+wrong address basically so i wasn't even
+
+1261
+00:47:27,359 --> 00:47:29,200
+taking care of my stuff it was for
+
+1262
+00:47:29,200 --> 00:47:31,119
+somebody else
+
+1263
+00:47:31,119 --> 00:47:33,520
+uh so let's see what do we have here old
+
+1264
+00:47:33,520 --> 00:47:35,680
+memories
+
+1265
+00:47:35,680 --> 00:47:37,520
+anyway let's just check in the chat i
+
+1266
+00:47:37,520 --> 00:47:38,960
+saw something in the chat anyway so
+
+1267
+00:47:38,960 --> 00:47:42,559
+solving for grandparent x adam
+
+1268
+00:47:42,559 --> 00:47:44,960
+we could map it out and we could
+
+1269
+00:47:44,960 --> 00:47:46,480
+substitute the rules in
+
+1270
+00:47:46,480 --> 00:47:48,640
+and what i want you to do is on your own
+
+1271
+00:47:48,640 --> 00:47:50,640
+time you know when you have more time
+
+1272
+00:47:50,640 --> 00:47:52,319
+you're sitting there take a look at
+
+1273
+00:47:52,319 --> 00:47:53,760
+slides number 30
+
+1274
+00:47:53,760 --> 00:47:57,200
+through slide number uh
+
+1275
+00:47:57,200 --> 00:48:00,000
+35 there's about five slides and see if
+
+1276
+00:48:00,000 --> 00:48:01,760
+you can figure out the logic that is
+
+1277
+00:48:01,760 --> 00:48:03,920
+associated with the substitution and how
+
+1278
+00:48:03,920 --> 00:48:05,680
+the rules work this will help you with
+
+1279
+00:48:05,680 --> 00:48:06,800
+assignment number
+
+1280
+00:48:06,800 --> 00:48:09,520
+uh with the question number one that
+
+1281
+00:48:09,520 --> 00:48:11,359
+asks you to define sibling and then
+
+1282
+00:48:11,359 --> 00:48:12,559
+what you're doing is you're instead of
+
+1283
+00:48:12,559 --> 00:48:15,040
+mother you're defining a sibling
+
+1284
+00:48:15,040 --> 00:48:17,839
+so this will help you sort of and it
+
+1285
+00:48:17,839 --> 00:48:20,319
+really does take a slower
+
+1286
+00:48:20,319 --> 00:48:23,119
+look to see how the substitution works
+
+1287
+00:48:23,119 --> 00:48:24,400
+and how
+
+1288
+00:48:24,400 --> 00:48:26,720
+sub goals are created and how the goal
+
+1289
+00:48:26,720 --> 00:48:27,680
+is satisfied
+
+1290
+00:48:27,680 --> 00:48:31,200
+by substitution of the sub goals
+
+1291
+00:48:31,200 --> 00:48:33,520
+so now i want to go back to up here and
+
+1292
+00:48:33,520 --> 00:48:35,440
+talk about the forward chaining and
+
+1293
+00:48:35,440 --> 00:48:37,040
+backward chaining
+
+1294
+00:48:37,040 --> 00:48:40,000
+that is associated and i think i will
+
+1295
+00:48:40,000 --> 00:48:41,119
+stop and do
+
+1296
+00:48:41,119 --> 00:48:43,760
+the lists uh next time but we'll see how
+
+1297
+00:48:43,760 --> 00:48:44,720
+far we get
+
+1298
+00:48:44,720 --> 00:48:47,440
+so we have the knowledge base we have
+
+1299
+00:48:47,440 --> 00:48:50,400
+and we went through this example already
+
+1300
+00:48:50,400 --> 00:48:53,119
+we went through the rule okay so it kind
+
+1301
+00:48:53,119 --> 00:48:55,280
+of uh the rule itself and this is the
+
+1302
+00:48:55,280 --> 00:48:56,800
+grandparent rule
+
+1303
+00:48:56,800 --> 00:48:59,280
+so we this is actually what this is
+
+1304
+00:48:59,280 --> 00:49:00,240
+actually the question
+
+1305
+00:49:00,240 --> 00:49:01,839
+this is one of the questions you have to
+
+1306
+00:49:01,839 --> 00:49:03,680
+do a grandparent
+
+1307
+00:49:03,680 --> 00:49:05,200
+so we're talking about the goal the
+
+1308
+00:49:05,200 --> 00:49:07,520
+goals of proposition that we want to
+
+1309
+00:49:07,520 --> 00:49:09,440
+satisfy to either prove or distribute
+
+1310
+00:49:09,440 --> 00:49:11,200
+there's two ways of doing it
+
+1311
+00:49:11,200 --> 00:49:14,400
+you can do forward chaining or backward
+
+1312
+00:49:14,400 --> 00:49:15,520
+chaining
+
+1313
+00:49:15,520 --> 00:49:18,480
+prolog by default does a forward
+
+1314
+00:49:18,480 --> 00:49:20,400
+chaining mechanism and this is something
+
+1315
+00:49:20,400 --> 00:49:21,599
+you do not have to
+
+1316
+00:49:21,599 --> 00:49:23,680
+program into the system this is
+
+1317
+00:49:23,680 --> 00:49:25,119
+something the system does
+
+1318
+00:49:25,119 --> 00:49:29,440
+for you so this is what the compiler is
+
+1319
+00:49:29,440 --> 00:49:30,000
+doing for
+
+1320
+00:49:30,000 --> 00:49:33,520
+you it's creating the chaining mechanism
+
+1321
+00:49:33,520 --> 00:49:37,440
+to apply the facts to the rules to
+
+1322
+00:49:37,440 --> 00:49:39,440
+deduce the answers that are going to
+
+1323
+00:49:39,440 --> 00:49:40,960
+come out of this
+
+1324
+00:49:40,960 --> 00:49:42,640
+given the particular information that
+
+1325
+00:49:42,640 --> 00:49:44,720
+you provided so the elements here you
+
+1326
+00:49:44,720 --> 00:49:46,480
+should ask prolog the virtual machine
+
+1327
+00:49:46,480 --> 00:49:49,200
+questions closed at the prompt so son
+
+1328
+00:49:49,200 --> 00:49:51,760
+bob harry if it's in the database it's
+
+1329
+00:49:51,760 --> 00:49:52,800
+going to come back and say
+
+1330
+00:49:52,800 --> 00:49:56,800
+yes king bob france no
+
+1331
+00:49:56,800 --> 00:49:59,359
+so it just comes back with yes or no and
+
+1332
+00:49:59,359 --> 00:50:01,440
+you combine answers to questions
+
+1333
+00:50:01,440 --> 00:50:04,079
+to variables for example who is bob the
+
+1334
+00:50:04,079 --> 00:50:04,640
+son of
+
+1335
+00:50:04,640 --> 00:50:07,680
+x is equal to harry and then your son
+
+1336
+00:50:07,680 --> 00:50:08,079
+bob
+
+1337
+00:50:08,079 --> 00:50:12,319
+x who is male x is equal above
+
+1338
+00:50:12,319 --> 00:50:16,000
+and so is bob the son of somebody
+
+1339
+00:50:16,000 --> 00:50:18,160
+you put a underscore in there to leave
+
+1340
+00:50:18,160 --> 00:50:20,079
+it it's kind of a blank but it's not a
+
+1341
+00:50:20,079 --> 00:50:20,800
+blank it's an
+
+1342
+00:50:20,800 --> 00:50:22,160
+underscore to say that it's a
+
+1343
+00:50:22,160 --> 00:50:23,920
+substitution
+
+1344
+00:50:23,920 --> 00:50:27,119
+so no variables are really bound and
+
+1345
+00:50:27,119 --> 00:50:28,000
+it's not really
+
+1346
+00:50:28,000 --> 00:50:30,400
+using the variables it's substituting
+
+1347
+00:50:30,400 --> 00:50:31,920
+values in
+
+1348
+00:50:31,920 --> 00:50:34,720
+to perform the propositions and the
+
+1349
+00:50:34,720 --> 00:50:35,680
+logic
+
+1350
+00:50:35,680 --> 00:50:38,640
+for the particular cases all right let's
+
+1351
+00:50:38,640 --> 00:50:40,000
+talk about backtracking
+
+1352
+00:50:40,000 --> 00:50:43,040
+and forward tracking so how are
+
+1353
+00:50:43,040 --> 00:50:44,720
+questions resolved here
+
+1354
+00:50:44,720 --> 00:50:47,440
+we have son x harry so we can start with
+
+1355
+00:50:47,440 --> 00:50:47,920
+a rule
+
+1356
+00:50:47,920 --> 00:50:49,680
+so we could like say you know for
+
+1357
+00:50:49,680 --> 00:50:52,240
+example to go backtracking you start
+
+1358
+00:50:52,240 --> 00:50:53,200
+with a rule
+
+1359
+00:50:53,200 --> 00:50:56,879
+and then you apply the facts to it
+
+1360
+00:50:57,119 --> 00:51:00,559
+versus forward chaining which is bottom
+
+1361
+00:51:00,559 --> 00:51:00,880
+up
+
+1362
+00:51:00,880 --> 00:51:03,040
+starts with each rule and checks for the
+
+1363
+00:51:03,040 --> 00:51:04,960
+facts
+
+1364
+00:51:04,960 --> 00:51:06,640
+so that's like the same let me give you
+
+1365
+00:51:06,640 --> 00:51:08,240
+a backward versus
+
+1366
+00:51:08,240 --> 00:51:12,240
+the forward and back back tracking
+
+1367
+00:51:12,240 --> 00:51:15,119
+uses what's called a forward chaining
+
+1368
+00:51:15,119 --> 00:51:17,920
+technique and it does it from the bottom
+
+1369
+00:51:17,920 --> 00:51:21,520
+up instead of the top down
+
+1370
+00:51:21,520 --> 00:51:25,200
+so backtracking versus forward
+
+1371
+00:51:25,200 --> 00:51:27,920
+tracking or two different directions so
+
+1372
+00:51:27,920 --> 00:51:29,839
+let me give you an example backtracking
+
+1373
+00:51:29,839 --> 00:51:31,680
+let's start with backtracking i'm
+
+1374
+00:51:31,680 --> 00:51:34,559
+talking about that tracking right now
+
+1375
+00:51:34,559 --> 00:51:37,359
+i come up with a conclusion and i say it
+
+1376
+00:51:37,359 --> 00:51:41,040
+is going to rain today
+
+1377
+00:51:41,760 --> 00:51:44,400
+and i tell uh prologue it's going to
+
+1378
+00:51:44,400 --> 00:51:44,800
+rain
+
+1379
+00:51:44,800 --> 00:51:46,720
+i make a determination that it is going
+
+1380
+00:51:46,720 --> 00:51:48,240
+to rain today
+
+1381
+00:51:48,240 --> 00:51:50,240
+so what it does is come back and say yes
+
+1382
+00:51:50,240 --> 00:51:52,000
+or no
+
+1383
+00:51:52,000 --> 00:51:54,480
+so i'm starting with the conclusion
+
+1384
+00:51:54,480 --> 00:51:57,280
+instead of asking prologue
+
+1385
+00:51:57,280 --> 00:52:00,400
+is it going to rain today
+
+1386
+00:52:00,400 --> 00:52:01,839
+so you're starting at two different
+
+1387
+00:52:01,839 --> 00:52:03,119
+directions i'm starting with a
+
+1388
+00:52:03,119 --> 00:52:06,000
+conclusion when i'm doing backtracking
+
+1389
+00:52:06,000 --> 00:52:08,480
+and so prologue by default does
+
+1390
+00:52:08,480 --> 00:52:09,359
+backtracking
+
+1391
+00:52:09,359 --> 00:52:11,760
+using a forward chaining technique which
+
+1392
+00:52:11,760 --> 00:52:13,359
+i'm going to get into momentarily
+
+1393
+00:52:13,359 --> 00:52:15,680
+so it starts with a conclusion like uh
+
+1394
+00:52:15,680 --> 00:52:18,400
+bob likes pizza
+
+1395
+00:52:18,400 --> 00:52:22,559
+yes or no versus does bob like pizza
+
+1396
+00:52:22,559 --> 00:52:25,599
+or what sport does bob like
+
+1397
+00:52:25,599 --> 00:52:28,079
+forward chaining fortune is a lot harder
+
+1398
+00:52:28,079 --> 00:52:29,280
+to do
+
+1399
+00:52:29,280 --> 00:52:31,359
+because we don't know it has to exhaust
+
+1400
+00:52:31,359 --> 00:52:32,480
+more of the database
+
+1401
+00:52:32,480 --> 00:52:36,240
+if i said what sport does bob like
+
+1402
+00:52:36,240 --> 00:52:37,599
+we have to go through the entire
+
+1403
+00:52:37,599 --> 00:52:40,400
+database to see how many times is bob
+
+1404
+00:52:40,400 --> 00:52:42,480
+in there and what sports does he like in
+
+1405
+00:52:42,480 --> 00:52:44,800
+there and how are we going to figure out
+
+1406
+00:52:44,800 --> 00:52:47,040
+which sport bob likes
+
+1407
+00:52:47,040 --> 00:52:50,319
+versus saying bob likes pin
+
+1408
+00:52:50,319 --> 00:52:53,280
+uh paintball uh pig balls when he likes
+
+1409
+00:52:53,280 --> 00:52:54,800
+playing with paintballs or he likes
+
+1410
+00:52:54,800 --> 00:52:56,480
+baskets let's just say basketball
+
+1411
+00:52:56,480 --> 00:52:58,880
+he likes playing basketball so we look
+
+1412
+00:52:58,880 --> 00:53:00,720
+just for basketball and see if bob's
+
+1413
+00:53:00,720 --> 00:53:02,800
+associated with basketball if he's not
+
+1414
+00:53:02,800 --> 00:53:05,920
+it's a clear answer no he doesn't so it
+
+1415
+00:53:05,920 --> 00:53:06,960
+depends on whether you're going to start
+
+1416
+00:53:06,960 --> 00:53:08,079
+with a conclusion
+
+1417
+00:53:08,079 --> 00:53:08,960
+or you're going to start with a
+
+1418
+00:53:08,960 --> 00:53:11,920
+hypothesis so like if i say
+
+1419
+00:53:11,920 --> 00:53:14,640
+you know it's going to rain today or
+
+1420
+00:53:14,640 --> 00:53:16,640
+it's not going to rain today and if i
+
+1421
+00:53:16,640 --> 00:53:18,319
+said probably it's not going to rain
+
+1422
+00:53:18,319 --> 00:53:18,720
+today
+
+1423
+00:53:18,720 --> 00:53:20,880
+it's going to come back and say no
+
+1424
+00:53:20,880 --> 00:53:23,280
+because it is raining right now actually
+
+1425
+00:53:23,280 --> 00:53:26,400
+it isn't campbell all right
+
+1426
+00:53:26,400 --> 00:53:29,839
+i live in campbell by the way
+
+1427
+00:53:30,720 --> 00:53:32,960
+uh so you know what when you go back to
+
+1428
+00:53:32,960 --> 00:53:34,319
+when i go back to campus i
+
+1429
+00:53:34,319 --> 00:53:36,880
+will have to actually commute but the
+
+1430
+00:53:36,880 --> 00:53:38,400
+roads aren't too bad these days
+
+1431
+00:53:38,400 --> 00:53:40,640
+so unless it's raining i can ask
+
+1432
+00:53:40,640 --> 00:53:43,440
+prologue is the commute going to be bad
+
+1433
+00:53:43,440 --> 00:53:45,680
+that's forward chaining by the way and
+
+1434
+00:53:45,680 --> 00:53:47,359
+it comes back and says yes
+
+1435
+00:53:47,359 --> 00:53:50,319
+or no prologue could come back and say
+
+1436
+00:53:50,319 --> 00:53:51,599
+if i ask for a log i'm going to do
+
+1437
+00:53:51,599 --> 00:53:52,559
+another example
+
+1438
+00:53:52,559 --> 00:53:56,240
+forward forward prologue is it gonna be
+
+1439
+00:53:56,240 --> 00:53:56,640
+a
+
+1440
+00:53:56,640 --> 00:53:59,520
+long commute prologue could come back
+
+1441
+00:53:59,520 --> 00:54:00,160
+and say
+
+1442
+00:54:00,160 --> 00:54:02,800
+no because everybody's staying home
+
+1443
+00:54:02,800 --> 00:54:05,280
+right now
+
+1444
+00:54:05,520 --> 00:54:08,400
+if i said a backward approach prologue
+
+1445
+00:54:08,400 --> 00:54:10,400
+the commute's terrible
+
+1446
+00:54:10,400 --> 00:54:12,480
+problem can come back and say no it's
+
+1447
+00:54:12,480 --> 00:54:14,240
+not terrible everyone's staying home
+
+1448
+00:54:14,240 --> 00:54:16,640
+right now
+
+1449
+00:54:16,880 --> 00:54:19,280
+so don't get too concerned with it i'm
+
+1450
+00:54:19,280 --> 00:54:20,880
+not gonna ask you anything like that on
+
+1451
+00:54:20,880 --> 00:54:21,680
+an exam
+
+1452
+00:54:21,680 --> 00:54:23,839
+but it's just understanding that there
+
+1453
+00:54:23,839 --> 00:54:25,839
+are two directions kind of helps you put
+
+1454
+00:54:25,839 --> 00:54:27,760
+it into perspective
+
+1455
+00:54:27,760 --> 00:54:30,880
+the prolog database has already
+
+1456
+00:54:30,880 --> 00:54:33,040
+been configured especially the one
+
+1457
+00:54:33,040 --> 00:54:35,200
+online and there's no way of changing it
+
+1458
+00:54:35,200 --> 00:54:37,440
+it's going to do it backward tracking
+
+1459
+00:54:37,440 --> 00:54:39,520
+uh it's going to do this exactly right
+
+1460
+00:54:39,520 --> 00:54:40,640
+here from bottom up
+
+1461
+00:54:40,640 --> 00:54:42,000
+so it starts with each one of the rules
+
+1462
+00:54:42,000 --> 00:54:43,839
+and then checks for facts
+
+1463
+00:54:43,839 --> 00:54:45,839
+so using the database systematically
+
+1464
+00:54:45,839 --> 00:54:47,680
+generating new theorems until one
+
+1465
+00:54:47,680 --> 00:54:48,319
+matches
+
+1466
+00:54:48,319 --> 00:54:51,280
+the query that is found so father bob
+
+1467
+00:54:51,280 --> 00:54:52,240
+mann is
+
+1468
+00:54:52,240 --> 00:54:55,520
+equal to father given the gold man bob
+
+1469
+00:54:55,520 --> 00:54:57,440
+under forward chaining father bob is
+
+1470
+00:54:57,440 --> 00:54:58,960
+matched against father
+
+1471
+00:54:58,960 --> 00:55:01,280
+x to derive a move back to man bob in
+
+1472
+00:55:01,280 --> 00:55:02,960
+the database and in fact satisfies the
+
+1473
+00:55:02,960 --> 00:55:04,839
+goal and so we can come back and say
+
+1474
+00:55:04,839 --> 00:55:06,480
+yeah
+
+1475
+00:55:06,480 --> 00:55:10,400
+and bob is a father
+
+1476
+00:55:10,400 --> 00:55:13,040
+if he's in the database that way
+
+1477
+00:55:13,040 --> 00:55:14,480
+backwards chaining from a top-up
+
+1478
+00:55:14,480 --> 00:55:16,000
+perspective starts with the facts
+
+1479
+00:55:16,000 --> 00:55:19,280
+and uses the rules that apply use the
+
+1480
+00:55:19,280 --> 00:55:21,680
+goals to work backwards to the fact
+
+1481
+00:55:21,680 --> 00:55:25,440
+given man bob as the goal you match
+
+1482
+00:55:25,440 --> 00:55:27,359
+against man x to create a new goal
+
+1483
+00:55:27,359 --> 00:55:29,200
+father bob father bob the goal matches
+
+1484
+00:55:29,200 --> 00:55:30,400
+pre-existing fact
+
+1485
+00:55:30,400 --> 00:55:32,720
+does the query is also satisfied satisfy
+
+1486
+00:55:32,720 --> 00:55:34,799
+both directions so it doesn't mean that
+
+1487
+00:55:34,799 --> 00:55:36,000
+forward
+
+1488
+00:55:36,000 --> 00:55:39,599
+or backward top down versus bottom up
+
+1489
+00:55:39,599 --> 00:55:41,200
+is going to produce any different
+
+1490
+00:55:41,200 --> 00:55:42,960
+results for you it's just a different
+
+1491
+00:55:42,960 --> 00:55:44,960
+systematic approach
+
+1492
+00:55:44,960 --> 00:55:48,799
+so for example i could ask the question
+
+1493
+00:55:48,799 --> 00:55:51,599
+you know no unless i get talked about
+
+1494
+00:55:51,599 --> 00:55:52,480
+rain anymore
+
+1495
+00:55:52,480 --> 00:55:56,000
+uh is csu east bay going to open back up
+
+1496
+00:55:56,000 --> 00:55:56,880
+again
+
+1497
+00:55:56,880 --> 00:55:59,359
+or when is csu east bay going to open
+
+1498
+00:55:59,359 --> 00:56:00,720
+back up again and i thought we're going
+
+1499
+00:56:00,720 --> 00:56:01,040
+to
+
+1500
+00:56:01,040 --> 00:56:03,280
+if i were a prologue i'm not really
+
+1501
+00:56:03,280 --> 00:56:06,319
+guessing if i had logic in my system
+
+1502
+00:56:06,319 --> 00:56:09,440
+to figure this out i'd say well alameda
+
+1503
+00:56:09,440 --> 00:56:10,400
+county
+
+1504
+00:56:10,400 --> 00:56:13,839
+what tier are they in and if
+
+1505
+00:56:13,839 --> 00:56:16,799
+in the database it said tier purple and
+
+1506
+00:56:16,799 --> 00:56:18,480
+then there was a rule in a database that
+
+1507
+00:56:18,480 --> 00:56:19,119
+said
+
+1508
+00:56:19,119 --> 00:56:22,640
+in the tier purple no online class no
+
+1509
+00:56:22,640 --> 00:56:26,240
+face-to-face classes can take place
+
+1510
+00:56:26,240 --> 00:56:29,200
+then i would recently deduce that no csu
+
+1511
+00:56:29,200 --> 00:56:29,920
+east bay is
+
+1512
+00:56:29,920 --> 00:56:33,280
+not opened up but if the tear changes to
+
+1513
+00:56:33,280 --> 00:56:34,160
+tear red
+
+1514
+00:56:34,160 --> 00:56:36,720
+and i ask the same question the system
+
+1515
+00:56:36,720 --> 00:56:39,040
+might come back and say yes
+
+1516
+00:56:39,040 --> 00:56:42,000
+they are because they're interred the
+
+1517
+00:56:42,000 --> 00:56:43,119
+difference though
+
+1518
+00:56:43,119 --> 00:56:44,799
+is that prologue doesn't tell you the
+
+1519
+00:56:44,799 --> 00:56:47,040
+because
+
+1520
+00:56:47,040 --> 00:56:49,040
+it doesn't tell you that because it will
+
+1521
+00:56:49,040 --> 00:56:51,760
+just come back and say yes or no
+
+1522
+00:56:51,760 --> 00:56:53,359
+it's kind of like does bob like
+
+1523
+00:56:53,359 --> 00:56:55,599
+chocolate well we don't know if bob
+
+1524
+00:56:55,599 --> 00:56:56,880
+likes chocolate
+
+1525
+00:56:56,880 --> 00:57:00,960
+but in the database if bob likes cake
+
+1526
+00:57:00,960 --> 00:57:04,160
+and all cake are chocolate and bob likes
+
+1527
+00:57:04,160 --> 00:57:04,960
+donuts
+
+1528
+00:57:04,960 --> 00:57:07,520
+and all donuts are chocolate and bob
+
+1529
+00:57:07,520 --> 00:57:08,799
+likes ice cream and
+
+1530
+00:57:08,799 --> 00:57:11,440
+all ice cream is chocolate then probably
+
+1531
+00:57:11,440 --> 00:57:12,799
+would deduce
+
+1532
+00:57:12,799 --> 00:57:15,119
+that bob likes chocolate because all of
+
+1533
+00:57:15,119 --> 00:57:16,319
+these other things
+
+1534
+00:57:16,319 --> 00:57:19,680
+have chocolate in it which is
+
+1535
+00:57:19,680 --> 00:57:21,440
+kind of like how people figure out what
+
+1536
+00:57:21,440 --> 00:57:23,119
+they like or they don't like
+
+1537
+00:57:23,119 --> 00:57:24,880
+if you think about it which is kind of
+
+1538
+00:57:24,880 --> 00:57:26,480
+funny because people have weird
+
+1539
+00:57:26,480 --> 00:57:28,240
+food preferences because sometimes i
+
+1540
+00:57:28,240 --> 00:57:29,599
+like something
+
+1541
+00:57:29,599 --> 00:57:32,559
+i have uh well my sister actually claims
+
+1542
+00:57:32,559 --> 00:57:34,400
+she doesn't like eggs
+
+1543
+00:57:34,400 --> 00:57:36,640
+however she eats a lot of foods that
+
+1544
+00:57:36,640 --> 00:57:38,480
+have eggs in them
+
+1545
+00:57:38,480 --> 00:57:39,920
+so i'm thinking how could you say you
+
+1546
+00:57:39,920 --> 00:57:41,839
+don't like eggs that's logically
+
+1547
+00:57:41,839 --> 00:57:43,040
+incorrect
+
+1548
+00:57:43,040 --> 00:57:45,599
+when you're eating like omelettes that
+
+1549
+00:57:45,599 --> 00:57:47,280
+have eggs
+
+1550
+00:57:47,280 --> 00:57:49,280
+sorry you know it's like wow it's like
+
+1551
+00:57:49,280 --> 00:57:51,280
+saying you don't like cheese but you eat
+
+1552
+00:57:51,280 --> 00:57:53,440
+pizza with cheese on it how could you
+
+1553
+00:57:53,440 --> 00:57:54,640
+say you don't like
+
+1554
+00:57:54,640 --> 00:57:58,079
+cheese so it's prolog
+
+1555
+00:57:58,079 --> 00:58:00,480
+can't make those mistakes because it
+
+1556
+00:58:00,480 --> 00:58:01,920
+only knows
+
+1557
+00:58:01,920 --> 00:58:04,000
+what people like and don't like if you
+
+1558
+00:58:04,000 --> 00:58:05,520
+put it in as a fact
+
+1559
+00:58:05,520 --> 00:58:07,280
+i put it in prolog database that's the
+
+1560
+00:58:07,280 --> 00:58:09,280
+fact that
+
+1561
+00:58:09,280 --> 00:58:11,040
+this is a prediction system you can
+
+1562
+00:58:11,040 --> 00:58:12,559
+predict what kind of pizza barb would
+
+1563
+00:58:12,559 --> 00:58:13,040
+like
+
+1564
+00:58:13,040 --> 00:58:14,880
+because we could say barb likes ham
+
+1565
+00:58:14,880 --> 00:58:17,040
+barber likes pineapple barb likes cheese
+
+1566
+00:58:17,040 --> 00:58:19,920
+broth likes red sauce barbecue
+
+1567
+00:58:19,920 --> 00:58:23,119
+i can't prologue what kind of pizza does
+
+1568
+00:58:23,119 --> 00:58:24,240
+barb like
+
+1569
+00:58:24,240 --> 00:58:26,079
+it can come back and tell me you want a
+
+1570
+00:58:26,079 --> 00:58:27,280
+hawaiian pizza
+
+1571
+00:58:27,280 --> 00:58:29,760
+or you want meat lovers pizza or you
+
+1572
+00:58:29,760 --> 00:58:31,200
+want
+
+1573
+00:58:31,200 --> 00:58:33,359
+so which is actually kind of funny
+
+1574
+00:58:33,359 --> 00:58:35,440
+because some of the pizza companies do
+
+1575
+00:58:35,440 --> 00:58:36,160
+this
+
+1576
+00:58:36,160 --> 00:58:39,200
+i tell you well click some boxes here or
+
+1577
+00:58:39,200 --> 00:58:41,200
+when you sign up for services it says
+
+1578
+00:58:41,200 --> 00:58:43,119
+you know what kind of music do you what
+
+1579
+00:58:43,119 --> 00:58:44,880
+stations do you listen to
+
+1580
+00:58:44,880 --> 00:58:47,599
+what kind of music do you like and then
+
+1581
+00:58:47,599 --> 00:58:49,680
+it makes some recommendations for you
+
+1582
+00:58:49,680 --> 00:58:51,760
+that's prologue that's a great example
+
+1583
+00:58:51,760 --> 00:58:53,839
+of a prologue database wine pizza is
+
+1584
+00:58:53,839 --> 00:58:54,160
+like
+
+1585
+00:58:54,160 --> 00:58:57,359
+stabbed in the heart for italians yeah
+
+1586
+00:58:57,359 --> 00:58:58,400
+it is
+
+1587
+00:58:58,400 --> 00:59:01,359
+it's not really italian yeah i like you
+
+1588
+00:59:01,359 --> 00:59:02,880
+know you guys are making me hungry now
+
+1589
+00:59:02,880 --> 00:59:04,319
+because i think i'm gonna actually order
+
+1590
+00:59:04,319 --> 00:59:06,000
+pizza for lunch
+
+1591
+00:59:06,000 --> 00:59:09,760
+anyway yeah um barb does like hawaiian
+
+1592
+00:59:09,760 --> 00:59:11,440
+pizza by the way
+
+1593
+00:59:11,440 --> 00:59:15,520
+yeah okay forward and backward chaining
+
+1594
+00:59:15,520 --> 00:59:17,520
+that's what i just described here we
+
+1595
+00:59:17,520 --> 00:59:19,520
+have bottom-up resolution for
+
+1596
+00:59:19,520 --> 00:59:20,880
+chaining our top-down resolution
+
+1597
+00:59:20,880 --> 00:59:22,480
+backward chain and that's the other
+
+1598
+00:59:22,480 --> 00:59:23,119
+thing
+
+1599
+00:59:23,119 --> 00:59:25,119
+that's the other thing that prolog can
+
+1600
+00:59:25,119 --> 00:59:26,880
+also be programmed to look at
+
+1601
+00:59:26,880 --> 00:59:30,400
+all right we're all different ages
+
+1602
+00:59:30,400 --> 00:59:32,160
+we're definitely past the age of five
+
+1603
+00:59:32,160 --> 00:59:34,240
+years old however
+
+1604
+00:59:34,240 --> 00:59:36,480
+hopefully everybody in the class is over
+
+1605
+00:59:36,480 --> 00:59:37,440
+five
+
+1606
+00:59:37,440 --> 00:59:39,680
+and i don't know around five-ish the
+
+1607
+00:59:39,680 --> 00:59:41,280
+theorists the psychologists say that's
+
+1608
+00:59:41,280 --> 00:59:43,200
+when we start actually developing our
+
+1609
+00:59:43,200 --> 00:59:45,440
+true memories of things
+
+1610
+00:59:45,440 --> 00:59:48,559
+so up until like five or so
+
+1611
+00:59:48,559 --> 00:59:50,559
+four or five is debatable but there's a
+
+1612
+00:59:50,559 --> 00:59:52,400
+certain time when you're a baby
+
+1613
+00:59:52,400 --> 00:59:53,920
+you keep going back and forth i like
+
+1614
+00:59:53,920 --> 00:59:55,200
+this i don't like this i like this i
+
+1615
+00:59:55,200 --> 00:59:55,920
+don't like this
+
+1616
+00:59:55,920 --> 00:59:57,200
+and who knows what you like but around
+
+1617
+00:59:57,200 --> 00:59:59,200
+the age of five you start developing
+
+1618
+00:59:59,200 --> 00:59:59,599
+some
+
+1619
+00:59:59,599 --> 01:00:02,640
+strong interests i like writing i like
+
+1620
+01:00:02,640 --> 01:00:05,760
+listening all right just because you
+
+1621
+01:00:05,760 --> 01:00:07,440
+liked something when you were five years
+
+1622
+01:00:07,440 --> 01:00:09,280
+old that's the bottom of the database
+
+1623
+01:00:09,280 --> 01:00:11,200
+and every year you're six you're seven
+
+1624
+01:00:11,200 --> 01:00:13,280
+you're 10 you're 15 you're 20.
+
+1625
+01:00:13,280 --> 01:00:15,760
+each year you keep adding more facts to
+
+1626
+01:00:15,760 --> 01:00:16,559
+it
+
+1627
+01:00:16,559 --> 01:00:19,359
+so then people change their mind when i
+
+1628
+01:00:19,359 --> 01:00:22,480
+was five i didn't really like sushi
+
+1629
+01:00:22,480 --> 01:00:25,599
+now that i'm older the topper
+
+1630
+01:00:25,599 --> 01:00:27,680
+the higher levels of the likes when it
+
+1631
+01:00:27,680 --> 01:00:29,520
+comes to food
+
+1632
+01:00:29,520 --> 01:00:33,119
+likes sushi like not liking vegetables
+
+1633
+01:00:33,119 --> 01:00:34,640
+and then liking vegetables
+
+1634
+01:00:34,640 --> 01:00:38,079
+when it comes to food for kids uh
+
+1635
+01:00:38,079 --> 01:00:41,280
+so the data changes in the knowledge
+
+1636
+01:00:41,280 --> 01:00:42,000
+base
+
+1637
+01:00:42,000 --> 01:00:43,839
+and if our brain is sort of like a
+
+1638
+01:00:43,839 --> 01:00:45,760
+prologue knowledge base
+
+1639
+01:00:45,760 --> 01:00:48,400
+then we're constantly changing the facts
+
+1640
+01:00:48,400 --> 01:00:49,599
+and the rules
+
+1641
+01:00:49,599 --> 01:00:51,440
+and so what is going to end up happening
+
+1642
+01:00:51,440 --> 01:00:52,720
+here
+
+1643
+01:00:52,720 --> 01:00:54,799
+is that we're going to we're going to
+
+1644
+01:00:54,799 --> 01:00:56,160
+prove ourselves right or
+
+1645
+01:00:56,160 --> 01:00:58,079
+wrong depending upon which direction in
+
+1646
+01:00:58,079 --> 01:01:00,319
+the knowledge phase we're searching
+
+1647
+01:01:00,319 --> 01:01:03,680
+so if i started from the bottom and i
+
+1648
+01:01:03,680 --> 01:01:04,240
+said
+
+1649
+01:01:04,240 --> 01:01:06,559
+okay do i like sushi i'm gonna come back
+
+1650
+01:01:06,559 --> 01:01:07,680
+with no no
+
+1651
+01:01:07,680 --> 01:01:10,160
+no no way at the top we're going to see
+
+1652
+01:01:10,160 --> 01:01:10,799
+a yes
+
+1653
+01:01:10,799 --> 01:01:13,920
+up there so here's ways of
+
+1654
+01:01:13,920 --> 01:01:17,200
+creating it so that prologue continues
+
+1655
+01:01:17,200 --> 01:01:19,119
+the search you just put a semicolon into
+
+1656
+01:01:19,119 --> 01:01:19,680
+the
+
+1657
+01:01:19,680 --> 01:01:22,160
+box it says okay i found a no a no i
+
+1658
+01:01:22,160 --> 01:01:24,799
+know okay i got a yes i got a yes
+
+1659
+01:01:24,799 --> 01:01:27,280
+because the facts have changed so it
+
+1660
+01:01:27,280 --> 01:01:28,559
+depends on whether you're going forward
+
+1661
+01:01:28,559 --> 01:01:29,280
+versus
+
+1662
+01:01:29,280 --> 01:01:32,079
+backward in terms of the newest versus
+
+1663
+01:01:32,079 --> 01:01:33,200
+the oldest facts
+
+1664
+01:01:33,200 --> 01:01:36,559
+most databases will look at the newest
+
+1665
+01:01:36,559 --> 01:01:39,040
+now this is the new information that's
+
+1666
+01:01:39,040 --> 01:01:40,000
+on the top
+
+1667
+01:01:40,000 --> 01:01:41,839
+not the bottom if you start at the
+
+1668
+01:01:41,839 --> 01:01:43,200
+bottom you go all the way through the
+
+1669
+01:01:43,200 --> 01:01:45,440
+entire history of your entire life to
+
+1670
+01:01:45,440 --> 01:01:47,040
+see if you like something it's going to
+
+1671
+01:01:47,040 --> 01:01:48,400
+change over time
+
+1672
+01:01:48,400 --> 01:01:49,760
+if you look at the top you're going to
+
+1673
+01:01:49,760 --> 01:01:52,160
+get a more accurate answer in this last
+
+1674
+01:01:52,160 --> 01:01:55,760
+year do i like sushi yes
+
+1675
+01:01:55,760 --> 01:01:58,240
+then i'm going to get a more definite
+
+1676
+01:01:58,240 --> 01:01:59,920
+correct answer so a lot of people didn't
+
+1677
+01:01:59,920 --> 01:02:01,440
+want to go through the entire database
+
+1678
+01:02:01,440 --> 01:02:02,559
+and you're not going to search through
+
+1679
+01:02:02,559 --> 01:02:04,400
+the entire database
+
+1680
+01:02:04,400 --> 01:02:05,680
+you're going to look at the last the
+
+1681
+01:02:05,680 --> 01:02:09,359
+most recent the most recent entries
+
+1682
+01:02:09,359 --> 01:02:12,799
+okay so bottom up searches the database
+
+1683
+01:02:12,799 --> 01:02:14,319
+from facts to rules and attempts to find
+
+1684
+01:02:14,319 --> 01:02:15,599
+the sequence of matches within the
+
+1685
+01:02:15,599 --> 01:02:17,839
+database to satisfy the goal top advance
+
+1686
+01:02:17,839 --> 01:02:19,440
+starts with the goal
+
+1687
+01:02:19,440 --> 01:02:20,880
+the backward chaining starts with the
+
+1688
+01:02:20,880 --> 01:02:22,720
+goal the conclusion i call it a
+
+1689
+01:02:22,720 --> 01:02:23,440
+conclusion
+
+1690
+01:02:23,440 --> 01:02:26,000
+it's goal and then searches the database
+
+1691
+01:02:26,000 --> 01:02:27,440
+to see if it can
+
+1692
+01:02:27,440 --> 01:02:30,559
+be satisfied can we satisfy the goal is
+
+1693
+01:02:30,559 --> 01:02:32,799
+it going there it's going to rain today
+
+1694
+01:02:32,799 --> 01:02:35,359
+yes or no versus is it going to rain
+
+1695
+01:02:35,359 --> 01:02:36,799
+today
+
+1696
+01:02:36,799 --> 01:02:38,240
+so i'm not going to pick a side here i
+
+1697
+01:02:38,240 --> 01:02:39,760
+picked the goal already and see if it's
+
+1698
+01:02:39,760 --> 01:02:40,480
+true
+
+1699
+01:02:40,480 --> 01:02:42,160
+here i find out what the goal actually
+
+1700
+01:02:42,160 --> 01:02:44,480
+is so
+
+1701
+01:02:44,480 --> 01:02:46,240
+the second part of the resolution is the
+
+1702
+01:02:46,240 --> 01:02:48,400
+depth versus versus the breadth first
+
+1703
+01:02:48,400 --> 01:02:49,839
+search and this is if you
+
+1704
+01:02:49,839 --> 01:02:51,119
+have taken data structures and
+
+1705
+01:02:51,119 --> 01:02:52,880
+algorithms and you know there's two ways
+
+1706
+01:02:52,880 --> 01:02:54,400
+of searching if you're going to exhaust
+
+1707
+01:02:54,400 --> 01:02:56,319
+the search tree
+
+1708
+01:02:56,319 --> 01:02:59,599
+so this is the large search space
+
+1709
+01:02:59,599 --> 01:03:02,720
+we're going to apply depth or prep so if
+
+1710
+01:03:02,720 --> 01:03:03,599
+we do dab
+
+1711
+01:03:03,599 --> 01:03:06,000
+we go all the way down you start at root
+
+1712
+01:03:06,000 --> 01:03:07,599
+go all the way down
+
+1713
+01:03:07,599 --> 01:03:10,240
+each one of the chains to the lowest
+
+1714
+01:03:10,240 --> 01:03:11,520
+depth
+
+1715
+01:03:11,520 --> 01:03:14,079
+of the tree to see if we can satisfy the
+
+1716
+01:03:14,079 --> 01:03:14,799
+goal
+
+1717
+01:03:14,799 --> 01:03:18,079
+versus breadth going this way the whole
+
+1718
+01:03:18,079 --> 01:03:18,880
+level one
+
+1719
+01:03:18,880 --> 01:03:21,599
+the level two the level three process
+
+1720
+01:03:21,599 --> 01:03:22,720
+all the sub girls
+
+1721
+01:03:22,720 --> 01:03:25,680
+parallel versus going down and seeing if
+
+1722
+01:03:25,680 --> 01:03:27,520
+each one of the sub goals can be
+
+1723
+01:03:27,520 --> 01:03:28,880
+satisfied
+
+1724
+01:03:28,880 --> 01:03:31,440
+prolog designers went with a top-down
+
+1725
+01:03:31,440 --> 01:03:32,640
+backward chaining
+
+1726
+01:03:32,640 --> 01:03:35,520
+depth burst resolution process by
+
+1727
+01:03:35,520 --> 01:03:37,039
+default
+
+1728
+01:03:37,039 --> 01:03:39,920
+it does not mean you can't change these
+
+1729
+01:03:39,920 --> 01:03:40,880
+things
+
+1730
+01:03:40,880 --> 01:03:43,920
+if you this is an open source utility
+
+1731
+01:03:43,920 --> 01:03:45,440
+open source
+
+1732
+01:03:45,440 --> 01:03:49,039
+compiler you can certainly reprogram it
+
+1733
+01:03:49,039 --> 01:03:50,400
+or change it
+
+1734
+01:03:50,400 --> 01:03:53,039
+so that it does something differently by
+
+1735
+01:03:53,039 --> 01:03:54,000
+default we're going to have backward
+
+1736
+01:03:54,000 --> 01:03:54,559
+chaining
+
+1737
+01:03:54,559 --> 01:03:57,760
+i'm going to see if the goal is true and
+
+1738
+01:03:57,760 --> 01:03:59,280
+we're going to go debt first
+
+1739
+01:03:59,280 --> 01:04:01,599
+because once we have exhausted one path
+
+1740
+01:04:01,599 --> 01:04:03,039
+if one of the sub goals
+
+1741
+01:04:03,039 --> 01:04:05,920
+does not exist the whole goal doesn't
+
+1742
+01:04:05,920 --> 01:04:07,119
+exist
+
+1743
+01:04:07,119 --> 01:04:09,359
+so if you're trying to find out if bob's
+
+1744
+01:04:09,359 --> 01:04:11,039
+a father
+
+1745
+01:04:11,039 --> 01:04:14,160
+but bob is not male we gotta
+
+1746
+01:04:14,160 --> 01:04:16,000
+we're immediately gonna say no bob's not
+
+1747
+01:04:16,000 --> 01:04:17,440
+a father
+
+1748
+01:04:17,440 --> 01:04:20,640
+bob might be a mother if
+
+1749
+01:04:20,640 --> 01:04:22,319
+we can't satisfy that one goal and we
+
+1750
+01:04:22,319 --> 01:04:23,920
+can't satisfy be going through a debt
+
+1751
+01:04:23,920 --> 01:04:25,760
+first we're gonna eliminate half of the
+
+1752
+01:04:25,760 --> 01:04:26,799
+search space
+
+1753
+01:04:26,799 --> 01:04:29,599
+constantly but why continue checking if
+
+1754
+01:04:29,599 --> 01:04:32,079
+one of the facts is already wrong
+
+1755
+01:04:32,079 --> 01:04:35,839
+so it proves to be a little faster
+
+1756
+01:04:35,839 --> 01:04:39,038
+in terms of solving the goal
+
+1757
+01:04:39,200 --> 01:04:41,839
+backward chances for uncle male sibling
+
+1758
+01:04:41,839 --> 01:04:43,200
+here's a sibling for you
+
+1759
+01:04:43,200 --> 01:04:46,000
+as a parent it's called backward
+
+1760
+01:04:46,000 --> 01:04:46,640
+chaining and
+
+1761
+01:04:46,640 --> 01:04:48,240
+you can go through the process on your
+
+1762
+01:04:48,240 --> 01:04:50,000
+own it takes a little bit of
+
+1763
+01:04:50,000 --> 01:04:52,640
+sitting and looking at it okay so i
+
+1764
+01:04:52,640 --> 01:04:54,400
+already went through the little example
+
+1765
+01:04:54,400 --> 01:04:56,640
+here
+
+1766
+01:04:56,720 --> 01:04:59,359
+and we're gonna i'm gonna do the list
+
+1767
+01:04:59,359 --> 01:05:00,400
+next time
+
+1768
+01:05:00,400 --> 01:05:03,520
+uh if you wanna look ahead it's pretty
+
+1769
+01:05:03,520 --> 01:05:04,880
+easy
+
+1770
+01:05:04,880 --> 01:05:06,640
+you might actually if you if you really
+
+1771
+01:05:06,640 --> 01:05:08,079
+wanna look ahead on the prologue
+
+1772
+01:05:08,079 --> 01:05:10,319
+list uh so this is past the first one
+
+1773
+01:05:10,319 --> 01:05:12,079
+and i highly recommend doing is pretty
+
+1774
+01:05:12,079 --> 01:05:12,880
+easy
+
+1775
+01:05:12,880 --> 01:05:14,720
+um here actually i'll just show you the
+
+1776
+01:05:14,720 --> 01:05:16,400
+list real quick here
+
+1777
+01:05:16,400 --> 01:05:17,520
+and i'll go through more of those
+
+1778
+01:05:17,520 --> 01:05:20,640
+examples uh prolog lists are not too bad
+
+1779
+01:05:20,640 --> 01:05:22,000
+they look like this they have these
+
+1780
+01:05:22,000 --> 01:05:23,760
+square brackets
+
+1781
+01:05:23,760 --> 01:05:26,799
+so append x and y
+
+1782
+01:05:26,799 --> 01:05:29,839
+with one two three this is the append
+
+1783
+01:05:29,839 --> 01:05:30,720
+predicate
+
+1784
+01:05:30,720 --> 01:05:34,559
+they call it a predicate is it really
+
+1785
+01:05:34,559 --> 01:05:36,480
+the syntax kind of he follows through
+
+1786
+01:05:36,480 --> 01:05:38,559
+the head and the tail it's a link list
+
+1787
+01:05:38,559 --> 01:05:40,240
+believe it or not
+
+1788
+01:05:40,240 --> 01:05:42,160
+so consider the following angle head
+
+1789
+01:05:42,160 --> 01:05:44,319
+versus tail so we have one two
+
+1790
+01:05:44,319 --> 01:05:46,319
+three four head is one the tail is two
+
+1791
+01:05:46,319 --> 01:05:48,559
+three four
+
+1792
+01:05:48,559 --> 01:05:51,359
+so in developing the list here's a list
+
+1793
+01:05:51,359 --> 01:05:53,039
+it has a square brackets
+
+1794
+01:05:53,039 --> 01:05:55,200
+an empty list has nothing inside of it
+
+1795
+01:05:55,200 --> 01:05:56,160
+so prolog
+
+1796
+01:05:56,160 --> 01:05:58,400
+list consists of zero or more elements
+
+1797
+01:05:58,400 --> 01:05:59,839
+separated by commas they can be
+
+1798
+01:05:59,839 --> 01:06:00,640
+characters
+
+1799
+01:06:00,640 --> 01:06:03,839
+numbers they can be anything uh they
+
+1800
+01:06:03,839 --> 01:06:05,039
+could actually be a list
+
+1801
+01:06:05,039 --> 01:06:07,520
+inside of a list just like prologue the
+
+1802
+01:06:07,520 --> 01:06:08,319
+lists are not
+
+1803
+01:06:08,319 --> 01:06:11,920
+stuck to just one data type
+
+1804
+01:06:11,920 --> 01:06:13,920
+uh here's some examples the head could
+
+1805
+01:06:13,920 --> 01:06:15,920
+be equal to one the tail can be equal to
+
+1806
+01:06:15,920 --> 01:06:16,400
+two
+
+1807
+01:06:16,400 --> 01:06:20,000
+three av so h matches the first element
+
+1808
+01:06:20,000 --> 01:06:20,799
+in the list
+
+1809
+01:06:20,799 --> 01:06:24,400
+t matches the rest of the list
+
+1810
+01:06:24,400 --> 01:06:26,480
+you can ask it t one two three four it's
+
+1811
+01:06:26,480 --> 01:06:28,480
+gonna come back and say yes because
+
+1812
+01:06:28,480 --> 01:06:30,960
+the tail is one two three four the head
+
+1813
+01:06:30,960 --> 01:06:32,559
+is one
+
+1814
+01:06:32,559 --> 01:06:34,240
+all right the tail excuse me is two
+
+1815
+01:06:34,240 --> 01:06:36,720
+three four
+
+1816
+01:06:37,119 --> 01:06:38,640
+think of it as like linked list the
+
+1817
+01:06:38,640 --> 01:06:40,400
+first element is the head the rest of
+
+1818
+01:06:40,400 --> 01:06:42,079
+it's the tail
+
+1819
+01:06:42,079 --> 01:06:45,280
+so here's a pen where we're going to
+
+1820
+01:06:45,280 --> 01:06:47,039
+take this list and this list and append
+
+1821
+01:06:47,039 --> 01:06:48,640
+it together to this list
+
+1822
+01:06:48,640 --> 01:06:51,839
+so x is equal to 1 2 3 a b
+
+1823
+01:06:51,839 --> 01:06:54,640
+because we have 1 2 3 and a b that's
+
+1824
+01:06:54,640 --> 01:06:56,240
+going into x
+
+1825
+01:06:56,240 --> 01:06:59,280
+do not think of these as
+
+1826
+01:06:59,280 --> 01:07:02,160
+functions because they're not functions
+
+1827
+01:07:02,160 --> 01:07:03,119
+think of them
+
+1828
+01:07:03,119 --> 01:07:07,440
+as a list fact
+
+1829
+01:07:07,440 --> 01:07:10,720
+so 1 2 3 comma a b comma
+
+1830
+01:07:10,720 --> 01:07:14,000
+x takes x and makes it
+
+1831
+01:07:14,000 --> 01:07:16,160
+into one two three a b because it's
+
+1832
+01:07:16,160 --> 01:07:18,319
+appending and the function append
+
+1833
+01:07:18,319 --> 01:07:21,039
+is actually built in by the way so what
+
+1834
+01:07:21,039 --> 01:07:21,839
+you're going to do
+
+1835
+01:07:21,839 --> 01:07:25,599
+with those number two through five
+
+1836
+01:07:25,599 --> 01:07:29,280
+is use built-in functions to achieve the
+
+1837
+01:07:29,280 --> 01:07:30,160
+goal
+
+1838
+01:07:30,160 --> 01:07:31,920
+of what it is you're trying to do what
+
+1839
+01:07:31,920 --> 01:07:33,599
+you're trying to accomplish so
+
+1840
+01:07:33,599 --> 01:07:36,400
+to take two lists and put them together
+
+1841
+01:07:36,400 --> 01:07:37,760
+that's really an append
+
+1842
+01:07:37,760 --> 01:07:41,359
+actually so intent might help you with
+
+1843
+01:07:41,359 --> 01:07:43,760
+the assignment
+
+1844
+01:07:43,760 --> 01:07:47,280
+so to append these guys together x
+
+1845
+01:07:47,280 --> 01:07:50,559
+is 1 2 3
+
+1846
+01:07:50,559 --> 01:07:53,920
+a b and x is now
+
+1847
+01:07:53,920 --> 01:07:57,359
+a and b
+
+1848
+01:07:57,359 --> 01:07:59,200
+so take a look at these go through the
+
+1849
+01:07:59,200 --> 01:08:01,440
+tutorials that are on the swishy site
+
+1850
+01:08:01,440 --> 01:08:04,480
+when it comes to lists
+
+1851
+01:08:04,880 --> 01:08:07,599
+you could google it on the open internet
+
+1852
+01:08:07,599 --> 01:08:08,480
+but
+
+1853
+01:08:08,480 --> 01:08:10,799
+uh there's some right wrong answers out
+
+1854
+01:08:10,799 --> 01:08:11,520
+there
+
+1855
+01:08:11,520 --> 01:08:14,240
+so i'm just looking at my time here
+
+1856
+01:08:14,240 --> 01:08:16,399
+quick until 12 15. we do it's like about
+
+1857
+01:08:16,399 --> 01:08:16,799
+12
+
+1858
+01:08:16,799 --> 01:08:20,000
+10 right now i'm gonna stop because this
+
+1859
+01:08:20,000 --> 01:08:21,359
+is really a two-part lecture
+
+1860
+01:08:21,359 --> 01:08:24,719
+i will start at list not next week but
+
+1861
+01:08:24,719 --> 01:08:26,719
+the following week
+
+1862
+01:08:26,719 --> 01:08:29,120
+we will start here and i'm going to open
+
+1863
+01:08:29,120 --> 01:08:30,960
+the floor for any questions you might
+
+1864
+01:08:30,960 --> 01:08:32,399
+have
+
+1865
+01:08:32,399 --> 01:08:35,439
+next week's meeting is cancel but
+
+1866
+01:08:35,439 --> 01:08:36,880
+everything i'm giving you here in the
+
+1867
+01:08:36,880 --> 01:08:38,960
+lecture is in those
+
+1868
+01:08:38,960 --> 01:08:42,319
+youtube videos so you can work ahead go
+
+1869
+01:08:42,319 --> 01:08:44,960
+ahead and watch the youtube videos
+
+1870
+01:08:44,960 --> 01:08:49,359
+otherwise i will see you guys on the
+
+1871
+01:08:49,359 --> 01:08:53,839
+24th for our next zoom meeting
+
+1872
+01:08:53,839 --> 01:08:56,560
+so again no meeting next week because
+
+1873
+01:08:56,560 --> 01:08:57,279
+i've got this
+
+1874
+01:08:57,279 --> 01:09:00,158
+really weird transition to face-to-face
+
+1875
+01:09:00,158 --> 01:09:01,359
+classes for the
+
+1876
+01:09:01,359 --> 01:09:03,439
+class that starts like in 15 minutes
+
+1877
+01:09:03,439 --> 01:09:04,880
+from now
+
+1878
+01:09:04,880 --> 01:09:09,679
+um and so we will transition
+
+1879
+01:09:09,679 --> 01:09:11,520
+and we will be up and running on the
+
+1880
+01:09:11,520 --> 01:09:13,198
+24th
+
+1881
+01:09:13,198 --> 01:09:16,238
+are there any questions if there
+
+1882
+01:09:16,238 --> 01:09:18,238
+aren't then have an excellent day enjoy
+
+1883
+01:09:18,238 --> 01:09:19,920
+the rain because prologue said it's
+
+1884
+01:09:19,920 --> 01:09:21,120
+going to rain today
+
+1885
+01:09:21,120 --> 01:09:24,319
+so it is raining
+
+1886
+01:09:24,319 --> 01:09:27,439
+uh we need the we need the rain have a
+
+1887
+01:09:27,439 --> 01:09:28,960
+good day
+
+1888
+01:09:28,960 --> 01:09:32,319
+see you on the 24th
+
+1889
+01:09:32,719 --> 01:09:33,920
+unless you have questions i'm going to
+
+1890
+01:09:33,920 --> 01:09:35,839
+hang out a little bit thanks i will
+
+1891
+01:09:35,839 --> 01:09:37,920
+enjoy my pizza
+
+1892
+01:09:37,920 --> 01:09:41,120
+i'm actually going to water it right now
+
+1893
+01:09:41,120 --> 01:09:45,279
+i'm going to order my pizza ah but
+
+1894
+01:09:45,279 --> 01:09:46,719
+unless you guys have questions we're all
+
+1895
+01:09:46,719 --> 01:09:49,040
+done for today
+
+1896
+01:09:49,040 --> 01:09:50,719
+i'm gonna hang out until you guys all
+
+1897
+01:09:50,719 --> 01:09:52,560
+log off before i log off just to make
+
+1898
+01:09:52,560 --> 01:09:54,800
+sure we don't have anybody
+
+1899
+01:09:54,800 --> 01:09:56,320
+trying to formulate a question in their
+
+1900
+01:09:56,320 --> 01:09:58,480
+head
+
+1901
+01:09:58,480 --> 01:10:03,839
+you guys are good katrina you good
+
+1902
+01:10:04,239 --> 01:10:07,760
+yeah it's about the website the prologue
+
+1903
+01:10:07,760 --> 01:10:10,800
+from which we don't need to um
+
+1904
+01:10:10,800 --> 01:10:14,239
+install it i was just a bit confused
+
+1905
+01:10:14,239 --> 01:10:17,840
+that uh where is it
+
+1906
+01:10:17,840 --> 01:10:20,880
+let me share it actually
+
+1907
+01:10:20,960 --> 01:10:25,040
+like for when i went to swish
+
+1908
+01:10:25,040 --> 01:10:27,840
+you saw the screen
+
+1909
+01:10:29,520 --> 01:10:31,199
+all right let me enlarge it so i can get
+
+1910
+01:10:31,199 --> 01:10:33,839
+a better view
+
+1911
+01:10:34,480 --> 01:10:35,920
+this stuff is in here because i hit the
+
+1912
+01:10:35,920 --> 01:10:38,000
+run button you can actually close that
+
+1913
+01:10:38,000 --> 01:10:38,320
+out
+
+1914
+01:10:38,320 --> 01:10:40,560
+there we go yeah but mine shows an empty
+
+1915
+01:10:40,560 --> 01:10:42,719
+one and the left side it says like
+
+1916
+01:10:42,719 --> 01:10:45,840
+program in the right side i
+
+1917
+01:10:45,840 --> 01:10:48,560
+kind of know how it goes but for the
+
+1918
+01:10:48,560 --> 01:10:50,080
+left side
+
+1919
+01:10:50,080 --> 01:10:53,760
+why because um i clicked on
+
+1920
+01:10:53,760 --> 01:10:57,600
+first steps knowledge bases
+
+1921
+01:10:57,760 --> 01:11:00,320
+see where is that located uh right to
+
+1922
+01:11:00,320 --> 01:11:02,840
+the left or says welcome to swish
+
+1923
+01:11:02,840 --> 01:11:04,800
+[Music]
+
+1924
+01:11:04,800 --> 01:11:07,679
+in the examples
+
+1925
+01:11:10,000 --> 01:11:11,600
+up in the left hand corner you'll see
+
+1926
+01:11:11,600 --> 01:11:13,280
+something that says i have my mouse over
+
+1927
+01:11:13,280 --> 01:11:13,760
+right now
+
+1928
+01:11:13,760 --> 01:11:17,040
+it'll say examples and then if you click
+
+1929
+01:11:17,040 --> 01:11:19,199
+on knowledge base
+
+1930
+01:11:19,199 --> 01:11:23,199
+it shows you this knowledge-based stuff
+
+1931
+01:11:24,159 --> 01:11:25,760
+you can actually do this you can take
+
+1932
+01:11:25,760 --> 01:11:27,840
+this oh i see it and copy it
+
+1933
+01:11:27,840 --> 01:11:31,760
+and stick it over here on the bottom
+
+1934
+01:11:32,880 --> 01:11:36,640
+there you go and it's an example of the
+
+1935
+01:11:36,640 --> 01:11:37,920
+vincent loves
+
+1936
+01:11:37,920 --> 01:11:40,719
+mia marcellus pumpkin oh i hit the run
+
+1937
+01:11:40,719 --> 01:11:41,520
+button
+
+1938
+01:11:41,520 --> 01:11:43,840
+oh can't run the query do the syntax
+
+1939
+01:11:43,840 --> 01:11:46,239
+error yeah probably cut and paste here
+
+1940
+01:11:46,239 --> 01:11:52,559
+yeah uh syntax operator expected
+
+1941
+01:11:52,840 --> 01:11:55,440
+instance um
+
+1942
+01:11:55,440 --> 01:11:57,120
+yeah anyway i just i was just playing
+
+1943
+01:11:57,120 --> 01:11:58,560
+around with it
+
+1944
+01:11:58,560 --> 01:12:02,080
+okay okay i'll just try to get familiar
+
+1945
+01:12:02,080 --> 01:12:02,880
+with this too
+
+1946
+01:12:02,880 --> 01:12:04,400
+yeah you're gonna need to play around
+
+1947
+01:12:04,400 --> 01:12:06,080
+with it i would go through some of the
+
+1948
+01:12:06,080 --> 01:12:08,239
+examples example programs
+
+1949
+01:12:08,239 --> 01:12:10,080
+and then the prologue tutorials are
+
+1950
+01:12:10,080 --> 01:12:11,679
+really good
+
+1951
+01:12:11,679 --> 01:12:14,239
+okay i'm using because when i first went
+
+1952
+01:12:14,239 --> 01:12:14,960
+to the
+
+1953
+01:12:14,960 --> 01:12:17,600
+website there was nothing there but now
+
+1954
+01:12:17,600 --> 01:12:18,239
+that
+
+1955
+01:12:18,239 --> 01:12:21,760
+uh you know i see the example click on
+
+1956
+01:12:21,760 --> 01:12:23,920
+some of the examples to see some of the
+
+1957
+01:12:23,920 --> 01:12:24,239
+stuff
+
+1958
+01:12:24,239 --> 01:12:26,800
+i probably clicked on it the last time i
+
+1959
+01:12:26,800 --> 01:12:28,880
+was on the website which is why i saw
+
+1960
+01:12:28,880 --> 01:12:31,120
+stuff
+
+1961
+01:12:32,080 --> 01:12:35,280
+okay yeah play around with it and if you
+
+1962
+01:12:35,280 --> 01:12:36,159
+do have a running
+
+1963
+01:12:36,159 --> 01:12:37,600
+problem like you always do you can
+
+1964
+01:12:37,600 --> 01:12:39,360
+always email me as well
+
+1965
+01:12:39,360 --> 01:12:42,560
+okay thanks okay have a good day you too
+
+1966
+01:12:42,560 --> 01:12:49,360
+all right thank you i'm gonna log off
+
